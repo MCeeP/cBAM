@@ -1,0 +1,9780 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1021
+  9
+$ACADMAINTVER
+ 70
+    25
+  9
+$DWGCODEPAGE
+  3
+UNDEFINED
+  9
+$COMMENTS
+  1
+File was created by Ashlar Vellum
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$EXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$ORTHOMODE
+ 70
+     0
+  9
+$REGENMODE
+ 70
+     1
+  9
+$FILLMODE
+ 70
+     1
+  9
+$QTEXTMODE
+ 70
+     0
+  9
+$MIRRTEXT
+ 70
+     1
+  9
+$LTSCALE
+ 40
+25.4
+  9
+$ATTMODE
+ 70
+     1
+  9
+$TEXTSIZE
+ 40
+0.2
+  9
+$TRACEWID
+ 40
+0.05
+  9
+$TEXTSTYLE
+  7
+Standard
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+   256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+     0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.18
+  9
+$DIMEXO
+ 40
+0.0625
+  9
+$DIMDLI
+ 40
+0.38
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.18
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.18
+  9
+$DIMCEN
+ 40
+0.09
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+     0
+  9
+$DIMLIM
+ 70
+     0
+  9
+$DIMTIH
+ 70
+     1
+  9
+$DIMTOH
+ 70
+     1
+  9
+$DIMSE1
+ 70
+     0
+  9
+$DIMSE2
+ 70
+     0
+  9
+$DIMTAD
+ 70
+     0
+  9
+$DIMZIN
+ 70
+     0
+  9
+$DIMBLK
+  1
+
+  9
+$DIMASO
+ 70
+     1
+  9
+$DIMSHO
+ 70
+     1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+     0
+  9
+$DIMALTD
+ 70
+     2
+  9
+$DIMALTF
+ 40
+25.4
+  9
+$DIMLFAC
+ 40
+1.0
+  9
+$DIMTOFL
+ 70
+     0
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+     0
+  9
+$DIMSOXD
+ 70
+     0
+  9
+$DIMSAH
+ 70
+     0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+Standard
+  9
+$DIMCLRD
+ 70
+     0
+  9
+$DIMCLRE
+ 70
+     0
+  9
+$DIMCLRT
+ 70
+     0
+  9
+$DIMTFAC
+ 40
+1.0
+  9
+$DIMGAP
+ 40
+0.09
+  9
+$DIMJUST
+ 70
+     0
+  9
+$DIMSD1
+ 70
+     0
+  9
+$DIMSD2
+ 70
+     0
+  9
+$DIMTOLJ
+ 70
+     1
+  9
+$DIMTZIN
+ 70
+     0
+  9
+$DIMALTZ
+ 70
+     0
+  9
+$DIMALTTZ
+ 70
+     0
+  9
+$DIMUPT
+ 70
+     0
+  9
+$DIMDEC
+ 70
+     4
+  9
+$DIMTDEC
+ 70
+     4
+  9
+$DIMALTU
+ 70
+     2
+  9
+$DIMALTTD
+ 70
+     2
+  9
+$DIMTXSTY
+  7
+Standard
+  9
+$DIMAUNIT
+ 70
+     0
+  9
+$DIMADEC
+ 70
+     0
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+     0
+  9
+$DIMDSEP
+ 70
+    46
+  9
+$DIMATFIT
+ 70
+     3
+  9
+$DIMFRAC
+ 70
+     0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+     2
+  9
+$DIMLWD
+ 70
+    -2
+  9
+$DIMLWE
+ 70
+    -2
+  9
+$DIMTMOVE
+ 70
+     0
+  9
+$DIMFXL
+ 40
+1.0
+  9
+$DIMFXLON
+ 70
+     0
+  9
+$DIMJOGANG
+ 40
+0.7853981633974483
+  9
+$DIMTFILL
+ 70
+     0
+  9
+$DIMTFILLCLR
+ 70
+     0
+  9
+$DIMARCSYM
+ 70
+     0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$SKETCHINC
+ 40
+0.1
+  9
+$FILLETRAD
+ 40
+0.5
+  9
+$AUNITS
+ 70
+     0
+  9
+$AUPREC
+ 70
+     0
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+     0
+  9
+$CHAMFERA
+ 40
+0.5
+  9
+$CHAMFERB
+ 40
+0.5
+  9
+$CHAMFERC
+ 40
+1.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+     0
+  9
+$TDCREATE
+ 40
+2456364.587581018
+  9
+$TDUCREATE
+ 40
+2456364.587581018
+  9
+$TDUPDATE
+ 40
+2456364.58758103
+  9
+$TDUUPDATE
+ 40
+2456364.58758103
+  9
+$TDINDWG
+ 40
+0.0000000116
+  9
+$TDUSRTIMER
+ 40
+0.0000000116
+  9
+$USRTIMER
+ 70
+     1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+     0
+  9
+$PDMODE
+ 70
+     0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+     0
+  9
+$SPLINETYPE
+ 70
+     6
+  9
+$SPLINESEGS
+ 70
+     8
+  9
+$HANDSEED
+  5
+4A
+  9
+$SURFTAB1
+ 70
+     6
+  9
+$SURFTAB2
+ 70
+     6
+  9
+$SURFTYPE
+ 70
+     6
+  9
+$SURFU
+ 70
+     6
+  9
+$SURFV
+ 70
+     6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+     0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+     0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+     0
+  9
+$USERI2
+ 70
+     0
+  9
+$USERI3
+ 70
+     0
+  9
+$USERI4
+ 70
+     0
+  9
+$USERI5
+ 70
+     0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+     1
+  9
+$SHADEDGE
+ 70
+     3
+  9
+$SHADEDIF
+ 70
+    70
+  9
+$TILEMODE
+ 70
+     1
+  9
+$MAXACTVP
+ 70
+    64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+     0
+  9
+$PEXTMIN
+ 10
+1.000000000000000E+20
+ 20
+1.000000000000000E+20
+ 30
+1.000000000000000E+20
+  9
+$PEXTMAX
+ 10
+-1.000000000000000E+20
+ 20
+-1.000000000000000E+20
+ 30
+-1.000000000000000E+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+12.0
+ 20
+9.0
+  9
+$UNITMODE
+ 70
+     0
+  9
+$VISRETAIN
+ 70
+     1
+  9
+$PLINEGEN
+ 70
+     0
+  9
+$PSLTSCALE
+ 70
+     1
+  9
+$TREEDEPTH
+ 70
+  3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+     0
+  9
+$CMLSCALE
+ 40
+1.0
+  9
+$PROXYGRAPHICS
+ 70
+     1
+  9
+$MEASUREMENT
+ 70
+     0
+  9
+$CELWEIGHT
+370
+    -1
+  9
+$ENDCAPS
+280
+     0
+  9
+$JOINSTYLE
+280
+     0
+  9
+$LWDISPLAY
+290
+     0
+  9
+$INSUNITS
+ 70
+     1
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+     1
+  9
+$CEPSNTYPE
+380
+     0
+  9
+$PSTYLEMODE
+290
+     1
+  9
+$FINGERPRINTGUID
+  2
+{B57EDC8C-42F8-055D-CC5C-056755E778BA}
+  9
+$VERSIONGUID
+  2
+{FAEB1C32-E019-11D5-929B-00C0DF256EC4}
+  9
+$EXTNAMES
+290
+     1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+     0
+  9
+$SORTENTS
+280
+   127
+  9
+$INDEXCTL
+280
+     0
+  9
+$HIDETEXT
+280
+     1
+  9
+$XCLIPFRAME
+290
+     0
+  9
+$HALOGAP
+280
+     0
+  9
+$OBSCOLOR
+ 70
+   257
+  9
+$OBSLTYPE
+280
+     0
+  9
+$INTERSECTIONDISPLAY
+280
+     0
+  9
+$INTERSECTIONCOLOR
+ 70
+   257
+  9
+$DIMASSOC
+280
+     2
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+     0
+  9
+$LENSLENGTH
+ 40
+50.0
+  9
+$CAMERAHEIGHT
+ 40
+0.0
+  9
+$STEPSPERSEC
+ 40
+2.0
+  9
+$STEPSIZE
+ 40
+6.0
+  9
+$3DDWFPREC
+ 40
+2.0
+  9
+$PSOLWIDTH
+ 40
+0.25
+  9
+$PSOLHEIGHT
+ 40
+4.0
+  9
+$LOFTANG1
+ 40
+1.570796326794897
+  9
+$LOFTANG2
+ 40
+1.570796326794897
+  9
+$LOFTMAG1
+ 40
+0.0
+  9
+$LOFTMAG2
+ 40
+0.0
+  9
+$LOFTPARAM
+ 70
+     7
+  9
+$LOFTNORMALS
+280
+     1
+  9
+$LATITUDE
+ 40
+37.795
+  9
+$LONGITUDE
+ 40
+-122.394
+  9
+$NORTHDIRECTION
+ 40
+0.0
+  9
+$TIMEZONE
+ 70
+ -8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+     1
+  9
+$TILEMODELIGHTSYNCH
+280
+     1
+  9
+$SOLIDHIST
+280
+     1
+  9
+$SHOWHIST
+280
+     1
+  9
+$DWFFRAME
+280
+     2
+  9
+$DGNFRAME
+280
+     2
+  9
+$REALWORLDSCALE
+290
+     1
+  9
+$INTERFERECOLOR
+ 62
+   256
+  9
+$CSHADOW
+280
+     0
+  9
+$SHADOWPLANELOCATION
+ 40
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+        0
+ 91
+        4
+280
+     0
+281
+     0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+     4095
+ 91
+        4
+280
+     0
+281
+     0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+VPORT
+  5
+29
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+10.42990654205607
+ 22
+4.5
+ 13
+0.0
+ 23
+0.0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+9.0
+ 41
+1.972972972850329
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     3
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+ 60
+     3
+ 61
+     5
+292
+     1
+282
+     1
+141
+0.0
+142
+0.0
+ 63
+   256
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+    11
+  0
+LTYPE
+  5
+14
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+15
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+     0
+  3
+
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+16
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+     0
+  3
+Solid line
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+3B
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+BORDER
+ 70
+     0
+  3
+__ __ . __ __ . __
+ 72
+    65
+ 73
+     6
+ 40
+0.875
+ 49
+0.25
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+ 49
+0.25
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+  0
+LTYPE
+  5
+3C
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER
+ 70
+     0
+  3
+___ _ ___ _ ___ _ 
+ 72
+    65
+ 73
+     4
+ 40
+1.125
+ 49
+0.75
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+ 49
+0.125
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+  0
+LTYPE
+  5
+3D
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT
+ 70
+     0
+  3
+_._._._._._._._._.
+ 72
+    65
+ 73
+     4
+ 40
+0.5
+ 49
+0.25
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+  0
+LTYPE
+  5
+3E
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED
+ 70
+     0
+  3
+_ _ _ _ _ _ _ _ _ 
+ 72
+    65
+ 73
+     2
+ 40
+0.375
+ 49
+0.25
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+  0
+LTYPE
+  5
+3F
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE
+ 70
+     0
+  3
+__..__..__..__..__
+ 72
+    65
+ 73
+     6
+ 40
+0.625
+ 49
+0.25
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+ 49
+0.0
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+  0
+LTYPE
+  5
+40
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT
+ 70
+     0
+  3
+..................
+ 72
+    65
+ 73
+     2
+ 40
+0.125
+ 49
+0.0
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+  0
+LTYPE
+  5
+41
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+HIDDEN
+ 70
+     0
+  3
+__ __ __ __ __ __ 
+ 72
+    65
+ 73
+     2
+ 40
+0.1875
+ 49
+0.125
+ 74
+     0
+ 49
+-0.0625
+ 74
+     0
+  0
+LTYPE
+  5
+42
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOM
+ 70
+     0
+  3
+___ _ _ ___ _ _ __
+ 72
+    65
+ 73
+     6
+ 40
+1.25
+ 49
+0.625
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+ 49
+0.125
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+ 49
+0.125
+ 74
+     0
+ 49
+-0.125
+ 74
+     0
+  0
+LTYPE
+  5
+43
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CUTTING
+ 70
+     0
+  3
+________ _ _ _____
+ 72
+    65
+ 73
+     6
+ 40
+1.4675
+ 49
+1.0
+ 74
+     0
+ 49
+-0.0725
+ 74
+     0
+ 49
+0.125
+ 74
+     0
+ 49
+-0.0725
+ 74
+     0
+ 49
+0.125
+ 74
+     0
+ 49
+-0.0725
+ 74
+     0
+  0
+LTYPE
+  5
+44
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+STITCH
+ 70
+     0
+  3
+_ _ _ _ _ _ _ _ _ 
+ 72
+    65
+ 73
+     2
+ 40
+0.145
+ 49
+0.0725
+ 74
+     0
+ 49
+-0.0725
+ 74
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+     3
+  0
+LAYER
+  5
+10
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+0
+  0
+LAYER
+  5
+45
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Construction
+ 70
+     0
+ 62
+    -7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+0
+  0
+LAYER
+  5
+46
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Layer1
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+    -3
+390
+F
+347
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+11
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+     0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+0.2
+  3
+txt
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+APPID
+  5
+12
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+A
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+100
+AcDbDimStyleTable
+  0
+DIMSTYLE
+105
+27
+330
+A
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+     0
+340
+11
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+BLOCK_RECORD
+  5
+1F
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+22
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+1B
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+ 70
+     0
+280
+     1
+281
+     0
+  0
+BLOCK_RECORD
+  5
+23
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+340
+26
+ 70
+     0
+280
+     1
+281
+     0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+20
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+21
+330
+1F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+ 67
+     1
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+24
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+25
+330
+23
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+BODY
+  5
+47
+330
+1F
+100
+AcDbEntity
+  8
+Layer1
+ 62
+   173
+420
+  7434694
+370
+    35
+100
+AcDbModelerGeometry
+ 70
+     1
+  1
+koo njlk n o 
+  1
+ll P/:1 [:,681 ^ 336>1<: ^ \VL ]*63;:- nm ^ \VL kqoo QK mk K*: R>- nm nkeoieog monl 
+  1
+mjqlffffffffffffff fqfffffffffffffffj:rooh n:rono 
+  1
+=0;& {rn {n {rn {m |
+  1
+3*2/ {rn {rn {l {o |
+  1
++->1,90-2 {rn n o o o n o o o n o o o mjqlffffffffffffff 10@-0+>+: 10@-:93:<+ 10@,7:>- |
+  1
+,7:33 {rn {rn {rn {k {rn {n |
+  1
+9><: {j {i {h {l {rn {g -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {k nmogkff |
+  1
+9><: {f {no {nn {l {rn {nm 90-(>-; ,6183: |
+  1
+300/ {rn {nl {nk {k |
+  1
+<01:r,*-9><: {rn roqinmmokhoohoglgfmg oqhijhkgofmjogifnkh mqnggolnjjkmmmnoif o rn o oqohghkonjhkgolnkflm o o n V V o n oqohghkonjhkgolnkflm 90-(>-; V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {i nomffl |
+  1
+9><: {nj {ni {nh {l {rn {nm 90-(>-; ,6183: |
+  1
+300/ {rn {rn {ng {i |
+  1
+/3>1:r,*-9><: {rn roqhnlfmkliikglnklgk oqlhmokhlonihnmmhlj mqlgkggnfogkjjfhk rhqkfghfgfnllofmgjl:roll rmqkijnfolmggnjiinf:rolm roqfffffffffffffffgf roqfffffffffffffffgf rmqkijnfolmggnjiinf:rolm rhqkfghfgfnllofmgjl:roll 90-(>-;@) V V V V |
+  1
+300/ {rn {rn {nf {k |
+  1
+<0:;8: {rn {nk {nk {mo {mn -:):-,:; {h {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {no momffl |
+  1
+9><: {mm {ml {mk {l {rn {mj 90-(>-; ,6183: |
+  1
+300/ {rn {rn {mi {no |
+  1
+<0:;8: {rn {mh {mg {mf {lo 90-(>-; {nn {rn |
+  1
+<0:;8: {rn {nf {nf {ln {lm -:):-,:; {nl {rn |
+  1
+<0:;8: {rn {mo {mo {nk {mn 90-(>-; {ll {rn |
+  1
+:;8: {lk {lj {lj {mo {li 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ni moohinf |
+  1
+9><: {lh {lg {lf {l {rn {nm 90-(>-; ,6183: |
+  1
+300/ {rn {rn {ko {ni |
+  1
+/3>1:r,*-9><: {rn roqhhmihkjflnjojolmk oqingnnomhollogohml mqogfioimhofhmoom rmqkijnfolmggnjiimk:rolm n rgqojhokhofmfflffkf:ronh n mqkijnfolmggnjiimk:rolm hqkfghfgfnllofmgih:roll 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {kn {km {kl {kk -:):-,:; {nh {rn |
+  1
+<0:;8: {rn {kj {ng {ki {kh -:):-,:; {nn {rn |
+  1
+<0:;8: {rn {ng {kj {kg {kf -:):-,:; {nn {rn |
+  1
+<0:;8: {rn {jo {jn {ng {lo -:):-,:; {jm {rn |
+  1
+:;8: {jl {jk {jj {mf {ji 90-(>-; |
+  1
+<0:;8: {rn {ln {ln {nf {lm 90-(>-; {jh {rn |
+  1
+:;8: {jg {jf {jf {ln {io 90-(>-; |
+  1
+300/ {rn {in {mo {im |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mn nmogjom |
+  1
+):-+:' {rn {mn {il |
+  1
+:336/,:r<*-): {rn roqinmmokhoohoglgfmg oqlhmokhlojnohnnih mqnggolnjjkmmmnoif o n o oqohghkonjhkgolnkflm o o n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ml mffl |
+  1
+9><: {ik {ij {ii {l {rn {nm 90-(>-; ,6183: |
+  1
+300/ {rn {rn {ih {ml |
+  1
+<0:;8: {rn {ig {if {ho {hn -:):-,:; {mk {rn |
+  1
+<0:;8: {rn {hm {mi {hl {hk -:):-,:; {nh {rn |
+  1
+<0:;8: {rn {mi {hm {hj {hi -:):-,:; {nh {rn |
+  1
+<0:;8: {rn {hh {hg {mi {kk 90-(>-; {hf {rn |
+  1
+:;8: {go {gn {gm {kl {gl 90-(>-; |
+  1
+<0:;8: {rn {mg {mh {gk {gj -:):-,:; {nn {rn |
+  1
+<0:;8: {rn {gi {gh {mh {kh 90-(>-; {gg {rn |
+  1
+:;8: {njk {gf {jj {ki {fo 90-(>-; |
+  1
+<0:;8: {rn {fn {fm {mg {kf 90-(>-; {fl {rn |
+  1
+:;8: {fk {jk {fj {mg {fi 90-(>-; |
+  1
+<0:;8: {rn {fh {mf {fm {fg -:):-,:; {jm {rn |
+  1
+<0:;8: {rn {mf {fh {gi {ff 90-(>-; {jm {rn |
+  1
+300/ {rn {rn {jn {noo |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lo nmoglho |
+  1
+):-+:' {rn {kf {non |
+  1
+):-+:' {rn {ff {nom |
+  1
+,+->687+r<*-): {rn roqknjljklnnkiimnhok oqlhmokhlojnohnnih mqlgkggnfhlmiiioni o n o V V |
+  1
+300/ {rn {nol {ln {nok |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lm nmogjol |
+  1
+):-+:' {rn {lm {noj |
+  1
+:336/,:r<*-): {rn roqinmmokhoohoglgfmg oqhijhkgofmjogifnkh mqnggolnjjkmmmnoif o rn o oqohghkonjhkgolnkflm o o n V V |
+  1
+300/ {rn {noi {noh {im |
+  1
+9><: {nog {rn {ll {l {rn {nof -:):-,:; ,6183: |
+  1
+/061+ {rn roqjllkikjklmmgohklj oqlhmokhlojnohnnih mqnggolnjjkmmmnoif |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lg jomffl |
+  1
+9><: {nno {nnn {nnm {l {rn {nnl 90-(>-; ,6183: |
+  1
+300/ {rn {rn {nnk {lg |
+  1
+<0:;8: {rn {nnj {nni {nnh {nng 90-(>-; {lf {rn |
+  1
+<0:;8: {rn {nnf {ko {nmo {nmn -:):-,:; {mk {rn |
+  1
+<0:;8: {rn {ko {nmm {nml {nmk 90-(>-; {mk {rn |
+  1
+<0:;8: {rn {nmj {nmi {ko {hn 90-(>-; {nmh {rn |
+  1
+:;8: {nmg {nmf {nlo {ho {nln 90-(>-; |
+  1
+<0:;8: {rn {km {kn {nlm {nll -:):-,:; {nh {rn |
+  1
+<0:;8: {rn {nlk {nlj {kn {hk 90-(>-; {fl {rn |
+  1
+:;8: {mmo {nli {gn {kn {fi 90-(>-; |
+  1
+<0:;8: {rn {nlh {nlg {km {hi 90-(>-; {gg {rn |
+  1
+:;8: {mmk {gm {nlf {hj {fo 90-(>-; |
+  1
+<0:;8: {rn {nko {kl {nlg {nkn 90-(>-; {hf {rn |
+  1
+<0:;8: {rn {kl {nko {nlk {nkm -:):-,:; {hf {rn |
+  1
+300/ {rn {rn {hh {nkl |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kk nmoglig |
+  1
+):-+:' {rn {nkm {nkk |
+  1
+):-+:' {rn {nkn {nkj |
+  1
+,+->687+r<*-): {rn roqgofojjogffjojinjm oqlhmokhlojnohnnih mqlgkggnfhlmiiioni o n o V V |
+  1
+<0:;8: {rn {nki {nkh {kj {gj 90-(>-; {nkg {rn |
+  1
+:;8: {mko {fj {gf {gk {nkf 90-(>-; |
+  1
+<0:;8: {rn {njo {ki {jn {ff -:):-,:; {gg {rn |
+  1
+<0:;8: {rn {ki {njn {nki {njm 90-(>-; {gg {rn |
+  1
+300/ {rn {rn {nlg {njl |
+  1
+):-+:' {rn {gj {njj |
+  1
+,+->687+r<*-): {rn roqhnlfmkliikglnklgk oqjnfigjnmoknlmokmj mqlgkggnfogkjjfhk roqfffffffffffffffnn rmqkijnfolmggnjiiom:rolm rhqkfghfgfnllofmhfg:roll V V |
+  1
+<0:;8: {rn {nji {kg {nkh {njh -:):-,:; {fl {rn |
+  1
+<0:;8: {rn {kg {njg {jo {fg 90-(>-; {fl {rn |
+  1
+300/ {rn {rn {fm {im |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kf loon |
+  1
+):-+:' {rn {gj {njf |
+  1
+,+->687+r<*-): {rn rmqkgjjhhglfgiolhoh oqlhmokhlonihnmmhhf mqlgkggnfogkjjfhkj oqfffffffffffffffnn mqkijnfolmggnjiiom:rolm hqkfghfgfnllofmhfg:roll V V |
+  1
+<0:;8: {rn {jn {jo {nio {nin 90-(>-; {jm {rn |
+  1
+:;8: {nim {nil {jk {jo {nik 90-(>-; |
+  1
+:;8: {nij {nii {jj {jn {nih 90-(>-; |
+  1
+9><: {nig {nkl {jm {l {rn {nif 90-(>-; ,6183: |
+  1
+/061+ {rn roqknjljklnnkiimnhok oqlhmokhlojnohnnih mqlgkggnfhlmiiioni |
+  1
+/061+ {rn roqknjljklnnkiimnhok oqjnfigjnmoknlmokmj mqlgkggnfogkjjfhk |
+  1
+300/ {rn {nho {nhn {nok |
+  1
+9><: {nhm {im {jh {l {rn {nhl 90-(>-; ,6183: |
+  1
+/061+ {rn roqjllkikjklmmgohklj oqhijhkgofmjogifnkh mqnggolnjjkmmmnoif |
+  1
+300/ {rn {fl {nhk {im |
+  1
+<0:;8: {rn {noh {noh {nhj {nhi 90-(>-; {in {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {im nmoglii |
+  1
+/3>1:r,*-9><: {rn roqinmmokhoohoglgfmg oqlhmokhlojnohnnih mqnggolnjjkmmmnoif o n o o o n 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ij gmo |
+  1
+9><: {nhh {nhg {nhf {l {rn {ngo 90-(>-; ,6183: |
+  1
+300/ {rn {ngn {ngm {ij |
+  3
+<01:r,*-9><: {rn rnqlffioilnklfgjkk oqjiggfhifjlhmonjmf oqlflhoohiminojhkng roqioooooonflhgiinff rmqkkfmflfmkiofflnn:ronh oqhffffffgjkiioolmi roqlflhoohgomkfonhmg riqimfkgjjfinohifhn:ronh roqmfjmhjioooghfmknk n V V o n oqkfmnmjfgkmjnfigjm 90-(>-; V V V V 
+  1
+|
+  1
+<0:;8: {rn {nml {ngl {nmj {ngk -:):-,:; {ii {rn |
+  1
+<0:;8: {rn {ngj {ih {ngi {ngh 90-(>-; {lf {rn |
+  1
+<0:;8: {rn {ih {ngj {ngg {ngf -:):-,:; {lf {rn |
+  1
+<0:;8: {rn {nfo {nfn {ih {nng -:):-,:; {nfm {rn |
+  1
+:;8: {nfl {nfk {nfj {nnh {ji 90-(>-; |
+  1
+<0:;8: {rn {ngg {ig {nfo {nfi -:):-,:; {mk {rn |
+  1
+<0:;8: {rn {nfh {nfg {ig {nmn 90-(>-; {nff {rn |
+  1
+:;8: {moo {mon {nmf {nmo {mom 90-(>-; |
+  1
+<0:;8: {rn {if {mol {mok {moj 90-(>-; {mk {rn |
+  1
+<0:;8: {rn {moi {nnk {if {nmk -:):-,:; {ii {rn |
+  1
+:;8: {lnj {moh {nlo {if {mog 90-(>-; |
+  1
+<0:;8: {rn {mof {ho {nnk {ngk 90-(>-; {nmh {rn |
+  1
+<0:;8: {rn {ho {mof {nfh {mno -:):-,:; {nmh {rn |
+  1
+300/ {rn {rn {ho {mnn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hn nmoglhf |
+  1
+):-+:' {rn {mno {mnm |
+  1
+):-+:' {rn {ngk {mnl |
+  1
+,+->687+r<*-): {rn roqgofojjogffjojinjm oqingnnomhollogohml mqnlggngfnmjfhojkj o gqojhokhofmfflffkf:ronh n V V |
+  1
+<0:;8: {rn {mnk {mnj {hm {nll 90-(>-; {mni {rn |
+  1
+:;8: {lmk {nlf {nli {nlm {mnh 90-(>-; |
+  1
+<0:;8: {rn {njg {hl {hg {nkm 90-(>-; {fl {rn |
+  1
+<0:;8: {rn {hl {mng {mnk {mnf -:):-,:; {fl {rn |
+  1
+):-+:' {rn {nll {mmn |
+  1
+<0:;8: {rn {mmm {hj {mnj {mml 90-(>-; {gg {rn |
+  1
+<0:;8: {rn {hj {njo {hh {nkn -:):-,:; {gg {rn |
+  1
+):-+:' {rn {nll {mmj |
+  1
+<0:;8: {rn {hg {hh {mmi {mmh -:):-,:; {hf {rn |
+  1
+:;8: {mmg {gm {mmf {hh {mlo 90-(>-; |
+  1
+:;8: {mln {gn {mlm {hg {mll 90-(>-; |
+  1
+9><: {mlk {nok {hf {l {rn {mlj 90-(>-; ,6183: |
+  1
+/061+ {rn roqgofojjogffjojinjm oqlhmokhlojnohnnih mqlgkggnfhlmiiioni |
+  1
+/061+ {rn roqgofojjogffjojinjm oqjnfigjnmoknlmokmj mqlgkggnfogkjjfhk |
+  1
+<0:;8: {rn {mli {gk {gh {njm -:):-,:; {nkg {rn |
+  1
+<0:;8: {rn {gk {mlh {fn {njh 90-(>-; {nkg {rn |
+  1
+300/ {rn {mlg {nki {mlf |
+  1
+:336/,:r<*-): {rn nqiigjgmhlkmgifffk oqjiggfhifjlhmonjhl mqlgkggnfogkjjfhk jqflihhnklklkfgmii:ronh rnqhlgnkjjnjlgnoiig:rolm rn oqfljolflghoiioikkf nqnkjofmffmkkhnjfn:roni jqjjnnnjnmlnmjhgmn:ronh oqhffffffgjkiioolnj V V |
+  1
+<0:;8: {rn {nlg {gi {mkn {mkm -:):-,:; {gg {rn |
+  1
+<0:;8: {rn {gh {mkl {mkk {mkj 90-(>-; {gg {rn |
+  1
+:;8: {ljh {mki {gf {gh {mkh 90-(>-; |
+  1
+9><: {mkg {mkf {gg {l {rn {mjo 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kh loih |
+  1
+/061+ {rn oqhljjifogkommmlnln oqjnfigjnmoknlmokif mqlgkggnfogkjjfhk |
+  1
+<0:;8: {rn {mjn {fn {mjm {mjl -:):-,:; {fl {rn |
+  1
+:;8: {lho {mjk {fj {nkh {mjj 90-(>-; |
+  1
+<0:;8: {rn {fm {nlk {mji {mjh 90-(>-; {fl {rn |
+  1
+/061+ {rn oqhiijoogggngmhnjnn oqlhmokhlonihnmmhhf mqlgkggnfogkjjfhk |
+  1
+<0:;8: {rn {mji {mkn {fh {nin -:):-,:; {mjg {rn |
+  1
+:;8: {mjf {nil {nii {fh {mio 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fg nmoglhg |
+  1
+):-+:' {rn {mjh {min |
+  1
+,+->687+r<*-): {rn roqknjljklnnkiimnhok oqlhmokhlojnohnnih nqffnngnnljnhhinml o o n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ff nmoglgl |
+  1
+):-+:' {rn {ff {mim |
+  1
+,+->687+r<*-): {rn roqknjljklnnkiimnhok oqjnfigjnmoknlmokif mqnlggngfnmjfhojkj o gqojhokhofmfflffkf:ronh n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {noo nhoglik |
+  1
+/3>1:r,*-9><: {rn roqknjljklnnkiimnhok oqlhmokhlojnohnnih mqnggolnjjkmmmnoif n o o o o rn 90-(>-;@) V V V V |
+  1
+300/ {rn {mil {mik {nok |
+  1
+<0:;8: {rn {nhn {nhn {mij {mii 90-(>-; {nol {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nok nmoglij |
+  1
+/3>1:r,*-9><: {rn roqinmmokhoohoglgfmg oqhijhkgofmjogifnkh mqnggolnjjkmmmnoif o n o o o n 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {nhk {nhk {mih {mig 90-(>-; {noi {rn |
+  1
+<0:;8: {rn {nhj {nhj {noh {nhi -:):-,:; {mif {rn |
+  1
+:;8: {lgl {mho {mho {noh {mhn 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnn hiff |
+  1
+9><: {mhm {mhl {mhk {l {rn {mhj 90-(>-; ,6183: |
+  1
+300/ {rn {rn {mhi {nnn |
+  1
++0-*,r,*-9><: {rn rnqkjgiinklkkninmgi oqjiggfhifjlhmonjmf oqkhmkkofngiiolhhl oqioooooonflhgiingg mqkkfmflfmkiofflmi:ronh roqhffffffgjkiioolok oqjfojjnngnnomlimnj roqofgkmjnfigjolflhoi roqhffffffgjkiioolok o roqioooooonflhgiingg 90-(>-;@) V V V V |
+  1
+300/ {rn {mhh {mhg {ij |
+  1
+<0:;8: {rn {mhf {mgo {mgn {mgm 90-(>-; {nnm {rn |
+  1
+<0:;8: {rn {nnk {moi {mgl {mgk 90-(>-; {ii {rn |
+  1
+:;8: {mgj {nlo {mgi {nmj {gl 90-(>-; |
+  1
+<0:;8: {rn {nni {nnj {mgh {mgg -:):-,:; {lf {rn |
+  1
+<0:;8: {rn {mgf {mfo {nnj {ngh -:):-,:; {mil {rn |
+  1
+:;8: {mfn {nfj {mfm {nnj {mfl 90-(>-; |
+  1
+<0:;8: {rn {mfk {nnf {nni {ngf 90-(>-; {mk {rn |
+  1
+:;8: {mfj {nfk {mfi {ngg {mog 90-(>-; |
+  1
+<0:;8: {rn {mfh {nnh {nnf {nfi 90-(>-; {nfm {rn |
+  1
+<0:;8: {rn {nnh {mfh {mgf {mfg 90-(>-; {nfm {rn |
+  1
+300/ {rn {rn {nfo {mff |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nng nloglho |
+  1
+):-+:' {rn {nng {loo |
+  1
+):-+:' {rn {nng {lon |
+  1
+:;8: {lom {nfk {mon {nfo {lol 90-(>-; |
+  1
+<0:;8: {rn {lok {nmo {nmi {mno 90-(>-; {nff {rn |
+  1
+<0:;8: {rn {nmo {lok {mfh {loj -:):-,:; {nff {rn |
+  1
+300/ {rn {rn {nmo {mkf |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmn nmoglgo |
+  1
+):-+:' {rn {loj {loi |
+  1
+,+->687+r<*-): {rn roqifmklfikifmfkkimi oqingnnomhollogohml nqffnngnnljnhhinml rn rmqkijnfolmggnjiimk:rolm o V V |
+  1
+<0:;8: {rn {nmm {loh {log {lof 90-(>-; {mk {rn |
+  1
+<0:;8: {rn {lno {lnn {nmm {moj -:):-,:; {mni {rn |
+  1
+:;8: {klm {lnm {moh {nmm {lnl 90-(>-; |
+  1
+<0:;8: {rn {ngl {nml {lnn {lnk -:):-,:; {ii {rn |
+  1
+):-+:' {rn {lnk {lni |
+  1
+,+->687+r<*-): {rn roqhnlfmkliikglnklgk oqingnnomhollogoihf mqlgkggnfogkjjfhk oqfffffffffffffffnn mqkijnfolmggnjiiom:rolm hqkfghfgfnllofmhfg:roll V V |
+  1
+<0:;8: {rn {nmi {nmj {lnh {lng 90-(>-; {nmh {rn |
+  1
+:;8: {lnf {nmf {lmo {nfh {lmn 90-(>-; |
+  1
+9><: {lmm {mff {nmh {l {rn {mlj 90-(>-; ,6183: |
+  1
+/061+ {rn roqgofojjogffjojinjm oqingnnomhollogohml nqffnngnnljnhhinml |
+  1
+/061+ {rn roqgofojjogffjojinjm oqingnnomhollogoihf mqlgkggnfogkjjfhk |
+  1
+<0:;8: {rn {lml {nlm {nlj {mnf 90-(>-; {mni {rn |
+  1
+<0:;8: {rn {nlm {lno {nlh {mml -:):-,:; {mni {rn |
+  1
+300/ {rn {rn {mnj {ij |
+  1
+:336/,:r<*-): {rn rmqgfmffmmkfnkihoff oqjiggfhifjlhmonjmf mqlgkggnfogkjjfhk nqgokhhgjniokmlkhg:roni rmqjkfhkofjfhkkfoi:roll rn roqinjnjhkfnkfoglnhi rhqjlljoijmfmjhimkm:ronh rnqnnommlomkimjnjij:roni oqhffffffgjkiioolnj V V |
+  1
+<0:;8: {rn {nlj {lmj {lmi {lmh -:):-,:; {fl {rn |
+  1
+:;8: {kkg {nli {lmg {mnk {lmf 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hk loloon |
+  1
+/061+ {rn rmqlmfnfnofjllnjlng oqlhmokhlonihnmmhhf mqlgkggnfogkjjfhkj |
+  1
+<0:;8: {rn {llo {nlh {mhi {lln 90-(>-; {gg {rn |
+  1
+:;8: {kjl {nlf {llm {nlh {lll 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hi moloih |
+  1
+/061+ {rn rmqmgofngmholmlmlkh oqjnfigjnmoknlmokmj mqlgkggnfogkjjfhkj |
+  1
+<0:;8: {rn {mkn {mji {nko {mmh 90-(>-; {mjg {rn |
+  1
+:;8: {llk {mlm {mmf {mmi {lmn 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkn nmoglgm |
+  1
+):-+:' {rn {mkm {llj |
+  1
+,+->687+r<*-): {rn roqgofojjogffjojinjm oqjnfigjnmoknlmokif mqnlggngfnmjfhojkj o rgqojhokhofmfflffkf:ronh rn V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkm nmoglhl |
+  1
+):-+:' {rn {nkm {lli |
+  1
+,+->687+r<*-): {rn roqgofojjogffjojinjm oqlhmokhlojnohnnih mqlgkggnfhlmiiioni o o rn V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkl nioglim |
+  1
+/3>1:r,*-9><: {rn roqgofojjogffjojinjm oqlhmokhlojnohnnih mqnggolnjjkmmmnoif rn o o o o n 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {llh {nki {llg {llf -:):-,:; {nkg {rn |
+  1
+<0:;8: {rn {nkh {lko {lkn {lkm -:):-,:; {nkg {rn |
+  1
+300/ {rn {lkl {lkk {mlf |
+  1
+9><: {lkj {lki {nkg {l {rn {lkh 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gj iikk |
+  1
+<0:;8: {rn {nio {mmi {njo {mkm 90-(>-; {mjg {rn |
+  1
+:;8: {lkg {mmf {nii {mkn {lkf 90-(>-; |
+  1
+<0:;8: {rn {njn {ljo {ljn {ljm 90-(>-; {gg {rn |
+  1
+<0:;8: {rn {ljl {llg {njn {mkj -:):-,:; {ljk {rn |
+  1
+:;8: {khh {ljj {mki {njn {lji 90-(>-; |
+  1
+):-+:' {rn {mkj {ljg |
+  1
+,+->687+r<*-): {rn oqomjlnmmjgkmloihglj oqjnfigjnmoknlmokif nqklhghmgjjkkgnjj oqioooooonflhgiinhi nqmmkikignlfhfgil:roni oqhffffffgjkiioolok V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {njl nfohinh |
+  1
+9><: {ljf {lio {nff {l {rn {lin 90-(>-; ,6183: |
+  1
+/3>1:r,*-9><: {rn roqhhmihkjflnjojoojg oqjnfigjnmoknlmokif mqogfioimhofhmoom mqkijnfolmggnjiimk:rolm rn gqojhokhofmfflffkf:ronh rn rmqkijnfolmggnjiimk:rolm rhqkfghfgfnllofmgih:roll 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {lim {nji {lil {lik 90-(>-; {fl {rn |
+  1
+<0:;8: {rn {lkn {lij {nji {mjl 90-(>-; {lii {lih |
+  1
+:;8: {kfm {lig {mjk {mjm {lif 90-(>-; |
+  1
+):-+:' {rn {njh {lhn |
+  1
+,+->687+r<*-): {rn oqmlghfgffkfmjojjl oqlhmokhlonihnmmhhf nqignmhfknfinffnjm roqioooooonflhgiinkl rnqmmkikignlfhfgiml:roni roqhffffffgjkiioomkg V V |
+  1
+<0:;8: {rn {mmi {nio {njg {mjh -:):-,:; {mjg {rn |
+  1
+:;8: {lhm {mlm {nil {mji {lhl 90-(>-; |
+  1
+300/ {rn {rn {mkn {lio |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nin mooglhj |
+  1
+,+->687+r<*-): {rn roqknjljklnnkiimnhok oqlhmokhlojnohnnih nqffnngnnljnhhinml o n o V V |
+  1
+/061+ {rn roqknjljklnnkiimnhok oqlhmokhlojnohnnih nqffnngnnljnhhinml |
+  1
+/061+ {rn roqknjljklnnkiimnhok oqjnfigjnmoknlmokif nqffnngnnljnhhinml |
+  1
+300/ {rn {rn {mgf {nok |
+  1
+<0:;8: {rn {mik {mik {lhk {lhj 90-(>-; {nho {rn |
+  1
+<0:;8: {rn {mij {mij {nhn {mii -:):-,:; {lhi {rn |
+  1
+:;8: {kfi {lhh {lhh {nhn {lhg 90-(>-; |
+  1
+<0:;8: {rn {mih {mih {nhk {mig -:):-,:; {lhf {rn |
+  1
+:;8: {kfg {lgo {lgo {nhk {lgn 90-(>-; |
+  1
+300/ {rn {rn {nhj {lgm |
+  1
+):-+:' {rn {nhi {lgk |
+  1
+:336/,:r<*-): {rn rnqlffioilnklfgjkk oqlhmokhlonihnmmiom mqigonjhkhhkngohnm o n o oqohghkonjhkgolnkgim o o n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nhg nooooi |
+  1
+9><: {lgj {lgi {lgh {l {rn {lgg 90-(>-; ,6183: |
+  1
+300/ {rn {rn {lgf {nhg |
+  1
+/3>1:r,*-9><: {rn rnqlffioilnklfgjklj roqknjljkmhlnlnfmnhj oqlflhoohiminojhkng roqioooooonflhgiingg rmqkkfmflfmkiofflmi:ronh oqhffffffgjkiioolok oqhffffffgjkiioolok nqlkhnnnkhlnmfoglf:roni oqioooooonflhgiingg 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {lfo {lfn {mmm {lln -:):-,:; {nhf {rn |
+  1
+300/ {rn {mni {lfm {ij |
+  1
+<0:;8: {rn {lfl {lfk {lfj {lfi 90-(>-; {ngn {rn |
+  1
+<0:;8: {rn {lfh {ngm {lfg {lff 90-(>-; {nnm {rn |
+  1
+<0:;8: {rn {ngm {lfh {koo {kon 90-(>-; {nnm {rn |
+  1
+<0:;8: {rn {kom {kol {ngm {mgm -:):-,:; {kok {rn |
+  1
+:;8: {jko {koj {koi {ngm {koh 90-(>-; |
+  1
+<0:;8: {rn {kog {lnh {ngl {mgk -:):-,:; {mil {rn |
+  1
+:;8: {jkj {kof {mgi {ngl {mfl 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ngk nioglig |
+  1
+):-+:' {rn {ngk {kno |
+  1
+<0:;8: {rn {lko {llh {ngj {mgg 90-(>-; {nkg {rn |
+  1
+:;8: {jkh {mfi {mfm {mgh {knn 90-(>-; |
+  1
+<0:;8: {rn {knm {ngi {nfn {mfg -:):-,:; {mil {rn |
+  1
+<0:;8: {rn {ngi {knl {lko {knk -:):-,:; {mil {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ngh mfff |
+  1
+):-+:' {rn {knk {knj |
+  1
+,+->687+r<*-): {rn rmqkgjjhhglfgiolhoh oqhijhkgogfohmgomlk mqlgkggnfogkjjfhkj oqfffffffffffffffnn mqkijnfolmggnjiiom:rolm hqkfghfgfnllofmhfg:roll V V |
+  1
+<0:;8: {rn {kni {ngg {llh {knh 90-(>-; {mk {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ngf loii |
+  1
+):-+:' {rn {mgg {kng |
+  1
+<0:;8: {rn {nfn {nfo {nfg {loj 90-(>-; {nfm {rn |
+  1
+:;8: {knf {kmo {nfj {nfn {kmn 90-(>-; |
+  1
+9><: {kmm {noo {nfm {l {rn {nif 90-(>-; ,6183: |
+  1
+/061+ {rn roqknjljklnnkiimnhok oqingnnomhollogoihf mqlgkggnfogkjjfhk |
+  1
+/061+ {rn roqknjljklnnkiimnhok oqhijhkgofmjogifnkh mqlgkggnfhlmiiioni |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nfi nmoglgn |
+  1
+,+->687+r<*-): {rn roqknjljklnnkiimnhok oqingnnomhollogohml mqnlggngfnmjfhojkj o rgqojhokhofmfflffkf:ronh rn V V |
+  1
+<0:;8: {rn {nfg {nfh {knm {kml 90-(>-; {nff {rn |
+  1
+:;8: {kmk {mon {kmo {mfh {mio 90-(>-; |
+  1
+/061+ {rn roqknjljklnnkiimnhok oqingnnomhollogohml nqffnngnnljnhhinml |
+  1
+<0:;8: {rn {mol {kmj {kmi {kmh 90-(>-; {mk {rn |
+  1
+<0:;8: {rn {lfn {lfo {mol {lof -:):-,:; {nhf {rn |
+  1
+:;8: {jin {kmg {lnm {mol {kmf 90-(>-; |
+  1
+<0:;8: {rn {mnj {mok {lfo {klo -:):-,:; {mni {rn |
+  1
+<0:;8: {rn {mok {kln {moi {lnk 90-(>-; {mni {rn |
+  1
+):-+:' {rn {lof {kll |
+  1
+,+->687+r<*-): {rn rnqjkfhkmifjjkkighk oqingnnomhollogohml nqkoffgnnfnmglmojf roqioooooonflhgiinhi rmqkkfmflfmkiofflnh:ronh oqhffffffgjkiioolok V V |
+  1
+:;8: {jik {kof {moh {lnn {klk 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmk joloii |
+  1
+/061+ {rn rmqmgofngmholmlmlm oqingnnomhollogohml mqlgkggnfogkjjfhkj |
+  1
+<0:;8: {rn {mgl {knm {mof {lng -:):-,:; {mil {rn |
+  1
+:;8: {klj {mgi {lmo {mof {kli 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mno nmoglhm |
+  1
+):-+:' {rn {mno {klh |
+  1
+,+->687+r<*-): {rn roqgofojjogffjojinjm oqlhmokhlojnohnnih nqffnngnnljnhhinml o n o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mnn nmoglim |
+  1
+<0:;8: {rn {kln {mnk {klg {klf -:):-,:; {mni {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nll iikl |
+  1
+<0:;8: {rn {mng {kko {kkn {kkm 90-(>-; {fl {rn |
+  1
+<0:;8: {rn {kkl {klg {mng {lmh 90-(>-; {kkk {kkj |
+  1
+:;8: {jgo {lmg {kki {lmi {kkh 90-(>-; |
+  1
+):-+:' {rn {mnf {kkf |
+  1
+,+->687+r<*-): {rn rnqhhnhfhlllfghflgf oqlhmokhlonihnmmhlj nqiknifomiknifggnm roqioooooonflhgiinkl rmqkkfmflfmkiofflnn:ronh oqhffffffgjkiioomkg V V |
+  1
+<0:;8: {rn {ljo {mmm {lgf {kjo 90-(>-; {gg {rn |
+  1
+:;8: {jgk {llm {kjn {mmm {kjm 90-(>-; |
+  1
+):-+:' {rn {lln {kjk |
+  1
+,+->687+r<*-): {rn rnqjkfhkmifjjkkiggh oqjnfigjnmoknlmokif nqkoffgnnfnmglmokj oqioooooonflhgiinhi mqkkfmflfmkiofflnh:ronh roqhffffffgjkiioolok V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mmh nfoglhm |
+  1
+/061+ {rn roqgofojjogffjojinjm oqjnfigjnmoknlmokif nqffnngnnljnhhinml |
+  1
+/061+ {rn roqgofojjogffjojinjm oqlhmokhlojnohnnih nqffnngnnljnhhinml |
+  1
+<0:;8: {rn {mgh {mli {mfk {knh -:):-,:; {nkg {rn |
+  1
+<0:;8: {rn {mkk {kjj {mli {llf 90-(>-; {ljk {rn |
+  1
+:;8: {jgi {kji {mki {mli {kjh 90-(>-; |
+  1
+<0:;8: {rn {mlh {mgh {mfo {knk 90-(>-; {nkg {rn |
+  1
+<0:;8: {rn {kjg {mjm {mlh {lkm 90-(>-; {lii {kjf |
+  1
+:;8: {jgf {mjk {kio {mlh {kin 90-(>-; |
+  1
+300/ {rn {rn {kim {mlf |
+  1
+<0:;8: {rn {lkk {lkk {kil {kik 90-(>-; {mlg {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mlf moih |
+  1
+9><: {kij {lgm {kii {l {rn {kih -:):-,:; ,6183: |
+  1
+<01:r,*-9><: {rn oqnhjnfihffjlggllfk oqjiggfhifjlhmonjmf oqlflhoohiminojhkng oqioooooonflhgiingg nqmmkikignlfhfgill:roni oqhffffffgjkiioolok oqjfgkmjngjfhgjoimj kqjgolhniikihnokhl:ronh roqkkggngfnmnllikkhm n V V o n oqhkgolnkfioimffmnl 90-(>-; V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mkm nmoglgk |
+  1
+,+->687+r<*-): {rn roqifmklfikifmfkkkfl oqjnfigjnmoknlmokif nqffnngnnljnhhinml n mqkijnfolmggnjiimk:rolm o V V |
+  1
+<0:;8: {rn {mkl {llo {kig {kif 90-(>-; {gg {rn |
+  1
+<0:;8: {rn {kho {khn {mkl {ljm -:):-,:; {khm {rn |
+  1
+:;8: {ioi {khl {ljj {mkl {khk 90-(>-; |
+  1
+<0:;8: {rn {kjj {mkk {khn {khj 90-(>-; {ljk {rn |
+  1
+300/ {rn {rn {mkk {khi |
+  1
+):-+:' {rn {ljm {khg |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 h 
+  1
+ oqnofljhmfloljmlfll l oqnkjghikioikohkolf m oqngmkomjnimniljgik m oqmngfomkknnijjooon m oqmjjlionnlgnfkjlhl m 
+  1
+ oqmfnhhhijkihhogimm m oqlmgnfjnfjjlkhnfij l 
+  1
+ roqjmijmnmhojmkmhnmm oqjnfigjnmoknlmokif oqfmflijgkflmjlogl 
+  1
+ roqjmolnjfklifohfngm oqjnfigjnmoknlmokif oqfnggflnioijnohgfi 
+  1
+ roqjnojinjkoloihoghj oqjnfigjnmoknlmokif oqfogonfjklkkffiklg 
+  1
+ roqkfnogmgnkkhgfjil oqjnfigjnmoknlmokif oqgflknokfglknfon 
+  1
+ roqkhhfnomfmhofomgng oqjnfigjnmoknlmokif oqgghogffihihojffll 
+  1
+ roqkjkllmmiglinnfmhg oqjnfigjnmoknlmokif oqggnolflfinklnjkfi 
+  1
+ roqklfhjkkhhjhohgjlk oqjnfigjnmoknlmokif oqggomlkfkijflkiinl 
+  1
+ roqknjihhjlfhnlnjjnl oqjnfigjnmoknlmokif oqgglijfojkmkoinjik 
+  1
+ roqkonfnhnggnmflnkgh oqjnfigjnmoknlmokif oqgggkghffohmmmgnmk 
+  1
+ roqlgnoofnhionkfll oqjnfigjnmoknlmokif oqfoogjjomjhfgkhghi 
+  1
+ roqlhoniolollmlnllff oqjnfigjnmoknlmokif oqfnojhinlloillgffn 
+  1
+ roqljjjflmgijofjfgjk oqjnfigjnmoknlmokif oqfmfffggmnnihflmjl 
+  1
+ roqlkfmfghohmjmjjmnf oqjnfigjnmoknlmokif oqfklnljikgignmglhk 
+  1
+ roqlkimfnlogiokhglgj oqjnfigjnmoknlmokif oqfjkgfilffnknkjinf 
+  1
+ oqooomnfhnjlfklnojflon 
+  1
+ +0-*, oqmlkmjnfnfjjikngjj oqjiggfhifjlhmonjmf oqkhmkkofngiiolhhil oqioooooonflhgiinff nqmmkikignlfhfgilj:roni oqhffffffgjkiioolmi oqgkikjiifmfnllgjgg roqofgkmjnfigjolflhoi oqhffffffgjkiioolmi o roqioooooonflhgiinff 90-(>-;@) V V V V 
+  1
+ /3>1: roqhhmihkjflnjojoojg oqjnfigjnmoknlmokif mqogfioimhofhmoom mqkijnfolmggnjiimk:rolm rn gqojhokhofmfflffkf:ronh rn rmqkijnfolmggnjiimk:rolm rhqkfghfgfnllofmgih:roll 90-(>-;@) V V V V 
+  1
+ 1*33=, 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {njm iikg |
+  1
+/061+ {rn roqlimghihfkfniliikf oqjnfigjnmoknlmokif oqfmomghkhhnnjiiohm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mkf nmoglil |
+  1
+9><: {khf {mnn {mjg {l {rn {lin 90-(>-; ,6183: |
+  1
+/3>1:r,*-9><: {rn roqinmmokhoohoglgfmg oqlhmokhlojnohnnih nqffnngnnljnhhinml o o rn rn o o 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {kgo {mjn {kgn {kgm 90-(>-; {fl {rn |
+  1
+<0:;8: {rn {kgl {kgk {mjn {lik -:):-,:; {kgj {rn |
+  1
+:;8: {iml {lig {kgi {lil {kgh 90-(>-; |
+  1
+<0:;8: {rn {mjm {kjg {kgl {kgg 90-(>-; {lii {kgf |
+  1
+300/ {rn {rn {kjg {kfo |
+  1
+/<*-): {rn n {kfn o o |
+  1
+):-+:' {rn {lik {kfl |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 k 
+  1
+ o l oqoknfhjmniinhinggim m oqoifgjmmoflhinmnhff m oqofhjnlmjnjmgkiflkh l 
+  1
+ oqhghnjfmhfoiiinokl oqlhmokhlonihnmmiom mqkgllohojglhljhii 
+  1
+ oqgonnjnonhflfnjonn oqlhmokhlonihnmmiom mqkgllohojglhljhii 
+  1
+ oqgnjokkfjikolfkjol oqlhmokhloniiknmfol mqkgiokjgfjlgnknki 
+  1
+ oqglijhmkjlfhkihkgl oqlhmokhloniiknmfol mqkfkfomlhmofhofik 
+  1
+ oqgkkihkjfkmmkghghg oqlhmokhlonihohknfi mqkffjkfngkfnomjji 
+  1
+ oqgjflkfiioijjlnfkg oqlhmokhlonihohknfi mqjnogmoogifijiohk 
+  1
+ oqgijggolgliooihfkl oqlhmokhlonihnmmiki mqjnhlghgfjijfikmh 
+  1
+ oqghnkogkiomlgfogj oqlhmokhlonihnmmiki mqjmkhjgiiknlgikh 
+  1
+ hqkhioiifgnhgkhkmg:roog 
+  3
+ ,/361: 90-(>-; $ -==31,*- nn =3:1;,*/,*- <01: oqnhjnfihffjlggllfk oqjiggfhifjlhmonjmf oqlflhoohiminojhkng oqioooooonflhgiingg nqmmkikignlfhfgill:roni oqhffffffgjkiioolok oqjfgkmjngjfhgjoimj kqjgolhniikihnokhl:ronh roqkkggngfnmnllikkhm n V V o n oqhkgolnk
+  1
+fioimffmnl 90-(>-; V V V V 1*33@<*-): 1*33=, mqkonjhkfognnnioji mqijmooifgolmnnmgk oqmfgmihhhijmgkglg 
+  3
+  nn =3:1;,*/,*- /3>1: roqhnlfmkliikglnklgk oqjiggfhifjlhmoojjm mqkgllohojglhljhii o iqnmlmllffjhlihihl:ronh oqfffffffffffffffgf rkqflolgoijhilnlmlg:rolm rn iqnmlmllffjhlihinn:ronh 90-(>-;@) V V V V 1*33@<*-): 1*33=, mqkonjhkfognnnioji mqijmooifgolmnnmgk 
+  1
+oqmfgmihhhijmgkglg 
+  1
+  :336/,: nqgnimmojongnljhjj oqjiggfhifjlhmonjhl mqjgnhlmmjjmmlfifh rhqkfghfgfnllofmfkf:roll iqnmlmllffjhlihigj:ronh n rnqojgohoggjlikmloh rnqmfjhilnmlolmlnnh:roni o oqhffffffgjkiioolnj V V oqofgkmjnfigjolflhoi oqofgkmjnfigjolflhoi 
+  1
+  10@->;6*, 
+  1
+  Y o Y n Y o Y n Y rjqojonggokiljnhmhm Y nqmlmffhmiogmhgjf o m 
+  1
+  Y rjqojonggokiljnhmhm Y nqmlmffhmiogmhgjf 
+  1
+  n oqoofgkmjnfigjolfliff oqoofojjnnghkiknimil 
+  1
+  n 
+  1
+  " V V V V 
+  1
+ /3>1: roqomnijljfkninfjkook oqlhmokhlonihnmmiom mqigonjhkhhkngohnm o rn o o o rn 90-(>-;@) V V V V 
+  1
+ 1*=, l 0/:1 k 
+  1
+ o l oqoknfhjmniinhinggim l oqoifgjmmoflhinmnhff l oqofhjnlmjnjmgkiflkh l 
+  1
+ n oqmlkhohnnlglinhkkf 
+  1
+ oqgjimgnhghmfjojnmm oqmlflhoknkggmhjhnm 
+  1
+ oqhnklokoijlghlljok oqmkkmhlkmomnlhggfg 
+  1
+ oqjhnnlnohgfogninhl oqmkfofnogoolnjimii 
+  1
+ oqkhiokjilongiohlmh oqmjmmfoilnjkkflkli 
+  1
+ oqlgnnimmnhmhfjjhon oqmjjkmkimgnlfliogk 
+  1
+ oqmgjjiiohioojjfiik oqmjgljfjimnmhmmghh 
+  1
+ oqnfohnokhjlmnmjihn oqminmhnhiokfmfjgjl 
+  1
+ oqofjgkjllkminhhhlnm oqmilfijihkjikggimf 
+  1
+ o oqmiimfkonhnngngiml 
+  1
+ 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {njh iikm |
+  1
+/061+ {rn oqghnkogkiomlgfogj oqlhmokhlonihnmmiom mqjmkhjgiiknlgikh |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mjh nmoglhi |
+  1
+,+->687+r<*-): {rn roqgofojjogffjojinjm oqlhmokhlojnohnnih nqffnngnnljnhhinml n o o V V |
+  1
+<0:;8: {rn {lhk {lhk {mik {lhj -:):-,:; {kii {rn |
+  1
+:;8: {imf {kfk {kfk {mik {kfj 90-(>-; |
+  1
+300/ {rn {mif {mij {lgm |
+  1
+):-+:' {rn {mii {kfh |
+  1
+:336/,:r<*-): {rn rnqlffioilnklfgjkk oqhijhkgomojjofmjhm mqigonjhkhhkngohnm o rn o oqohghkonjhkgolnkgim o o n V V |
+  1
+300/ {rn {rn {mih {lki |
+  1
+):-+:' {rn {mig {kff |
+  1
+:336/,:r<*-): {rn oqnhjnfihffjlggllkf oqlhmokhlonihnmmiom mqigonjhkhhkngohnm o n o oqohghkonjhkgolnkgim o o n V V |
+  1
+9><: {joo {jon {lhi {l {rn {jom -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nhi mohjlk |
+  1
+/061+ {rn rnqlmogiinjifngmmfm oqlhmokhlonihnmmiki mqigonjhkhhkngohnm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mhl hgon |
+  1
+9><: {jol {jok {joj {l {rn {joi -:):-,:; ,6183: |
+  1
+300/ {rn {rn {joh {mhl |
+  1
+<01:r,*-9><: {rn roqinmmokhjhkmfgjkjg roqknjljkmhlnlnfmnhj oqginmmokingknmkhon rnqmmkikihffnkhljlj:roni n o o o oqofgkmjnfigjolflhoi n V V o n oqofgkmjnfigjolflhoi 90-(>-; V V V V |
+  1
+<0:;8: {rn {jog {jof {llo {kjo -:):-,:; {mhk {rn |
+  1
+<0:;8: {rn {log {mhi {lno {klo 90-(>-; {nhf {rn |
+  1
+<0:;8: {rn {mhi {log {jog {jno 90-(>-; {nhf {rn |
+  1
+<0:;8: {rn {lfm {lfm {jnn {jnm 90-(>-; {mhh {rn |
+  1
+<0:;8: {rn {jnl {mhg {jnk {jnj 90-(>-; {ngn {rn |
+  1
+<0:;8: {rn {mhg {jnl {jni {jnh 90-(>-; {ngn {rn |
+  1
+<0:;8: {rn {jng {jnf {mhg {lfi -:):-,:; {jmo {rn |
+  1
+:;8: {iij {jmn {jmm {mhg {jml 90-(>-; |
+  1
+<0:;8: {rn {mgo {mhf {jmk {jmj 90-(>-; {nnm {rn |
+  1
+<0:;8: {rn {jmi {jmh {mhf {lff -:):-,:; {jmg {rn |
+  1
+:;8: {ihj {koi {jmf {mhf {jlo 90-(>-; |
+  1
+<0:;8: {rn {jln {jlm {mgo {kon -:):-,:; {jll {rn |
+  1
+:;8: {igo {jlk {koj {mgo {jlj 90-(>-; |
+  1
+<0:;8: {rn {jli {mgn {jlm {jlh -:):-,:; {kok {rn |
+  1
+<0:;8: {rn {mgn {jli {jmi {jlg 90-(>-; {kok {rn |
+  1
+300/ {rn {rn {jli {jlf |
+  1
+):-+:' {rn {mgm {jkn |
+  1
+):-+:' {rn {mgm {jkm |
+  1
+,+->687+r<*-): {rn rmqliijlgkofokngki oqfimgflmhjfmjlhilm nqnfnkhklojlhknmn oqiookmomnmogngjjkg oqooolflmlnkjhflioglfl roqhffigkjhnhkgjnohn V V |
+  1
+<0:;8: {rn {jkl {mgl {kln {jkk -:):-,:; {mil {rn |
+  1
+):-+:' {rn {jkk {jki |
+  1
+/061+ {rn roqgofojjogffjojinjm oqhijhkgofmjogifnkh mqlgkggnfhlmiiioni |
+  1
+:336/,:r<*-): {rn nqiigjgmhlkmgifffk oqjiggfhifjlhmonjhl mqlgkggnfogkjjfhk jqflihhnklklkfgmii:ronh rnqhlgnkjjnjlgnoiig:rolm rn oqfljolflghoiioikkf nqnkjofmffmkkhnjfn:roni jqjjnnnjnmlnmjhgmn:ronh oqhffffffgjkiioolnj V V |
+  1
+<0:;8: {rn {lnh {mgf {lok {kml -:):-,:; {mil {rn |
+  1
+<0:;8: {rn {mfo {jkg {kjg {jkf -:):-,:; {mil {rn |
+  1
+:;8: {ifi {mfm {kio {lko {jjo 90-(>-; |
+  1
+/061+ {rn oqhiijoogggngmhnkmm oqhijhkgogfohmgomlk mqlgkggnfogkjjfhkj |
+  1
+<0:;8: {rn {jjn {mfk {kjj {jjm 90-(>-; {mk {rn |
+  1
+:;8: {iff {mfi {kji {mfk {jjl 90-(>-; |
+  1
+/061+ {rn oqhljjifogkommmmgij oqingnnomhollogoihf mqlgkggnfogkjjfhkj |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mfg nmoglhh |
+  1
+):-+:' {rn {loj {jjk |
+  1
+,+->687+r<*-): {rn roqknjljklnnkiimnhok oqhijhkgofmjogifnkh nqffnngnnljnhhinml o o n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mff nmoglik |
+  1
+:;8: {jjj {lmo {kmo {lok {jji 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {loj nmoglhj |
+  1
+<0:;8: {rn {loh {jjn {joh {jjh 90-(>-; {mk {rn |
+  1
+<0:;8: {rn {jjg {jog {loh {kmh -:):-,:; {mhk {rn |
+  1
+:;8: {hok {jjf {kmg {loh {jio 90-(>-; |
+  1
+):-+:' {rn {kmh {jim |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 h 
+  1
+ oqnoflghhilhhmgfffg l oqnkjfgifimfjiklnkl m oqngmioijgmlhonoihk m oqmnfnhginilmlfojij m oqmjjijfihlgijkfjlh m 
+  1
+ oqmfmokgogkhhgolmki m oqlmgklikfjifojifmn l 
+  1
+ roqfolokgnlhkokgjfnm oqingnnomhollogohml oqhhjjohkgjkmnglggf 
+  1
+ roqfofmhonkgjkfknnig oqingnnomhollogohml oqhijonlihkihoigki 
+  1
+ roqfnfokggigojfookhi oqingnnomhollogohml oqhjknnggijjjlgmlig 
+  1
+ roqflgjhlggjffighmik oqingnnomhollogohml oqhlfkhjnonlinkmnli 
+  1
+ roqfjnhhghollglnohhh oqingnnomhollogohml oqhllnljliinfighimj 
+  1
+ roqfhjkohlgnjffkkjfi oqingnnomhollogohml oqhmhoioommkjlkgiih 
+  1
+ roqffoonllmmmkionlmk oqingnnomhollogohml oqhmimkmmfnoioojjgf 
+  1
+ rnqonknmkkhgonkghlh oqingnnomhollogohml oqhmfijngnjokgljffi 
+  1
+ rnqomhgfgmgkhnkmolh oqingnnomhollogohml oqhlkkhoilgkonmoigj 
+  1
+ rnqokggnmollkhnhgnm oqingnnomhollogohml oqhkigmkmokfohfinof 
+  1
+ rnqojfijiknfhgkfjmn oqingnnomhollogohml oqhjijlmgjijgooolg 
+  1
+ rnqohkmnnhgkimoohmf oqingnnomhollogohml oqhhjfkoooghnknnohl 
+  1
+ rnqogokfjiimifliolj oqingnnomhollogohml oqhgfoifoknhlgkflhf 
+  1
+ rnqoglkflillghmnllh oqingnnomhollogohml oqgoogmmnhgmgkijmgj 
+  1
+ oqooomnffoonjonlkiggol 
+  1
+ +0-*, rnqkjgiinklkkninmgi oqjiggfhifjlhmonjmf oqkhmkkofngiiolhhl oqioooooonflhgiingg mqkkfmflfmkiofflmi:ronh roqhffffffgjkiioolok oqjfojjnngnnomlimnj roqofgkmjnfigjolflhoi roqhffffffgjkiioolok o roqioooooonflhgiingg 90-(>-;@) V V V V 
+  1
+ /3>1: roqhhmihkjflnjojolmk oqingnnomhollogohml mqogfioimhofhmoom rmqkijnfolmggnjiimk:rolm n rgqojhokhofmfflffkf:ronh n mqkijnfolmggnjiimk:rolm hqkfghfgfnllofmgih:roll 90-(>-;@) V V V V 
+  1
+ 1*33=, 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+:;8: {hoi {llm {lnm {lno {jil 90-(>-; |
+  1
+<0:;8: {rn {lnn {lml {kog {jkk 90-(>-; {mni {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {moj iikf |
+  1
+/061+ {rn rnqoiiflknommomjnmf oqingnnomhollogohml oqhiimliklmikhojhhi |
+  1
+:336/,:r<*-): {rn rmqgfmffmmkfnkihoff oqjiggfhifjlhmonjmf mqlgkggnfogkjjfhk nqgokhhgjniokmlkhg:roni rmqjkfhkofjfhkkfoi:roll rn roqinjnjhkfnkfoglnhi rhqjlljoijmfmjhimkm:ronh rnqnnommlomkimjnjij:roni oqhffffffgjkiioolnj V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lng nmoglhn |
+  1
+,+->687+r<*-): {rn roqgofojjogffjojinjm oqhijhkgofmjogifnkh mqlgkggnfhlmiiioni o o rn V V |
+  1
+/061+ {rn roqgofojjogffjojinjm oqhijhkgofmjogifnkh nqffnngnnljnhhinml |
+  1
+<0:;8: {rn {lmi {jij {lml {klf 90-(>-; {kkk {jii |
+  1
+:;8: {hog {jih {lmg {lml {jig 90-(>-; |
+  1
+<0:;8: {rn {lmj {jif {jho {jhn -:):-,:; {fl {rn |
+  1
+<0:;8: {rn {jhm {jhl {lmj {kkm -:):-,:; {jhk {rn |
+  1
+:;8: {hmn {jhj {kki {kkn {kgh 90-(>-; |
+  1
+<0:;8: {rn {jij {lmi {jhl {jhi 90-(>-; {kkk {jhh |
+  1
+300/ {rn {rn {lmi {jhg |
+  1
+/<*-): {rn n {jhf o o |
+  1
+):-+:' {rn {lmh {jgn |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 j 
+  1
+ o l oqominokghkmnmkfjklg m oqojmjimgnomgijojflm m oqohfoinnfgfjihilomf m oqnojlkfjngjlflionl l 
+  1
+ rmqklimljnhhninmkkh oqlhmokhlonihnmmiom mqjmhiohlklifmfnl 
+  1
+ rmqklnonkmomnjonm oqlhmokhlonihnmmiom mqjmoikiokkomflglk 
+  1
+ rmqkmkgfglkmilnjhng oqlhmokhlonihkjjhnl mqjnklgkmgjnkfhlll 
+  1
+ rmqknnmjmhhghflgnhm oqlhmokhlonihkjjhnl mqjollgofionofhnkl 
+  1
+ rmqkolhmkmnomojjnkh oqlhmokhlonihklgnmh mqkfgihjhgihlflfkn 
+  1
+ rmqlghhgnjoggklmhon oqlhmokhlonihklgnmh mqkfnoinnonmjlmmgm 
+  1
+ rmqlhflhhfjfhfhliml oqlhmokhlonihmhhjgf mqkggnjfigfnjligii 
+  1
+ rmqlimnflnlofnohfki oqlhmokhlonihmhhjgf mqkgkmgglgfimgmonj 
+  1
+ rmqljlklnhlifkkhfnf oqlhmokhlonihnmmjjh mqkgllohojglhljhjh 
+  1
+ rmqlkkijghimholgggk oqlhmokhlonihnmmjjh mqkgllohojglhljhjh 
+  1
+ gqkklgoijkmohmmnmh:roog 
+  3
+ ,/361: 90-(>-; $ -==31,*- nn =3:1;,*/,*- <01: rnqlffioilnklfgjkk oqjiggfhifjlhmonjmf oqlflhoohiminojhkng roqioooooonflhgiinff rmqkkfmflfmkiofflnn:ronh oqhffffffgjkiioolmi roqlflhoohgomkfonhmg riqimfkgjjfinohifhn:ronh roqmfjmhjioooghfmknk n V V o n oqkfmn
+  1
+mjfgkmjnfigjm 90-(>-; V V V V 1*33@<*-): 1*33=, mqkonjhkfognnnioji mqijmooifgolmnnmgk oqmfgmihhhijmgkglg 
+  3
+  nn =3:1;,*/,*- /3>1: roqhnlfmkliikglnklgk oqjiggfhifjlhmoojjm mqkgllohojglhljhii o iqnmlmllffjhlihihl:ronh oqfffffffffffffffgf rkqflolgoijhilnlmlg:rolm rn iqnmlmllffjhlihinn:ronh 90-(>-;@) V V V V 1*33@<*-): 1*33=, mqkonjhkfognnnioji mqijmooifgolmnnmgk 
+  1
+oqmfgmihhhijmgkglg 
+  1
+  :336/,: rlqokoilooniihlmgjn oqjiggfhifjlhmonjmf mqjgnhlmmjjmmlfifh rhqkfghfgfnllofmfog:roll iqnmlmllffjhlihigj:ronh n oqhlgnggfgfhggffgni fqokomohgljnofnkhj:ronh o oqhffffffgjkiioolnj V V oqofgkmjnfigjolflhoi oqofgkmjnfigjolflhoi 
+  1
+  10@->;6*, 
+  1
+  Y o Y n Y o Y n Y rnqfjhlogmlolnhkkfg Y nqfjhlogmlolnhkkfg o o 
+  1
+  Y rnqfjhlogmlolnhkkfg Y nqfjhlogmlolnhkkfg 
+  1
+  n oqoofgkmjnfigjolfliff oqoonhmjgioogjomkghlj 
+  1
+  n 
+  1
+  " V V V V 
+  1
+ /3>1: roqomnijljfkninfjkook oqlhmokhlonihnmmiom mqigonjhkhhkngohnm o rn o o o rn 90-(>-;@) V V V V 
+  1
+ 1*=, l 0/:1 j 
+  1
+ o l oqominokghkmnmkfjklg l oqojmjimgnomgijojflm l oqohfoinnfgfjihilomf l oqnojlkfjngjlflionl l 
+  1
+ o roqknnjnigkioihkfmfj 
+  1
+ oqogkmiffgoonmiggimm roqkoihmflgnjhifgnl 
+  1
+ oqnihlnlhgihmioklkh roqkonmjgikioffokhff 
+  1
+ oqmkffkoolhjnflkmng roqlfjklkhfmlifomfnm 
+  1
+ oqllliglhghjgknkmom roqlgfjlmnhmkgnlokkj 
+  1
+ oqknihinllhkmgholmj roqlglmgkhnjjgfhijjh 
+  1
+ oqkffgjjonmglkmlofj roqlhifilknoinkjljm 
+  1
+ oqjglohjhllkgmnjkg roqlhoilmkkohklkolig 
+  1
+ oqiiinhjhgglmmkihgm roqlikmlihninjihgjjk 
+  1
+ oqhkfhioigmklhhikhm roqljhfihnmollikmhnf 
+  1
+ oqglmigmfkhkfolnnjg roqljnhkhmmhkhlnnfn 
+  1
+ oqfnjfnnmffofgofgkl roqlkjiimimlnlgfklfh 
+  1
+ n roqllfglifofkjknmjgn 
+  1
+ 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mnf iikn |
+  1
+/061+ {rn rmqklimljnhhninmklg oqlhmokhlonihnmmiki mqjmhiohlklifmfnmj |
+  1
+:;8: {hmh {kjn {jgm {llo {jgl 90-(>-; |
+  1
+):-+:' {rn {kjo {jgj |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 h 
+  1
+ oqmjjijfihjjnkoimff l oqmfmokgogikmiionnl m oqlmgklikfhllfnlgjk m oqlikfnhjjkggohmhfn m oqkonkgfjggglkjmihf m 
+  1
+ oqklgnofmogmkgmomok m oqkhkhogkohklnhllkl l 
+  1
+ rnqoglkflillghmnljj oqjnfigjnmoknlmokif oqgoogmmnhgmgkijlkn 
+  1
+ rnqogokfjiimifliojg oqjnfigjnmoknlmokif oqhgfoifoknhlgkflig 
+  1
+ rnqohkmnnhgkimoohkh oqjnfigjnmoknlmokif oqhhjfkoooghnknnonh 
+  1
+ rnqojfijiknfhgkfjlg oqjnfigjnmoknlmokif oqhjijlmgjijgooomg 
+  1
+ rnqokggnmollkhnhgl oqjnfigjnmoknlmokif oqhkigmkmokfohfiom 
+  1
+ rnqomhgfgmgkhnkmojn oqjnfigjnmoknlmokif oqhlkkhoilgkonmojfh 
+  1
+ rnqonknmkkhgonkghjj oqjnfigjnmoknlmokif oqhmfijngnjokgljggj 
+  1
+ roqffoonllmmmkionjom oqjnfigjnmoknlmokif oqhmimkmmfnoioojkhg 
+  1
+ roqfhjkohlgnjffkkhhl oqjnfigjnmoknlmokif oqhmhoioommkjlkgjjj 
+  1
+ roqfjnhhghollglnofjj oqjnfigjnmoknlmokif oqhllnljliinfighkfm 
+  1
+ roqflgjhlggjffighkkn oqjnfigjnmoknlmokif oqhlfkhjnonlinkmool 
+  1
+ roqfnfokggigojfooijk oqjnfigjnmoknlmokif oqhjknnggijjjlgmmmk 
+  1
+ roqfofmhonkgjkfknlki oqjnfigjnmoknlmokif oqhijonlihkihoiglnj 
+  1
+ roqfolokgnlhkokginlk oqjnfigjnmoknlmokif oqhhjjohkgjkmnglhih 
+  1
+ oqooomnffoonjonljjjkli 
+  1
+ +0-*, rnqkjgiinklkkninmgi oqjiggfhifjlhmonjmf oqkhmkkofngiiolhhl oqioooooonflhgiingg mqkkfmflfmkiofflmi:ronh roqhffffffgjkiioolok oqjfojjnngnnomlimnj roqofgkmjnfigjolflhoi roqhffffffgjkiioolok o roqioooooonflhgiingg 90-(>-;@) V V V V 
+  1
+ /3>1: roqhhmihkjflnjojoojg oqjnfigjnmoknlmokif mqogfioimhofhmoom mqkijnfolmggnjiimk:rolm rn gqojhokhofmfflffkf:ronh rn rmqkijnfolmggnjiimk:rolm rhqkfghfgfnllofmgih:roll 90-(>-;@) V V V V 
+  1
+ 1*33=, 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mml iikh |
+  1
+/061+ {rn rnqoiiflknommomjnlg oqjnfigjnmoknlmokif oqhiimliklmikhojilm |
+  1
+<0:;8: {rn {llg {ljl {kni {jjm -:):-,:; {ljk {rn |
+  1
+):-+:' {rn {jjm {jgh |
+  1
+:336/,:r<*-): {rn oqmlkmjnfnfjjikngjj oqjiggfhifjlhmonjmf oqkhmkkofngiiolhhil roqioooooonflhgiinff rnqmmkikignlfhfgilj:roni roqhffffffgjkiioolmi roqjfgkmjngjfhgjoimj nqmojlinolhlgnhjnf:ronh oqkkggngfnmnllikkih n V V |
+  1
+<0:;8: {rn {lij {lkn {knl {jkf 90-(>-; {lii {jgg |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n /:-60;6< m 
+  1
+ nqmlmffhmiogmhgjf n hqjningmjigoohkkh n 
+  1
+ o rjqojonggokiljnhmhm 
+  1
+ o nqmlmffhmiogmhgjf 
+  1
+ o 
+  1
+ ,/361: 90-(>-; $ -:9 m " V V V V 
+  1
+ " o iqmglngjlohnhfjgim |
+  1
+):-+:' {rn {knk {jfo |
+  1
+:336/,:r<*-): {rn nqgnimmojongnljhjl oqjiggfhifjlhmonjhl mqjgnhlmmjjmmlfhon oqoionfmniffhnlgmfkl iqnokigoinlkihjmj:roni roqffgngigohjoljjlkf roqfhfllohmflnkkmhll o roqojfojjnmoonhjgjoin oqhimklknmglkjfmjin V V |
+  1
+<0:;8: {rn {jfn {jfm {jfl {jfk 90-(>-; {lkl {rn |
+  1
+<0:;8: {rn {kil {kil {lkk {kik -:):-,:; {jfj {rn |
+  1
+:;8: {hkm {jfi {jfi {lkk {jfh 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lki hjlo |
+  1
+300/ {rn {lhf {lhk {lki |
+  1
+<01:r,*-9><: {rn oqnhjnfihffjlggllkf oqlhmokhlonihnmmiom mqigonjhkhhkngohnm o n o oqohghkonjhkgolnkgim o o n V V o n oqohghkonjhkgolnkgim 90-(>-; V V V V |
+  1
+<0:;8: {rn {jfg {jff {ljo {kif -:):-,:; {ioo {rn |
+  1
+:;8: {hki {jgm {khl {ljo {ion 90-(>-; |
+  1
+<0:;8: {rn {iom {ljn {jff {iol -:):-,:; {khm {rn |
+  1
+<0:;8: {rn {ljn {iok {ljl {khj -:):-,:; {khm {rn |
+  1
+300/ {rn {rn {ljn {ioj |
+  1
+):-+:' {rn {ljm {ioh |
+  1
+,+->687+r<*-): {rn roqjljnlflimgjgihlgn oqjnfigjnmoknlmokif oqfmikjmfnnmfkngloi oqhffffffgjkiioolok rkqglkmmgknnflnngi:ronh roqioooooonflhgiinhi V V |
+  1
+:;8: {hjj {ljj {iog {khn {iof 90-(>-; |
+  1
+9><: {ino {mlf {ljk {l {rn {inn 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mkj nmohigj |
+  1
+/061+ {rn roqjoogmlofjhggglnjj oqjnfigjnmoknlmokif oqfoohnjhofifmfihmn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lio njoglil |
+  1
+<0:;8: {rn {inm {lim {inl {ink -:):-,:; {fl {rn |
+  1
+<0:;8: {rn {inj {ini {lim {kgm -:):-,:; {inh {rn |
+  1
+:;8: {hig {kgi {ing {lim {inf 90-(>-; |
+  1
+<0:;8: {rn {imo {lil {lij {kgg -:):-,:; {kgj {rn |
+  1
+<0:;8: {rn {lil {imo {inj {imn 90-(>-; {kgj {rn |
+  1
+300/ {rn {rn {kgl {imm |
+  1
+):-+:' {rn {kgm {imk |
+  1
+,+->687+r<*-): {rn nqojhhmfnoigfkoglf oqlhmokhlonihnmmhhf mqkgllohojglhljhii roqfffffffffffffffnn rmqkijnfolmggnjiiom:rolm rhqkfghfgfnllofmhfg:roll V V |
+  1
+:;8: {hhl {imj {lig {kgl {imi 90-(>-; |
+  1
+/<*-): {rn o 90-(>-; $ :'//< 1*=, n /:-60;6< m 
+  1
+ nqmlmffhmiogmhgjf n hqjningmjigoohkkjm n 
+  1
+ n rjqojonggokiljnhmhm 
+  1
+ n nqmlmffhmiogmhgjf 
+  1
+ o 
+  1
+ ,/361: 90-(>-; $ -:9 m " V V V V 
+  1
+ " o iqmglngjlohnhfjgim |
+  1
+9><: {imh {imm {lii {l {rn {img 90-(>-; ,6183: |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ -:9 n " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mjl gmgo |
+  1
+/061+ {rn oqhghnjfmhfoiiinomn oqlhmokhlonihnmmhhf mqkgllohojglhljhii |
+  1
+):-+:' {rn {lhj {ilo |
+  1
+:336/,:r<*-): {rn oqnhjnfihffjlggllkf oqhijhkgomojjofmjhm mqigonjhkhhkngohnm o rn o oqohghkonjhkgolnkgim o o n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mii nohjll |
+  1
+/061+ {rn rnqlmogiinjifngmmfm oqhijhkgogfohmgonkj mqigonjhkhhkngohnm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mig hjlk |
+  1
+/061+ {rn oqmjlflifjhonfnkgln oqlhmokhlonihnmmiom mqigonjhkhhkngohnm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lgm nohjlo |
+  1
+9><: {iln {ilm {ill {l {rn {ilk 90-(>-; ,6183: |
+  1
+<01:r,*-9><: {rn rnqlffioilnklfgjkk oqlhmokhlonihnmmiki mqigonjhkhhkngohnm o n o oqohghkonjhkgolnkgim o o n V V o n oqohghkonjhkgolnkgim 90-(>-; V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lgi ml |
+  1
+9><: {ilj {ili {ilh {l {rn {ilg -:):-,:; ,6183: |
+  1
+300/ {rn {ilf {iko {lgi |
+  1
+/3>1:r,*-9><: {rn oqnhjnfigomioikkngg roqlnifmfohgjnogljil oqnfigjoknoimnlokfl oqiooooooniolooohkn nqmmkikignnknihggf:roni oqhffffffghfhhkflgl oqhffffffghfhhkflgl iqnmlmllhjolkgoklf:ronh roqiooooooniolooohkn 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {ikn {ikm {kmj {jjh -:):-,:; {lgh {rn |
+  1
+<0:;8: {rn {kmi {lgf {lfn {jno -:):-,:; {mhk {rn |
+  1
+<0:;8: {rn {lgf {ikl {jfg {ikk -:):-,:; {mhk {rn |
+  1
+:;8: {hfi {kmg {kjn {jog {ikj 90-(>-; |
+  1
+<0:;8: {rn {jnn {jnn {lfm {jnm -:):-,:; {iki {rn |
+  1
+:;8: {hfg {ikh {ikh {lfm {ikg 90-(>-; |
+  1
+<0:;8: {rn {lfk {lfl {ikf {ijo 90-(>-; {ngn {rn |
+  1
+<0:;8: {rn {ijn {ijm {lfl {jnj -:):-,:; {ijl {rn |
+  1
+:;8: {goh {jmm {ijk {lfl {ijj 90-(>-; |
+  1
+<0:;8: {rn {iji {ijh {lfk {jnh -:):-,:; {ijg {rn |
+  1
+:;8: {gnm {ijf {jmn {lfk {iio 90-(>-; |
+  1
+<0:;8: {rn {iin {lfj {ijh {iim 90-(>-; {jmo {rn |
+  1
+<0:;8: {rn {lfj {iin {ijn {iil -:):-,:; {jmo {rn |
+  1
+300/ {rn {rn {iin {iik |
+  1
+):-+:' {rn {lfi {iii |
+  1
+):-+:' {rn {jnj {iih |
+  1
+:336/,:r<*-): {rn rnqiljgmiinmmfhkhkh oqjiggfhifjlhmonjmf oqhogiinnklfnkjgflk oqiookmonhjhgjfiihk nqmlmjfjnikkohglof:rolm roqhffigkifjigmhnomg roqlfljkjihmmjnlfffn riqimggjmkmnoonnnoj:ronh roqmfjkgmknohkofhhmj oqffffffgimolokhmhj V V |
+  1
+<0:;8: {rn {iig {iif {lfh {jmj -:):-,:; {iho {rn |
+  1
+:;8: {gmk {jmf {jlk {lfh {ihn 90-(>-; |
+  1
+<0:;8: {rn {ihm {lfg {kol {jlg -:):-,:; {jmg {rn |
+  1
+<0:;8: {rn {lfg {ihm {iig {ihl 90-(>-; {jmg {rn |
+  1
+300/ {rn {rn {ihm {ihk |
+  1
+):-+:' {rn {lff {ihi |
+  1
+:336/,:r<*-): {rn rnqiljgmiinmmfhkhkh oqjiggfhifjlhmonjmf oqhogiinnklfnkjgflk oqiookmonhjhgjfiihk nqmlmjfjnikkohglof:rolm roqhffigkifjigmhnomg roqlfljkjihmmjnlfffn riqimggjmkmnoonnnoj:ronh roqmfjkgmknohkofhhmj oqffffffgimolokhmhj V V |
+  1
+<0:;8: {rn {ihh {koo {iif {ihg -:):-,:; {jll {rn |
+  1
+<0:;8: {rn {koo {ihh {kom {jlh 90-(>-; {jll {rn |
+  1
+300/ {rn {rn {ihh {ihf |
+  1
+):-+:' {rn {jmj {ign |
+  1
+:336/,:r<*-): {rn rmqjgohoghnkhjomkog oqjiggfhifjlhmonjmf nqfigjolgglioiikln roqiookmonhjhgjfiihk rnqmlmjfjnikkohglof:rolm oqhffigkifjigmhnomg roqlfljkjihmmjnlfffn riqimggjmkmnoonnnoj:ronh roqmfjkgmknohkofhhmj oqffffffgimolokhmhj V V |
+  1
+<0:;8: {rn {kol {kom {igm {igl -:):-,:; {kok {rn |
+  1
+:;8: {glg {igk {koj {kom {igj 90-(>-; |
+  1
+:;8: {gko {igi {koi {jmi {igh 90-(>-; |
+  1
+9><: {igg {ihf {kok {l {rn {igf -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mgm mhgn |
+  1
+/061+ {rn rmqgnigliofnloiilhl oqfimjfgjohfolmhggl nqhfnmnkkjhmhfgfoj |
+  1
+/061+ {rn rnqghnmfmlmjmgkfogh oqfilmnhhojjnjfkkff oqjlngigjogjglhjkon |
+  1
+<0:;8: {rn {ifo {kog {jij {ifn -:):-,:; {mil {rn |
+  1
+:;8: {gkj {jih {kof {kln {ifm 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mgk iomfff |
+  1
+/061+ {rn rmqlmfnfnofjllnjlng oqhijhkgogfohmgomlk mqlgkggnfogkjjfhkj |
+  1
+6;r+,3r>++-6= {rn {rn {rn {mgg iiki |
+  1
+<0:;8: {rn {knl {ifl {imo {ifk -:):-,:; {mil {rn |
+  1
+:;8: {gkf {kio {imj {kjg {ifj 90-(>-; |
+  1
+,+->687+r<*-): {rn roqkomnljjhjfklmlhki oqhijhkgomojjofmjhm oqgmihoooiiohljjmng oqioooooonflhgiinkl nqmmkikignlfhfgiml:roni oqhffffffgjkiioomkg V V |
+  1
+<0:;8: {rn {kmj {kni {iok {ifh 90-(>-; {mk {rn |
+  1
+:;8: {gjn {kji {iog {kni {ifg 90-(>-; |
+  1
+,+->687+r<*-): {rn oqomjlnmmjgkmloiijol oqingnnomhollogohml nqklhghmgjjkkgnjjm roqioooooonflhgiinhi rnqmmkikignlfhfgil:roni roqhffffffgjkiioolok V V |
+  1
+/061+ {rn roqknjljklnnkiimnhok oqhijhkgofmjogifnkh nqffnngnnljnhhinml |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kml nmoglhk |
+  1
+,+->687+r<*-): {rn roqgofojjogffjojinjm oqhijhkgofmjogifnkh nqffnngnnljnhhinml n o o V V |
+  1
+:;8: {gjm {hoo {jjf {kmj {hon 90-(>-; |
+  1
+<0:;8: {rn {hom {kmi {ikm {hol -:):-,:; {mhk {rn |
+  1
+):-+:' {rn {jjh {hoj |
+  1
+,+->687+r<*-): {rn roqhfnfhogklnloimokf oqingnnomhollogohml oqgkfkmhlgfojfggofn roqhffffffgjkiioomgm rkqglkmmgknnflnngfn:ronh roqioooooonflhgiinhi V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lof nmohiig |
+  1
+/061+ {rn roqfmggogijklloiljjl oqingnnomhollogohml oqhkihffomjkgohomgh |
+  1
+:336/,:r<*-): {rn rnqkjgiinklkkninmgi oqjiggfhifjlhmonjmf oqkhmkkofngiiolhhl oqioooooonflhgiinff mqkkfmflfmkiofflmi:ronh roqhffffffgjkiioolok oqlflhoohgomkfonhmg rmqknohmmliihkmojng:rong oqmfjmhjioooghfmknf n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lnk iikj |
+  1
+<0:;8: {rn {klg {kkl {jkl {ifn 90-(>-; {kkk {hoh |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n 0/:1 m 
+  1
+ rnqfjhlogmlolnhkj n nqfjhlogmlolnhkkfi n 
+  1
+ o rnqfjhlogmlolnhkkfg 
+  1
+ o nqfjhlogmlolnhkkfg 
+  1
+ o 
+  1
+ ,/361: 90-(>-; $ -:9 j " V V V V 
+  1
+ " o o |
+  1
+):-+:' {rn {jkk {hof |
+  1
+:336/,:r<*-): {rn rlqokoilooniihlmgjn oqjiggfhifjlhmonjmf mqjgnhlmmjjmmlfifm roqogfnfjmfgkniofoifi gqfghfmkfnkkkmlnmi:roni roqffionknjjgflinmm oqijfkkggllhlfnfjmh o roqojfojjnmoonhjgkinh oqhklmfknmfkioigmkn Y rnqfjhlogmlolnhkkfg Y nqfjhlogmlolnhkkfg |
+  1
+<0:;8: {rn {kko {hno {hnn {hnm -:):-,:; {fl {rn |
+  1
+<0:;8: {rn {hnl {hnk {kko {jhn 90-(>-; {hnj {rn |
+  1
+:;8: {gig {jhj {hni {kko {hnh 90-(>-; |
+  1
+<0:;8: {rn {hng {kkn {hnk {hnf -:):-,:; {jhk {rn |
+  1
+<0:;8: {rn {kkn {hng {kkl {jhi -:):-,:; {jhk {rn |
+  1
+300/ {rn {rn {jhl {hmo |
+  1
+):-+:' {rn {hnf {hmm |
+  1
+:;8: {ghk {kki {hml {jhl {hmk 90-(>-; |
+  1
+/<*-): {rn o 90-(>-; $ :'//< 1*=, n 0/:1 m 
+  1
+ rnqfjhlogmlolnhkkfi n nqfjhlogmlolnhkkfm n 
+  1
+ n rnqfjhlogmlolnhkkfg 
+  1
+ n nqfjhlogmlolnhkkfg 
+  1
+ o 
+  1
+ ,/361: 90-(>-; $ -:9 j " V V V V 
+  1
+ " o o |
+  1
+9><: {hmj {hmo {kkk {l {rn {hmi 90-(>-; ,6183: |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ -:9 k " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lmh hffh |
+  1
+/061+ {rn rmqlkkijghimholgghj oqlhmokhlonihnmmhhf mqkgllohojglhljhii |
+  1
+):-+:' {rn {kif {hmg |
+  1
+,+->687+r<*-): {rn roqhfnfhogklnloimokf oqjnfigjnmoknlmokif oqgkfkmhlgfojfggnjg oqhffffffgjkiioomgm kqglkmmgknnflnngfn:ronh oqioooooonflhgiinhi V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lln nmohiih |
+  1
+/061+ {rn roqfmggogijklloiligi oqjnfigjnmoknlmokif oqhkihffomjkgohongh |
+  1
+6;r+,3r>++-6= {rn {rn {rn {llf hhjn |
+  1
+/061+ {rn roqlimghihfkfniliifl oqingnnomhollogohml oqfmomghkhhnnjiinin |
+  1
+/<*-): {rn n {hmf o o |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lkm gmgn |
+  1
+/061+ {rn oqghnkogkljhigimmmi oqhijhkgomojjofmjhm mqjmkhjgiimiilojng |
+  1
+<0:;8: {rn {hlo {kim {hln {hlm 90-(>-; {lkl {rn |
+  1
+<0:;8: {rn {kim {hlo {hll {hlk 90-(>-; {lkl {rn |
+  1
+<0:;8: {rn {hlj {hli {kim {jfk -:):-,:; {hlh {rn |
+  1
+:;8: {gfm {hlg {hlf {kim {hko 90-(>-; |
+  1
+300/ {rn {rn {kil {hkn |
+  1
+):-+:' {rn {kik {hkl |
+  1
+:336/,:r<*-): {rn mqhmilhhfgkmfgkfgj oqjiggfhifjlhmoning lqhfjmhjjolfimoglg roqioooooonflhgiingg rnqmmkikignlfhfgill:roni roqhffffffgjkiioolok oqjfgkmjngjfhgjoimj kqjgolhniikihnokhl:ronh roqkkggngfnmnllikkhm n V V |
+  1
+<0:;8: {rn {hkk {kig {jof {ikk 90-(>-; {ioo {rn |
+  1
+<0:;8: {rn {kig {hkk {kho {iol 90-(>-; {ioo {rn |
+  1
+300/ {rn {rn {kig {hkj |
+  1
+:336/,:r<*-): {rn roqinmmokhjhkmfgjkjg oqjnfigjnmoknlmokif oqginmmokingknmkif rmqkijnfolmggnjiimk:rolm n o o o oqofgkmjnfigjolflhoi n V V |
+  1
+<0:;8: {rn {hkh {kho {hkg {hkf -:):-,:; {khm {rn |
+  1
+:;8: {fnn {hjo {khl {kho {hjn 90-(>-; |
+  1
+<0:;8: {rn {khn {hjm {jjn {ifh -:):-,:; {khm {rn |
+  1
+9><: {hjl {hkj {khm {l {rn {hjk 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ljm nmohigm |
+  1
+/061+ {rn roqjjlnkfilhknmmiffh oqjnfigjnmoknlmokif oqflffioinhgfnojoml |
+  1
+):-+:' {rn {ifh {hji |
+  1
+:336/,:r<*-): {rn oqnhjnfihffjlggllfk oqjiggfhifjlhmonjmf oqlflhoohiminojhkkn oqioooooonflhgiinff nqmmkikignlfhfgill:roni oqhffffffgjkiioolmi roqihhnijlkmomglofg nqlilfinnhlghfljog:ronh oqjohghkolmnjnmmfim n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {khi hhkf |
+  1
++0-*,r,*-9><: {rn oqmlkmjnfnfjjikngjj oqjiggfhifjlhmonjmf oqkhmkkofngiiolhhil oqioooooonflhgiinff nqmmkikignlfhfgilj:roni oqhffffffgjkiioolmi oqgkikjiifmfnllgjgg roqofgkmjnfigjolflhoi oqhffffffgjkiioolmi o roqioooooonflhgiinff 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {hjh {kgo {hjg {hjf -:):-,:; {fl {rn |
+  1
+<0:;8: {rn {hio {hin {kgo {ink 90-(>-; {him {rn |
+  1
+:;8: {fml {hil {ing {inl {hik 90-(>-; |
+  1
+<0:;8: {rn {hij {kgn {kgk {imn -:):-,:; {inh {rn |
+  1
+<0:;8: {rn {kgn {hij {hio {hii -:):-,:; {inh {rn |
+  1
+300/ {rn {rn {ini {hih |
+  1
+):-+:' {rn {ink {hif |
+  1
+,+->687+r<*-): {rn oqlhmokhnflmlfimoff oqlhmokhlonihnmmiom mqkgllohojglhljhii o o n V V |
+  1
+<0:;8: {rn {kgk {kgl {jkg {ifk 90-(>-; {kgj {rn |
+  1
+:;8: {flo {hho {kgi {inj {hhn 90-(>-; |
+  1
+9><: {hhm {jhg {kgj {l {rn {ilk 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lik nnoloog |
+  1
+/061+ {rn oqlhmokhnflmlfimoff oqlhmokhlonihnmmiom mqkgllohojglhljhii |
+  1
+):-+:' {rn {ifk {hhk |
+  1
+:336/,:r<*-): {rn nqgnimmojongnljhjj oqjiggfhifjlhmonjhl mqkgllohojglhljhii rkqnojliijfkhoninmj:rokg iqnmlmllffjhlihigj:ronh n rnqojgohoggjlikmloh rnqmfjhilnmlolmlnnh:roni hqflkmiogojlhlkfmh:roll oqhffffffgjkiioomfl V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kfo gmhh |
+  1
+,/361:r,*-9><: {rn 90-(>-; $ -:9 m " V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lhj hjll |
+  1
+/061+ {rn oqmjlflifjhonfnkgln oqhijhkgogfohmgonon mqigonjhkhhkngohnm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jon lomffh |
+  1
+9><: {hhj {hhi {hhh {l {rn {hhg -:):-,:; ,6183: |
+  1
+300/ {rn {rn {hhf {jon |
+  1
+/3>1:r,*-9><: {rn roqhnlfmkliikglnklgk oqjiggfhifjlhmoojjm mqkgllohojglhljhii o iqnmlmllffjhlihihl:ronh oqfffffffffffffffgf rkqflolgoijhilnlmlg:rolm rn iqnmlmllffjhlihinn:ronh 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jok ngio |
+  1
+9><: {hgo {kfo {hgn {l {rn {hgm -:):-,:; ,6183: |
+  1
+300/ {rn {rn {hgl {jok |
+  1
+,/361:r,*-9><: {rn 90-(>-; $ ,461,*- Y^ SLZ ^ M\ LTVQ m 
+  3
+ rn rn rn rn o :336/,: oqnhjnfihffjlgglhok oqjiggfhifjlhmoning oqlflhoohiminojhgil oqioooooonflhgiinff nqmmkikignlfhfgilj:roni oqhffffffgjkiioolmi oqlhhfjmhkfolfojiim mqgfmgiilnkjmfogl:ronh roqmglkikjhiogkkohml n Y o Y iqmglngjlohnhfjgim o o o 1*33@,*-9><
+  1
+: o g 1*33@3>( 
+  3
+ rn rn rn rn n :336/,: oqikhilhhjfihfjnjhi oqjiggfhifjlhmoniim nqomlimmonnoofooim oqioooooonflhgiingg nqmmkikignlfhfgill:roni oqhffffffgjkiioolmi oqjnfigjomffmgholom lqfhhifnngmkhhkgfk:ronh roqlgfhilhfmnniojfff n Y o Y iqmglngjlohnhfjgim o o o 1*33@,*-9><
+  1
+: o g 1*33@3>( 
+  1
+ o 
+  1
+ 1*=, l l /:-60;6< 0/:1 101: 101: nh m 
+  1
+ o l oqoflhj m oqnmj m oqnghj m oqmj m 
+  1
+ oqmgnmj m oqlhj m oqkighj m oqj m oqjimj m 
+  1
+ oqimj m oqijimj m oqhj m oqgklhj m oqghj m 
+  1
+ oqflhj m n l 
+  1
+ o l n l 
+  1
+ oqjjlnkfjkgjhhgflih oqjiggfhifjlhmoning oqnnomlingijminhnk 
+  1
+ oqjjlnkfjkgjhhgflih oqiiniinmjhfhgonklk oqnnomlingijminhnk 
+  1
+ oqjloigmlilhhingloj oqhjkmknhlhhhmmlhom oqnmhogijhjfhhgnknk 
+  1
+ oqkhjhoffnmkoflomkf oqgjhogngkfonffgil oqniglnjfnijglimlgg 
+  1
+ oqkjffknkninkjjlnog oqggnofflofgnfiojgm oqngonkmmgflhgmhllh 
+  1
+ oqkohkiikmnhiimfnnn oqfkiiflojlfgjlmfhh oqmnfkfgjlhnkggmifk 
+  1
+ oqlijjkofhhilgmijmn oqfgnhnonimlnnoljgn oqmjofkmimnglnigonj 
+  1
+ oqmhknmjnlnfghjgknj nqomfokmmihomillgg oqlnfjokjofjmfigkf 
+  1
+ oqmmkihoifgifijjmlm nqoknllgikomjlfoim oqljijfjllilifhjhlg 
+  1
+ oqnjokjfgkffjffhfkn nqoknllgikomjlfoim oqknmmjlkhjhlofgfkh 
+  1
+ oqnmjhmljnmojofkhml nqolgmflmkkkojljh oqklogojhlooffoohg 
+  1
+ oqomgihifihflkgijohm nqonkniljkiihngook oqjoljfoikngjfnhfnm 
+  1
+ roqolfjgnnjhgfjjlhnhg oqfigjjhiljlhlfokkf oqjjkhgkmlggnjkhfji 
+  1
+ roqnkkjlnnkiijkonhnm oqglhlhonkhokmkjii oqillkfihlkljijgimh 
+  1
+ roqngnonjghjomfkfhih oqhjmokhkggmokljkkn oqiiogiomgmonfnojkn 
+  1
+ roqmoolnfilmgijikmol oqilohlflojgjjlgioh oqihjllgnonnmigkokj 
+  1
+ roqmomhjjfkfjoomnfjg oqjffgngggmfohlkgfh oqihhnijllgifkfgjgj 
+  1
+ roqmomhjjfkfjoomnfjg oqjohojjlmolonljnkg oqihhnijllgifkfgjgj 
+  1
+ roqnfmfnggjnofiggnnm oqkkjmlhmhhjikkgmin oqiifhghjnkjmonjhfk 
+  1
+ roqnjjojlnigonmjilog oqllofihkigkmjnlkfn oqiknlggmjohhlhklnh 
+  1
+ roqnmholfkgngioflhmg oqmhgjioiimlnloonkh oqimolhhfgjoffhljl 
+  1
+ roqohkjikkghkgnifhloi oqmnmfiifngnkhmhhjl oqjgnomnhlhlmfngnfk 
+  1
+ roqojjljojnfnfnohnmjh oqnflmjimfhkjfkhohn oqjiiinnmiolglfglig 
+  1
+ oqomifmnjiglnmkjoimg oqnmkjkohlmoomkgofj oqjokfohnfnikmkloli 
+  1
+ oqnoofgjfjogommiknk oqofikjihjokfonmilik oqkkfljgfonfhngnofk 
+  1
+ oqmkfkohikgmhjkoffj oqofikjihjokfonmilik oqllgokmimlmkflkiof 
+  1
+ oqlmlkhmolohijmmlki oqnmkjkohlmoomkgoj oqmgmkfkllljhghmhnn 
+  1
+ oqkojhkknngmighkjlj oqnflmjimfhkjfkhohn oqmmohfomikglhnhljh 
+  1
+ oqkmkfjgogijjflhnk oqmnmfiifngnkhmhhjl oqmoilhfhghgfnfhjln 
+  1
+ oqkhhkllogoflginnli oqmhgjioiimlnloonol oqnihomljkonmnkmmng 
+  1
+ oqjojkkihihofomlhnh oqllofihkigkmjnlkkh oqnkionlmhkkkhknkog 
+  1
+ oqjkllnmkjonhkjjjmn oqkkjmlhmhhjikkgmnh oqnnhinkonohoofffln 
+  1
+ oqjjlnkfjkgjhhgflih oqjohojjlmolonljnol oqnnomlingijminhnk 
+  1
+ oqjjlnkfjkgjhhgflih oqjiggfhifjlhmoning oqnnomlingijminhnk 
+  1
+ oqhjhghlfimmjkiiggj oqjiggfhifjlhmoning oqmgkhhigilfgnhimfk 
+  1
+ oqhjhghlfimmjkiiggj oqihlmjihollolhilfh oqmgkhhigilfgnhimfk 
+  1
+ oqhlmjfglhfljmhkknf oqhhhkofhklohmmikil oqlolhlljjmnnkgiohj 
+  1
+ oqihohjklhnjijoolhl oqgflnokgigmmjfgmji oqljonnijiomfilfihn 
+  1
+ oqijlonkgnlmigmiofk oqfmonmkjnnimjjjkjl oqlilkmnmmfifolhhi 
+  1
+ oqjflfgokkkjfninink oqfflfnhkhlgnnffkom oqkohifhoogklmmjokl 
+  1
+ oqjkignklnffkhjgh nqolllnnhmoihgknll oqkklohniolhookiomg 
+  1
+ oqkklfhnkfljfojhoof nqogijiollgkglnmfl oqjmomolhmhliohnjgj 
+  1
+ oqlgglljmjinlgnjfih nqnoolflhjgliknkmj oqjinflofohjjjhfhmm 
+  1
+ oqlokgkgojnlofjnjof nqnoolflhjgliknkmj oqimkjkilnkllhnglii 
+  1
+ oqmhhonfihnningjkmm nqofifihiggolkjmkj oqikjknhioojonmokmm 
+  1
+ oqnihgkmlofolnminhk nqoifgmnhhgogkmhlk oqhmhlooimimlnlfhom 
+  1
+ oqofnojnfnhkhmojgfgj nqongjnjnmhghknkok oqhgkgflkmmgohmlkgk 
+  1
+ roqomhonignfggnmlnojg oqghofmfmoljonminig oqghlkkkfgomfofgooi 
+  1
+ roqoigoimnlflolikiigj oqhhkfknmnmloglfihk oqfokmmgfhnknnlnlgi 
+  1
+ roqogfhhggiigiflogifl oqilgkifjohnijgohl oqfmojnijnhfohjnjgh 
+  1
+ roqofmjnfhmloglmogii oqioligkolnlkfmijhk oqfmmjhmnionhnihfm 
+  1
+ roqofmjnfhmloglmogii oqkfflmjomlknhjnhfk oqfmmjhmnionhnihfm 
+  1
+ roqognkjmfghlhfkjmjom oqkmfhhfhmjllgjkoh oqfnkmhmnohfhkffgol 
+  1
+ roqolggjkoflfofjfjlhh oqlonmminfoojihhkjl oqggmlmmflimiomgnjg 
+  1
+ roqoohllgififgfoninmkh oqmkmmigjllngoimkif oqgjgigilghlhhommhk 
+  1
+ oqojnifjihnighimgihj oqnigkhjjhoffkngjm oqgnkknoiogiljnjonk 
+  1
+ oqohllnnlgionkjgllnl oqnkilonnmmhmokomjm oqhfgnfggmmohngomnj 
+  1
+ oqnijgihkgkkjiokjok oqoigffinnnjgnmggfll oqhmghgnhkkhlhjjkkm 
+  1
+ oqmkfngffnkhjhogjjm oqolhkonilmlhfgfomkg oqiiimgffnggjgnohhl 
+  1
+ oqkniniklmkknklhkig oqolhkonilmlhfgfomkg oqjknojfnojmfjllkil 
+  1
+ oqkffkgihjkhnjknjnj oqoigffinnnjgnmggkgg oqkhgjihmhfknjgghfj 
+  1
+ oqjfmokmgjlnjighikk oqnkilonnmmhmokomjm oqkofnjomomognikokk 
+  1
+ oqinlijgjihkglglnjm oqnigkhjjhoffkngjm oqlfmflgknjjngmfmml 
+  1
+ oqihmifmfliniokhilm oqmkmmigjllngoimkmj oqlkgiimilihhiknfim 
+  1
+ oqhokmoglllognojjjh oqlonmminfoojihhkof oqlmjomioghgflnioji 
+  1
+ oqhkigohmmijjofnmh oqkmfhhfhmjllgjkomj oqmflohifninhgkkklk 
+  1
+ oqhjhghlfimmjkiiggj oqkfflmjomlknhjnhfk oqmgkhhigilfgnhimfk 
+  1
+ oqhjhghlfimmjkiiggj oqjiggfhifjlhmoning oqmgkhhigilfgnhimfk 
+  1
+ oqfimjfglhjflnkkkok oqjiggfhifjlhmoniim oqkjflnhjknklhljkkg 
+  1
+ oqfimjfglhjflnkkkok oqigkgjmnkgimfjnlgm oqkjflnhjknklhljkkg 
+  1
+ oqflkjnklfkfmflojll oqgoojhhhkglhmmfmkj oqkgolgojmgmjnfohg 
+  1
+ oqgijhfgglohmohokfi oqfmfnmhgghklnfhggl oqjlnfnhmokoofniffh 
+  1
+ oqgkioggmnolfoffnmj oqfjfnkfhnlklnjolki oqjkihoonhooomkgngl 
+  1
+ oqhgokfkkihknifknim nqoknnkngflilgijgl oqjfjgfjkhfhnjihlol 
+  1
+ oqhmgoghiimmjifoglj nqogkfnlmhfokjhfof oqiljmoojgjjifmkogi 
+  1
+ oqinlgnhgjjnfljjhli nqnkkohgkofflffnfl oqhmofomfkjnfnhkili 
+  1
+ oqjjnfffgnljhfhihki nqnjfkkgghikhklhgh oqhihmiikhghkngliim 
+  1
+ oqkjfmlimjmijfojnmn nqnjfkkgghikhklhgh oqgliglfnjmfkllhifi 
+  1
+ oqkmglnjglomhmhiohh nqnjjikmnlniilifmm oqgioomfkhofolkooij 
+  1
+ oqlohoohijonmhijgk nqnmjkgooofkfihkij oqfjnonoinoiolinkkh 
+  1
+ oqmmnigkffmglfijjnj nqoigkhmimolhklhii nqonjoomioihfgffon 
+  1
+ oqofokfhjoigfnjjjoom oqfokkggmjffiooiihi nqnnllflmmimmjlhlk 
+  1
+ oqokkgfnjfikmmmokloj oqhfhglkfliknmklfog nqnkhjfhiiogoljmml 
+  1
+ oqomohingffnmhomknfh oqikinffhogkhimmgjk nqnijifkflkiggnfnj 
+  1
+ oqonhhnijollllgommjg oqiohjkfnhfhfnngmoi nqnihfhgfgnikglhl 
+  1
+ oqonhhnijollllgommjg oqkfnjfkhmijlligkgi nqnihfhgfgnikglhl 
+  1
+ oqoloonmghillhfhjmmj oqknklmmnhlnnmjfghg nqnjghjihonkmfglgn 
+  1
+ oqohhlkkfgonfllhmlmi oqmhnkgkfnniggknknj nqnmlmjhimnhkigm 
+  1
+ oqnnmlimoghggmfojkh oqmojfhikokokgmkhfn nqofiffkhgfijklofj 
+  1
+ oqnhhfjjglogjifjjn oqnmlfgkmmlgknofmgh nqokhhffkhffknnnhf 
+  1
+ oqmonfhlmfnmmomlhgg oqofflkjfkhfgnllkllh nqomfhgilglhjfimom 
+  1
+ oqlokgnlkoojffilfki oqonlkjnkfnnioofifng oqfjmijimfhglmihgif 
+  1
+ oqlfhlflghghnnfoif roqomnijlkgjhlolkjgih oqgglmmofljhkkkokl 
+  1
+ oqjgmfmnooojjlllfk roqomnijlkgjhlolkjgih oqhkkohjjghlknlmlnh 
+  1
+ oqihjjonkhgiijioilf oqonlkjnkfnnioofikhk oqihkikommjmjlokghf 
+  1
+ oqhhglknjggokjoogkn oqofflkjfkhfgnllkllh oqjfhjnonlflminohl 
+  1
+ oqgomljfokgkogmfnm oqnmlfgkmmlgknofmgh oqjhfkfhoklnkkiofjf 
+  1
+ oqgihfjmhfnlgmlkogl oqmojfhikokokgmkhki oqjlolonhllklnknhfj 
+  1
+ oqfomfifgffohnghlfh oqmhnkgkfnniggknknj oqjokolgfonllgfohj 
+  1
+ oqfjolomoomfmhmhnoh oqknklmmnhlnnmjfghg oqkigjlfgmnijjggflh 
+  1
+ oqfimjfglhjflnkkkok oqkfnjfkhmijlligkgi oqkjflnhjknklhljkkg 
+  1
+ oqfimjfglhjflnkkkok oqjiggfhifjlhmoning oqkjflnhjknklhljkkg 
+  1
+ nqnihlmmhgfiogmngg oqjiggfhifjlhmoniim oqillgjgmnggfmfkikh 
+  1
+ nqnihlmmhgfiogmngg oqifikkhjflfjjmilig oqillgjgmnggfmfkikh 
+  1
+ nqnlikloknojojgiij oqgmlhkjhjlihmlmomg oqijhomhjoklggfjkgj 
+  1
+ nqoiogklmgfghikojh oqfijnjofoiilhfhjof oqhnlhnhgkhhmnfklmk 
+  1
+ nqolfniniohjnlhmoh oqffgnhkfnjmlhkjmni oqhmffhfnnolnkjgioh 
+  1
+ oqfihoogkfomkmmijhi nqoggliilnlkijlmmj oqhgkoflfjofffofihl 
+  1
+ oqfoflinookjiimmfmi nqnlijnkglhknlnigk oqgmhlmfjihklgomnmm 
+  1
+ oqhgliikmnihfijkmgi nqmonjfikgnlfihofh oqfmniomnilommhhhof 
+  1
+ oqhnjiiklhnomnlhklh nqmngjolffkjgkinj oqfhmiomokffmhghiif 
+  1
+ oqinlimkkjkoogjgikj nqmngjolffkjgkinj nqokfnlnffnjkfjhnm 
+  1
+ oqjhfinnfgflgliihln nqmnklnijhjmfmgjfh nqohkiknlknlojjfif 
+  1
+ oqkkinhmffnmmkojkng nqngnnlgmkofofmnfj nqnhkhmojfkfhjglmk 
+  1
+ oqljmlngoigmohmjogh nqnngklonnmghkinmi nqmkjnnnhfohfohkjm 
+  1
+ oqmogonnglliiklknoi oqflgokhlnikngghngj nqljllknkhmnjfhihm 
+  1
+ oqnjhgkjllmnkgojjl oqgmohmgiiojnikgnkn nqlfofiiljonfjhlog 
+  1
+ oqnlnlomiijnmlljiik oqijlfmffofhgiij nqknoghlljnkiggiij 
+  1
+ oqnmhfjmhmfhjognmhl oqinnknklmgmllofggm nqknllgjgolnmjoiil 
+  1
+ oqnmhfjmhmfhjognmhl oqkglgikkmfikfgjnhh nqknllgjgolnmjoiil 
+  1
+ oqnknkhghkoojjkolk oqlfggikimoggiijhln nqkolmknmfkggkihgm 
+  1
+ oqnfljkkojkmfilkool oqmknhklilllmoojkmm nqliknfmlohmllljgm 
+  1
+ oqmlmoimghmhjkgming oqnifigkmhkfnjghnnm nqlljlolnfnflnjfih 
+  1
+ oqlokmnjffoomimgoik oqohfkfmghiiggooojli nqmgnnggljnmkhogin 
+  1
+ oqlloiljnfikmjgfnji oqojmlfohhlmkmmiijfh nqminlhlfkjkkhklgi 
+  1
+ oqkklhjflnihklmllgg roqokmoflnmfminofjofh nqnhijlogjofmhgol 
+  1
+ oqjkjjfhgkmiiihmhgk roqogohogiolgkojgnfgl nqnoonjnfjmilohoof 
+  1
+ oqhkfihhihiifmlolih roqogohogiolgkojgnfgl oqfkhofmoiflghlnnfk 
+  1
+ oqgjnjnimominjhfhil roqokmoflnmfminofjjkn oqghohnlnhnofomofgj 
+  1
+ oqfikikolmmfllnlfj oqojmlfohhlmkmmiinjl oqhgjghoohijhojhklf 
+  1
+ oqffnojfjmfllmhjogg oqohfkfmghiiggooojli oqhiiojjihohhofmijn 
+  1
+ nqoilmnmikiiokmojl oqnifigkmhkfnjghoig oqhnnfkogloogiknjgk 
+  1
+ nqnonhlnkijoimifnj oqmknhklilllmoojlhh oqiglojnhnkhgkijkkl 
+  1
+ nqnjlhfihhflolimgn oqlfggikimoggiijigi oqikkoomhmhnllllkk 
+  1
+ nqnihlmmhgfiogmngg oqkglgikkmfikfgjnhh oqillgjgmnggfmfkikh 
+  1
+ nqnihlmmhgfiogmngg oqjiggfhifjlhmoning oqillgjgmnggfmfkikh 
+  1
+ oqooomomkflmfmmhfooi 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V V V |
+  1
+300/ {rn {rn {hgk {lgi |
+  1
+<0:;8: {rn {hgj {hgi {hgh {hgg -:):-,:; {joj {rn |
+  1
+<0:;8: {rn {hgf {joh {hjm {hfo 90-(>-; {lgh {rn |
+  1
+<0:;8: {rn {joh {hgf {jjg {hol 90-(>-; {lgh {rn |
+  1
+<0:;8: {rn {jof {hfn {hfm {hfl -:):-,:; {mhk {rn |
+  1
+:;8: {fif {jgm {hfk {jof {hfj 90-(>-; |
+  1
+:336/,:r<*-): {rn rnqlffioilnklfgjkk oqjiggfhifjlhmonjmf oqlflhoohiminojhkom roqioooooonflhgiingg rmqkkfmflfmkiofflmf:ronh oqhffffffgjkiioolok oqkhmkkoflimfggmohm rmqgfmgiigkoofokimj:rong oqljkllohmonojjofol n V V |
+  1
+300/ {rn {rn {jnn {hfh |
+  1
+):-+:' {rn {jnm {hff |
+  1
+:336/,:r<*-): {rn rmqgnifmfnfkgmojhfm oqjiggfhifjlhmonjmf mqmglkikjohgojgjhl oqioooooonflhgiinff mqkkfmflfmkiofflnn:ronh roqhffffffgjkiioolmi roqlflhoohgomkfonhmg riqimfkgjjfinohifhn:ronh roqmfjmhjioooghfmknk n V V |
+  1
+<0:;8: {rn {goo {gon {jnl {ijo -:):-,:; {gom {rn |
+  1
+:;8: {fhi {ijk {ijf {jnl {gol 90-(>-; |
+  1
+<0:;8: {rn {gok {jnk {jnf {iil 90-(>-; {ijl {rn |
+  1
+<0:;8: {rn {jnk {gok {goo {goj -:):-,:; {ijl {rn |
+  1
+300/ {rn {rn {gok {goi |
+  1
+):-+:' {rn {jnj {gog |
+  1
+,+->687+r<*-): {rn rmqliijlgkofokngki oqnhkfomnnkgngijkol nqnfnkhklojlhknmn roqiookmomnmogngjjkg oqooolflmlnkjhfliofjfn oqhffigkjhnhkgjnohn V V |
+  1
+<0:;8: {rn {gof {jni {gon {gno 90-(>-; {ijg {rn |
+  1
+<0:;8: {rn {jni {gof {jng {iim -:):-,:; {ijg {rn |
+  1
+300/ {rn {rn {gof {gnn |
+  1
+):-+:' {rn {jnh {gnl |
+  1
+,+->687+r<*-): {rn rnqgkfmigkgmikkllfn oqnhjjmmhhfgigngnff nqkgiofgjgnkhmhml oqiookmomnnihljljjk oqooolfkfjhohffiikfjoj roqhffigkjhnmokihfmg V V |
+  1
+<0:;8: {rn {jnf {jng {gnk {gnj -:):-,:; {jmo {rn |
+  1
+:;8: {fgi {jmn {gni {ijh {gnh 90-(>-; |
+  1
+:;8: {fgg {jmm {gng {jnf {igh 90-(>-; |
+  1
+9><: {gnf {gmo {jmo {l {rn {gmn -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lfi mhfj |
+  1
+/061+ {rn rnqlffolhjhmnhmnnjg oqnhjgnghfhkifhmlim oqggikkhlinmlhmjgof |
+  1
+/061+ {rn rnqghnmfmlmjmgkfogh oqnhkjhhigjmmgogjjf oqjlngigjogjglhjkon |
+  1
+<0:;8: {rn {gmm {jmk {jmh {ihl -:):-,:; {iho {rn |
+  1
+<0:;8: {rn {jmk {gmm {jln {ihg 90-(>-; {iho {rn |
+  1
+300/ {rn {rn {gmm {gml |
+  1
+,+->687+r<*-): {rn rnqgkfmigkgmikkllfn oqfimmhminoghjgkgjf nqkgiofgjgnkhmhml roqiookmomnnihljljjk oqooolfkfjhohffiilmlg oqhffigkjhnmokihfmg V V |
+  1
+<0:;8: {rn {jmh {jmi {gmj {gmi -:):-,:; {jmg {rn |
+  1
+:;8: {ffh {gmh {jmf {iig {gnh 90-(>-; |
+  1
+9><: {gmg {goi {jmg {l {rn {gmn -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {lff mhfn |
+  1
+/061+ {rn rnqlffolhjhmnhmnnim oqfinfhijflmhkloijn oqggikkhlinmlhmjgof |
+  1
+<0:;8: {rn {jlm {jln {gmf {glo -:):-,:; {jll {rn |
+  1
+:;8: {nooo {gln {jlk {jln {glm 90-(>-; |
+  1
+9><: {gll {glk {jll {l {rn {glj -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kon mhgl |
+  1
+/061+ {rn rmqlkkjgnllgnflgkkl oqfimjfgjohfolmhffk mqnkjhfllofflllflf |
+  1
+<0:;8: {rn {gmf {gmj {jli {igl 90-(>-; {gli {rn |
+  1
+:;8: {nook {igi {igk {igm {glh 90-(>-; |
+  1
+):-+:' {rn {igl {glf |
+  1
+,+->687+r<*-): {rn rmqgnigliofnloiilhl oqohihhnhnnnmookhmnj nqhfnmnkkjhmhfgfoj mqkijnfolmggnjiinf:rolm n mqkijnfolmggnjiinf:rolm V V |
+  1
+):-+:' {rn {igl {gkn |
+  1
+,+->687+r<*-): {rn rnqghnmfmlmjmgkfogh oqohihhnhnnnmookhmnj oqjlngigjogjglhjkon mqkijnfolmggnjiinf:rolm n mqkijnfolmggnjiinf:rolm V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jlf mhim |
+  1
+/3>1:r,*-9><: {rn rmqlkkoikmogmfjhhl oqohihhnhnnnmookhmnj nqninjknkgmflngmmm roqhffigkilljhijmmkm rkqflolgoijhilnlmlg:rolm roqiookmomjgjolikknn roqiookmomjgjolikknn o oqhffigkilljhijmmkm 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {gkm {jkl {hng {gkl -:):-,:; {mil {rn |
+  1
+:;8: {nooh {hml {jih {jij {gkk 90-(>-; |
+  1
+,+->687+r<*-): {rn rnqolghhljijnkllhnm oqhijhkgomojjofmjhm oqiiklmjllgmofofkhg oqioooooonflhgiinkl mqkkfmflfmkioffmfg:ronh roqhffffffgjkiioomkg V V |
+  1
+<0:;8: {rn {jkg {gki {hij {gkh 90-(>-; {mil {rn |
+  1
+:;8: {nonn {imj {hho {imo {gkg 90-(>-; |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 k 
+  1
+ o l oqolgfghmhhihhoimnnj m oqoigmnmfnnnmglflllf m oqofhknhgjjohjolookf l 
+  1
+ oqghnkogkljhigimmmi oqhijhkgomojjofmjoi mqjmkhjgiimiilojnk 
+  1
+ oqgilinofhffgnliflg oqhijhkgomojjofmjoi mqjnklimojjkhnlgnf 
+  1
+ oqgjlglglkgoigojlnk oqhijhkgomojlfolklj mqjojjgihkonokjklj 
+  1
+ oqglklffgihofgojink oqhijhkgomojlfolklj mqkflhjfnfmfggigok 
+  1
+ oqgmjlfkfghgglnfnkl oqhijhkgomojjonmjkh mqkgfgiflhfgmjojkm 
+  1
+ oqgoiinjhkgkflnhinf oqhijhkgomojjonmjkh mqkgkiljjfkgfnfmil 
+  1
+ oqhfifolgooimnklgnh oqhijhkgogfohmgomlk mqkgllohojglhljhii 
+  1
+ oqhghnjfmhfoiiiofhi oqhijhkgogfohmgomlk mqkgllohojglhljhii 
+  1
+ mqilmglfkmlnjjgmkm:rooh 
+  1
+ ,/361: 90-(>-; $ -:9 m " V V V V 
+  1
+ /3>1: roqomnijljfkninfjkook oqhijhkgomojjofmjhm mqigonjhkhhkngohnm o n o o o n 90-(>-;@) V V V V 
+  1
+ 1*=, l 0/:1 k 
+  1
+ o l oqolgfghmhhihhoimnnj l oqoigmnmfnnnmglflllf l oqofhknhgjjohjolookf l 
+  1
+ o roqmiimflfmmnigjknik 
+  1
+ oqnljnfnikijkkonhjm roqmiloofhjmlhnjnhif 
+  1
+ oqmignifjfmghmnokgk roqmjfoofmnnnfojkkff 
+  1
+ oqkonimlhnlhkfholnl roqmjkifhjlnnngjhlmf 
+  1
+ oqjoniiljjggkoglhjg roqmjnkijknojifmlllg 
+  1
+ oqionokfkhifglkkjif roqmkgoghmnhilmlhifg 
+  1
+ oqhoognngjgnfhoiki roqmkkhomgninnjnnghf 
+  1
+ oqgoojolinjlokonokf roqmknlmognokfkmfgkl 
+  1
+ oqgfffohhomgkijkngh roqmlhfjkhhhmmimiilj 
+  1
+ n roqmlkhoholoiomifolg 
+  1
+ 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {knk iilg |
+  1
+:;8: {nonm {iog {hoo {jjn {gjo 90-(>-; |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 h 
+  1
+ oqmjjlionnlgnfkjklk l oqmfnhhhijkihhogiff m oqlmgnfjnfjjlkhnfjk m oqlikijmgignggihlmi m oqkonnjmhflnlhgnkmn m 
+  1
+ oqklhihggkghnlklmii m oqkhknfgonilngflli l 
+  1
+ roqlkimfnlogiokhgjnf oqingnnomhollogohml oqfjkgfilffnknkjinf 
+  1
+ roqlkfmfghohmjmjjljm oqingnnomhollogohml oqfklnljikgignmglfh 
+  1
+ roqljjjflmgijofjffkl oqingnnomhollogohml oqfmfffggmnnihflmhj 
+  1
+ roqlhoniolollmlnlkkl oqingnnomhollogohml oqfnojhinlloillfoli 
+  1
+ roqlgnoofnhionkfllgf oqingnnomhollogohml oqfoogjjomjhfgkhfij 
+  1
+ roqkonfnhnggnmflnjhi oqingnnomhollogohml oqgggkghffohmmmgmnl 
+  1
+ roqknjihhjlfhnlnjiom oqingnnomhollogohml oqgglijfojkmkoinijl 
+  1
+ roqklfhjkkhhjhohgiml oqingnnomhollogohml oqggomlkfkijflkihom 
+  1
+ roqkjkllmmiglinnflml oqingnnomhollogohml oqggnolflfinklnjimf 
+  1
+ roqkhhfnomfmhofomgil oqingnnomhollogohml oqgghogffihihoioojj 
+  1
+ roqkfnogmgnkkhgfjhnf oqingnnomhollogohml oqgflknokfglknfonhg 
+  1
+ roqjnojinjkoloihofik oqingnnomhollogohml oqfogonfjklkkffijni 
+  1
+ roqjmolnjfklifohfmh oqingnnomhollogohml oqfnggflnioijnohfim 
+  1
+ roqjmijmnmhojmkmhmnn oqingnnomhollogohml oqfmflijgkflmjlogfh 
+  1
+ oqooomnfhnjlfklnojjhgf 
+  1
+ +0-*, oqmlkmjnfnfjjikngjj oqjiggfhifjlhmonjmf oqkhmkkofngiiolhhil oqioooooonflhgiinff nqmmkikignlfhfgilj:roni oqhffffffgjkiioolmi oqgkikjiifmfnllgjgg roqofgkmjnfigjolflhoi oqhffffffgjkiioolmi o roqioooooonflhgiinff 90-(>-;@) V V V V 
+  1
+ /3>1: roqhhmihkjflnjojolmk oqingnnomhollogohml mqogfioimhofhmoom rmqkijnfolmggnjiimk:rolm n rgqojhokhofmfflffkf:ronh n mqkijnfolmggnjiimk:rolm hqkfghfgfnllofmgih:roll 90-(>-;@) V V V V 
+  1
+ 1*33=, 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {knh iijo |
+  1
+):-+:' {rn {ifh {gjl |
+  1
+:336/,:r<*-): {rn roqinmmokhjhkmfgjkjg oqingnnomhollogohml oqginmmokingknmkif mqkijnfolmggnjiimk:rolm rn o o o oqofgkmjnfigjolflhoi n V V |
+  1
+<0:;8: {rn {hfn {jjg {gjk {gjj -:):-,:; {mhk {rn |
+  1
+:;8: {nong {gji {jjf {jjg {hfj 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kmh nmohiho |
+  1
+/061+ {rn roqihnmjfghhkkhklfm oqingnnomhollogohml oqflffioinhgfnojoml |
+  1
+6;r+,3r>++-6= {rn {rn {rn {klo hhoo |
+  1
+/<*-): {rn n {gjh o o |
+  1
+6;r+,3r>++-6= {rn {rn {rn {klf gooo |
+  1
+/061+ {rn rmqklimljnlhoggonjj oqhijhkgomojjofmjhm mqjmhiohlkonokmijk |
+  1
+<0:;8: {rn {jif {hjh {gjg {gjf 90-(>-; {fl {rn |
+  1
+<0:;8: {rn {gio {gin {jif {hnm 90-(>-; {gim {rn |
+  1
+:;8: {nomh {hni {gil {hnn {gik 90-(>-; |
+  1
+<0:;8: {rn {gij {jho {gin {gii 90-(>-; {hnj {rn |
+  1
+<0:;8: {rn {jho {gij {jhm {hnf 90-(>-; {hnj {rn |
+  1
+300/ {rn {rn {jho {gih |
+  1
+):-+:' {rn {gii {gif |
+  1
+,+->687+r<*-): {rn rnqjfikjihogoffllnj oqlhmokhlonihnmmiki mqkgllohojglhljhii o o n V V |
+  1
+<0:;8: {rn {jhl {jhm {ifo {gkl 90-(>-; {jhk {rn |
+  1
+:;8: {noll {gho {jhj {hnk {ghn 90-(>-; |
+  1
+9><: {ghm {ghl {jhk {l {rn {ilk 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kkm loog |
+  1
+/061+ {rn rnqjfikjihogoffllnj oqlhmokhlonihnmmiki mqkgllohojglhljhii |
+  1
+):-+:' {rn {gkl {ghj |
+  3
+:336/,:r<*-): {rn rlqokoilooniihlmgjn oqjiggfhifjlhmonjmf mqkgllohojglhljhii rnqligkjjjlnjihmokm:rokg iqnmlmllffjhlihigj:ronh n oqhlgnggfgfhggffgni fqokomohgljnofnkhj:ronh rjqjljjlohfkkkiimnk:roll oqhffffffgjkiioomfl Y rnqfjhlogmlolnhkkfg Y nqfjhlogmlolnh
+  1
+kkfg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jhg hffi |
+  1
+,/361:r,*-9><: {rn 90-(>-; $ -:9 j " Y o Y n Y roqknnjmjioflfjljolm Y oqknnjjjghljnkijfoj |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kjo nmohiif |
+  1
+/061+ {rn roqihnmjfghhkkhklfm oqjnfigjnmoknlmokif oqflffioinhgfnojoml |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 k 
+  1
+ o l oqolgfghmhhihhoimnnj m oqoigmnmfnnnmglflllf m oqofhknhgjjohjolookf l 
+  1
+ oqghnkogkljhigimmmi oqhijhkgomojjofmjoi mqjmkhjgiimiilojnk 
+  1
+ oqgilinofhffgnliflg oqhijhkgomojjofmjoi mqjnklimojjkhnlgnf 
+  1
+ oqgjlglglkgoigojlnk oqhijhkgomojlfolklj mqjojjgihkonokjklj 
+  1
+ oqglklffgihofgojink oqhijhkgomojlfolklj mqkflhjfnfmfggigok 
+  1
+ oqgmjlfkfghgglnfnkl oqhijhkgomojjonmjkh mqkgfgiflhfgmjojkm 
+  1
+ oqgoiinjhkgkflnhinf oqhijhkgomojjonmjkh mqkgkiljjfkgfnfmil 
+  1
+ oqhfifolhgonkohinif oqhijhkgomojjofmjhm mqkgllohojglhljhin 
+  1
+ oqhghnjfmjgjgjfllmh oqhijhkgomojjofmjhm mqkgllohojglhljhin 
+  1
+ mqilmglfkmlnjjgmkm:rooh 
+  1
+ ,/361: 90-(>-; $ -:9 m " V V V V 
+  1
+ /3>1: roqomnijljfkninfjkook oqhijhkgomojjofmjhm mqigonjhkhhkngohnm o n o o o n 90-(>-;@) V V V V 
+  1
+ 1*=, l 0/:1 k 
+  1
+ o l oqolgfghmhhihhoimnnj l oqoigmnmfnnnmglflllf l oqofhknhgjjohjolookf l 
+  1
+ o roqmiimflfmmnigjknik 
+  1
+ oqnljnfnikijkkonhjm roqmiloofhjmlhnjnhif 
+  1
+ oqmignifjfmghmnokgk roqmjfoofmnnnfojkkff 
+  1
+ oqkonimlhnlhkfholnl roqmjkifhjlnnngjhlmf 
+  1
+ oqjoniiljjggkoglhjg roqmjnkijknojifmlllg 
+  1
+ oqionokfkhifglkkjif roqmkgoghmnhilmlhifg 
+  1
+ oqhoognngjgnfhoiki roqmkkhomgninnjnnghf 
+  1
+ oqgoojolinjlokonokf roqmknlmognokfkmfgkl 
+  1
+ oqgfffohhomgkijkngh roqmlhfjkhhhmmimiilj 
+  1
+ n roqmlkhoholoiomifolg 
+  1
+ 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+<0:;8: {rn {jfm {jfn {ghi {ghh 90-(>-; {lkl {rn |
+  1
+<0:;8: {rn {ghg {ghf {jfn {hlm -:):-,:; {ggo {rn |
+  1
+:;8: {nokk {hlf {ggn {jfn {ggm 90-(>-; |
+  1
+<0:;8: {rn {ggl {ggk {jfm {hlk -:):-,:; {ggj {rn |
+  1
+:;8: {nokg {ggi {hlg {jfm {ggh 90-(>-; |
+  1
+<0:;8: {rn {ggg {jfl {ggk {ggf 90-(>-; {hlh {rn |
+  1
+<0:;8: {rn {jfl {ggg {ghg {gfo -:):-,:; {hlh {rn |
+  1
+300/ {rn {rn {ggg {gfn |
+  1
+):-+:' {rn {jfk {gfl |
+  1
+):-+:' {rn {hlm {gfk |
+  1
+:336/,:r<*-): {rn nqjkjlngmikmimijii oqjiggfhifjlhmonjhl mqmmojmfmfoojofkgi oqjgfnfiljhljllkmnf mqkijnfolmggnjiimk:rolm oqgohfgfgglgfgoloj oqiokkjikjnmjiofook kqholkhkkfogomhhl:ronh roqkkohhhmmjjomifmni oqffffofhmnmokfkkmi V V |
+  1
+9><: {gfj {gfi {gfh {l {rn {gfg 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kik moho |
+  1
+/061+ {rn lqlmkgolnhomhhooji oqjiggfhifjlhmoning lqlkikjijfngmgklf |
+  1
+<0:;8: {rn {jff {jfg {gff {foo -:):-,:; {ioo {rn |
+  1
+9><: {fon {fom {ioo {l {rn {lgg 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kif nmohigk |
+  1
+<0:;8: {rn {fol {iom {fok {foj 90-(>-; {khm {rn |
+  1
+<0:;8: {rn {foi {foh {iom {hkf 90-(>-; {fog {rn |
+  1
+:;8: {nogn {fof {hjo {iom {fno 90-(>-; |
+  1
+):-+:' {rn {iol {fnm |
+  1
+,+->687+r<*-): {rn roqjjlnkfilhknmmiffh roqknjljkmhlnlnfmnhj oqflffioinhgfnojolk rnqmmkikihffnkhljlj:roni n riqnmlmllffjhlihihl:ronh Y roqlojnnfnnomlimmojn Y mqmhlimlokhmkkofki |
+  1
+<0:;8: {rn {iok {fol {ikn {hfo -:):-,:; {khm {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ioj nooooj |
+  1
+/3>1:r,*-9><: {rn oqnhjnfihffjlgglklg roqknjljkmhlnlnfmnhj oqlflhoohiminojhkng oqioooooonflhgiingg nqmmkikignlfhfgill:roni oqhffffffgjkiioolnj oqhffffffgjkiioolnj iqnmlmlliffogijjif:ronh roqioooooonflhgiingg 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {khj hhjo |
+  1
+/061+ {rn roqjoogmlofjhggglmkk oqingnnomhollogohml oqfoohnjhofifmfihii |
+  1
+<0:;8: {rn {hno {inm {fnl {fnk 90-(>-; {fl {rn |
+  1
+<0:;8: {rn {fnj {fni {inm {hjf 90-(>-; {fnh {rn |
+  1
+:;8: {nogj {fng {hil {inm {fnf 90-(>-; |
+  1
+<0:;8: {rn {fmo {inl {ini {hii 90-(>-; {him {rn |
+  1
+<0:;8: {rn {inl {fmo {fnj {fmn -:):-,:; {him {rn |
+  1
+300/ {rn {rn {hio {fmm |
+  1
+):-+:' {rn {fmn {fmk |
+  1
+,+->687+r<*-): {rn roqomnijljfkninfjkook oqlhmokhlonihnmmiom mqghhoohgfikimjijg n o o V V |
+  1
+<0:;8: {rn {ini {inj {ifl {gkh -:):-,:; {inh {rn |
+  1
+:;8: {nofn {ing {fmj {hio {fmi 90-(>-; |
+  1
+9><: {fmh {fmg {inh {l {rn {fmf 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kgm fohkom |
+  1
+/061+ {rn oqlhmokhnflmlfimoff oqlhmokhlonihnmmiom mqghhoohgfikimjijg |
+  1
+):-+:' {rn {ifk {fln |
+  1
+,+->687+r<*-): {rn oqlhmokhnflmlfimoff oqhijhkgomojjofmjhm mqkgllohojglhljhii o rn o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {imm komffh |
+  1
+6;r+,3r>++-6= {rn {rn {rn {kgg gmhf |
+  1
+/061+ {rn oqhghnjfmhfoiiiofhi oqhijhkgogfohmgomlk mqkgllohojglhljhii |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ilm mfmn |
+  1
+9><: {flm {fll {ggj {l {rn {flk -:):-,:; ,6183: |
+  1
+300/ {rn {rn {flj {ilm |
+  1
+/3>1:r,*-9><: {rn nqohmglkimlgoinmmm roqnhfnllgooifofhik nqjfojjnnlkjihjgif roqjgfnfiljhljllknfh rmqkijnfolmggnjiinf:rolm roqgohfgfgglgfgololf roqgohfgfgglgfgololf o oqjgfnfiljhljllknfh 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {fli {fnl {fni {flh -:):-,:; {ill {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ili gln |
+  1
+300/ {rn {gli {flg {ili |
+  3
+<01:r,*-9><: {rn rnqlffioilnklfgjkk oqjiggfhifjlhmonjmf oqlflhoohiminojhkng roqioooooonflhgiingg rmqkkfmflfmkiofflon:ronh oqhffffffgjkiioollh roqlnkfioimknffmnk rjqloljggkhiggininl:ronh roqmlimmokgoohollfli nqooooooooooooooom V V o n oqlflhoohghkonjhkff 9
+  1
+0-(>-; V V V V |
+  1
+<0:;8: {flf {fko {fkn {fkm {fkl 90-(>-; {ilh {fkk |
+  1
+<0:;8: {rn {hgk {hgk {fkj {fki 90-(>-; {ilf {rn |
+  1
+<0:;8: {rn {fkh {iko {fkg {fkf -:):-,:; {joj {rn |
+  1
+<0:;8: {rn {iko {fjo {fjn {fjm 90-(>-; {joj {rn |
+  1
+<0:;8: {rn {fjl {fjk {iko {hgg 90-(>-; {fjj {rn |
+  1
+:;8: {nnkk {fji {fjh {hgh {fjg 90-(>-; |
+  1
+<0:;8: {rn {ikm {ikn {fjf {fio -:):-,:; {lgh {rn |
+  1
+:;8: {nnjn {hoo {fin {hjm {hjn 90-(>-; |
+  1
+<0:;8: {rn {ikl {hom {fim {fil -:):-,:; {mhk {rn |
+  1
+<0:;8: {rn {fik {fij {ikl {hfl 90-(>-; {fii {rn |
+  1
+:;8: {nnjf {hfk {fih {ikl {fig 90-(>-; |
+  1
+):-+:' {rn {foo {fho |
+  1
+,+->687+r<*-): {rn roqihnmjfghhkkhklfm roqknjljkmhlnlnfmnhj oqflffioinhgfnojolk nqmmkikihffnkhljlj:roni rn iqnmlmllffjhlihigj:ronh Y rmqmhlimlokhmkkofki Y oqlojnnfnnomlimmojn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jno hhon |
+  1
+9><: {fhn {fhm {fhl {l {rn {fhk -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jnm gml |
+  1
+/061+ {rn rlqmnoimffhjoifjfhj oqjiggfhifjlhmonjmf nqfggnggfohhnhflll |
+  1
+<0:;8: {rn {fhj {ikf {ijm {goj 90-(>-; {gom {rn |
+  1
+<0:;8: {rn {ikf {fhj {iji {gno -:):-,:; {gom {rn |
+  1
+300/ {rn {rn {fhj {glk |
+  1
+:336/,:r<*-): {rn rmqjgohoghnkhjomkog oqjiggfhifjlhmonjmf nqfigjolgglioiikln roqiookmonhjhgjfiihk rnqmlmjfjnikkohglof:rolm oqhffigkifjigmhnomg roqlfljkjihmmjnlfffn riqimggjmkmnoonnnoj:ronh roqmfjkgmknohkofhhmj oqffffffgimolokhmhj V V |
+  1
+<0:;8: {rn {ijm {ijn {flg {fhh -:):-,:; {ijl {rn |
+  1
+:;8: {nnii {ijk {fhg {ijm {igj 90-(>-; |
+  1
+9><: {fhf {iik {ijl {l {rn {igf -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jnj mhfl |
+  1
+/061+ {rn rmqgnigliofnloiilhl oqnhjnfiggmgkohjnl nqhfnmnkkjhmhfgfoh |
+  1
+<0:;8: {rn {ijh {iji {fgo {fgn -:):-,:; {ijg {rn |
+  1
+:;8: {nnif {ijf {fgm {gon {glm 90-(>-; |
+  1
+9><: {fgl {ihk {ijg {l {rn {fgk -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jnh mhgf |
+  1
+/061+ {rn rmqlkkjgnllgnflgkkl oqnhjnfiggmgkohjokn mqnkjhfllofflllflf |
+  1
+<0:;8: {rn {fgo {flg {iin {gnj 90-(>-; {hgn {rn |
+  1
+:;8: {nnhn {gng {gni {gnk {fgj 90-(>-; |
+  1
+):-+:' {rn {gnj {fgh |
+  1
+,+->687+r<*-): {rn rnqlffolhjhmnhmnnjg oqohihhnhnnnmookhmnj oqggikkhlinmlhmjgof mqkijnfolmggnjiinf:rolm n mqkijnfolmggnjiinf:rolm V V |
+  1
+):-+:' {rn {fhh {fgf |
+  1
+6;r+,3r>++-6= {rn {rn {rn {iik komhil |
+  1
+9><: {ffo {ffn {ffm {l {rn {hjk 90-(>-; ,6183: |
+  1
+/3>1:r,*-9><: {rn rnqiljnikfkghmgjnml oqohihhnhnnnmookhmnj oqhofnjhflkfnojoii oqiookmonhjhgjfiiil nqmlmjfjnikkohglof:rolm roqhffigkifjigmhnooi roqhffigkifjigmhnooi rmqkijnfolmggnjiinf:rolm roqiookmonhjhgjfiiil 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {iif {iig {ffl {ffk -:):-,:; {iho {rn |
+  1
+9><: {ffj {gnn {iho {l {rn {fgk -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jmj mhgh |
+  1
+<0:;8: {rn {igm {ffl {ihm {gmi 90-(>-; {gli {rn |
+  1
+:;8: {nnhg {gmh {igi {gmj {ffi 90-(>-; |
+  1
+):-+:' {rn {gmi {ffg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ihk mhil |
+  1
+<0:;8: {rn {ffl {igm {ihh {glo 90-(>-; {gli {rn |
+  1
+:;8: {nnhf {igk {gln {gmf {fff 90-(>-; |
+  1
+):-+:' {rn {ffk {noon |
+  1
+,+->687+r<*-): {rn rmqlkkjgnllgnflgkkl oqohihhnhnnnmookhmnj mqnkjhfllofflllflf mqkijnfolmggnjiinf:rolm n mqkijnfolmggnjiinf:rolm V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ihf mhij |
+  1
+9><: {noom {gml {gom {l {rn {glj -:):-,:; ,6183: |
+  1
+/3>1:r,*-9><: {rn rmqjgohoghnkhjomkog oqohihhnhnnnmookhmnj nqfigjolgglioiikmk roqiookmonhjhgjfiiil rnqmlmjfjnikkohglof:rolm oqhffigkifjigmhnooi oqhffigkifjigmhnooi mqkijnfolmggnjiinf:rolm oqiookmonhjhgjfiiil 90-(>-;@) V V V V |
+  1
+300/ {rn {nool {igm {ili |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ :'><+<*- 1*-=, m 0/:1 m 
+  1
+ o m nqhfnnghffgfingjln m 
+  1
+ rnqglihkgmfolokjloh oqglomhjjhjimmggnig oqkgjgionhhikjokffi n 
+  1
+ rmqlhjjhhiokjgfkmnf oqgmfhkkkiifhikgmnf nqmoljnllgmkijlfhm n 
+  1
+ rmqfnmmnliinfjjhfn oqgmfmnniioiikflhnm nqfngmkjkkljginihi n 
+  1
+ o 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*33=, 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ Y n Y o " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jlh mhhn |
+  1
+/061+ {rn rmqgnigliofnloiilhl oqgmfloilmifhlmjnfn nqhfnmnkkjhmhfgfoj |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jlg mhif |
+  1
+/061+ {rn rnqghnmfmlmjmgkfogh oqglomknjmmjgfmijgh oqjlngigjogjglhjkon |
+  1
+<0:;8: {rn {nooj {ifo {gij {nooi -:):-,:; {mil {rn |
+  1
+:;8: {nngj {gho {hml {hng {gkg 90-(>-; |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 k 
+  1
+ o l oqokilffogolhmjhimon m oqohinifigfikhfigili m oqnojjkhjmfhjkhgjmk l 
+  1
+ rmqlkkijghimholgghj oqhijhkgogfohmgomlk mqkgllohojglhljhii 
+  1
+ rmqlionmjnmmgmgohfl oqhijhkgogfohmgomlk mqkgllohojglhljhii 
+  1
+ rmqlhjjlfgfkmmhlgmh oqhijhkgomojfhkighn mqkgiljfmljhkfhfgn 
+  1
+ rmqlffooinfngnkmngh oqhijhkgomojfhkighn mqkfionlfgmimioofj 
+  1
+ rmqkohiflgmgfkjkogk oqhijhkgomojjinkljj mqjoofkmhlmffooiln 
+  1
+ rmqkmllhgnojngfigj oqhijhkgomojjinkljj mqjnmgjmkjfoijhkjn 
+  1
+ rmqklolhonfgnjomnhf oqhijhkgomojjofmjhm mqjnfhghkmnfnjnign 
+  1
+ rmqklimljnlhoggonik oqhijhkgomojjofmjhm mqjmhiohlkonokmijk 
+  1
+ lqhhjogliikglgmofg:rooh 
+  1
+ ,/361: 90-(>-; $ -:9 j " V V V V 
+  1
+ /3>1: roqomnijljfkninfjkook oqhijhkgomojjofmjhm mqigonjhkhhkngohnm o n o o o n 90-(>-;@) V V V V 
+  1
+ 1*=, l 0/:1 k 
+  1
+ o l oqokilffogolhmjhimon l oqohinifigfikhfigili l oqnojjkhjmfhjkhgjmk l 
+  1
+ n oqllfglihgilgjlmljj 
+  1
+ oqgjnhjjlhhjgifjmog oqljonohmjjnhhjomil 
+  1
+ oqhoilhmhgfnhohlmhi oqlinmonkikkiljgoof 
+  1
+ oqjioghhikgnmmnihlk oqlhmlnojlhijnlojgk 
+  1
+ oqkihjmkfjhkfomgj oqlhfklglkgifokonmm 
+  1
+ oqlhklimhfnniginghi oqlgijkkjgkgkmjnlog 
+  1
+ oqmgokkjlnogkolfifm oqlflmihkkminnfolgl 
+  1
+ oqnghhiifonmkjlfkik oqlfffoniokkhmnnknj 
+  1
+ oqofkiilffolhfnnkflh oqkoinlghlhninfifhk 
+  1
+ o oqknnjniifknkgoiig 
+  1
+ 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jkk iilh |
+  1
+<0:;8: {rn {ifl {noog {fmo {noof 90-(>-; {mil {rn |
+  1
+:;8: {nngg {fmj {hho {ifl {nono 90-(>-; |
+  1
+,+->687+r<*-): {rn nqojhhmfnoigfkoglf oqhijhkgogfohmgomlk mqkgllohojglhljhii roqfffffffffffffffnn rmqkijnfolmggnjiiom:rolm rhqkfghfgfnllofmhfg:roll V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jkf gmhg |
+  1
+,+->687+r<*-): {rn roqjljnlflimgjgihkmj oqingnnomhollogohml oqfmikjmfnnmfknglhm roqhffffffgjkiioolok kqglkmmgknnflnngi:ronh oqioooooonflhgiinhi V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jjm nmohigi |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jjh nmohihn |
+  1
+/061+ {rn roqjjlnkfilhknmmiffh oqingnnomhollogohml oqflffioinhgfnojoml |
+  1
+<0:;8: {rn {nonl {nonk {hom {gjj 90-(>-; {nonj {rn |
+  1
+:;8: {nnfm {noni {gji {hom {nonh 90-(>-; |
+  1
+):-+:' {rn {hol {nonf |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 k 
+  1
+ o l oqokilffogolhmjhimon m oqohinifigfikhfigili m oqnojjkhjmfhjkhgjmk l 
+  1
+ rmqlkkijghlmkmnmni oqhijhkgomojjofmjhm mqkgllohojglhljhjm 
+  1
+ rmqlionmjofmjkjkohg oqhijhkgomojjofmjhm mqkgllohojglhljhjm 
+  1
+ rmqlhjjlfgfkmmhlgmh oqhijhkgomojfhkighn mqkgiljfmljhkfhfgn 
+  1
+ rmqlffooinfngnkmngh oqhijhkgomojfhkighn mqkfionlfgmimioofj 
+  1
+ rmqkohiflgmgfkjkogk oqhijhkgomojjinkljj mqjoofkmhlmffooiln 
+  1
+ rmqkmllhgnojngfigj oqhijhkgomojjinkljj mqjnmgjmkjfoijhkjn 
+  1
+ rmqklolhonfgnjomnhf oqhijhkgomojjofmjhm mqjnfhghkmnfnjnign 
+  1
+ rmqklimljnlhoggonik oqhijhkgomojjofmjhm mqjmhiohlkonokmijk 
+  1
+ lqhhjogliikglgmofg:rooh 
+  1
+ ,/361: 90-(>-; $ -:9 j " V V V V 
+  1
+ /3>1: roqomnijljfkninfjkook oqhijhkgomojjofmjhm mqigonjhkhhkngohnm o n o o o n 90-(>-;@) V V V V 
+  1
+ 1*=, l 0/:1 k 
+  1
+ o l oqokilffogolhmjhimon l oqohinifigfikhfigili l oqnojjkhjmfhjkhgjmk l 
+  1
+ n oqllfglihgilgjlmljj 
+  1
+ oqgjnhjjlhhjgifjmog oqljonohmjjnhhjomil 
+  1
+ oqhoilhmhgfnhohlmhi oqlinmonkikkiljgoof 
+  1
+ oqjioghhikgnmmnihlk oqlhmlnojlhijnlojgk 
+  1
+ oqkihjmkfjhkfomgj oqlhfklglkgifokonmm 
+  1
+ oqlhklimhfnniginghi oqlgijkkjgkgkmjnlog 
+  1
+ oqmgokkjlnogkolfifm oqlflmihkkminnfolgl 
+  1
+ oqnghhiifonmkjlfkik oqlfffoniokkhmnnknj 
+  1
+ oqofkiilffolhfnnkflh oqkoinlghlhninfifhk 
+  1
+ o oqknnjniifknkgoiig 
+  1
+ 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+<0:;8: {rn {nomo {nomn {hno {gjf -:):-,:; {nomm {rn |
+  1
+:;8: {nnfi {noml {gil {hno {nomk 90-(>-; |
+  1
+<0:;8: {rn {nomj {hnn {nomn {nomi 90-(>-; {gim {rn |
+  1
+<0:;8: {rn {hnn {nomj {hnl {gii -:):-,:; {gim {rn |
+  1
+300/ {rn {rn {gio {gfi |
+  1
+):-+:' {rn {hnm {nomg |
+  1
+,+->687+r<*-): {rn rnqjfikjihogoffllnj oqlhmokhlonihnmmiki mqghhoohgfikimjijg n o o V V |
+  1
+<0:;8: {rn {hnk {hnl {gkm {nooi 90-(>-; {hnj {rn |
+  1
+:;8: {nmoo {hni {nomf {gin {nolo 90-(>-; |
+  1
+9><: {noln {fmm {hnj {l {rn {nolm -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jhn hkol |
+  1
+/061+ {rn rnqjfikjihogoffllnj oqlhmokhlonihnmmiki mqghhoohgfikimjijg |
+  1
+):-+:' {rn {nooi {nolk |
+  1
+,+->687+r<*-): {rn rnqjfikjihogoffllnj oqhijhkgomojjofminh mqkgllohojglhljhii o rn o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hmo momffh |
+  1
+9><: {nolj {noli {nolh {l {rn {nolg 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jhi hffg |
+  1
+/061+ {rn rmqlkkijghimholgghj oqhijhkgogfohmgomlk mqkgllohojglhljhii |
+  1
+<0:;8: {rn {nolf {noko {hlo {ghh -:):-,:; {hhh {rn |
+  1
+:;8: {nmoi {ggn {ggi {hlo {nokn 90-(>-; |
+  1
+<0:;8: {rn {nokm {hln {hli {gfo 90-(>-; {ggo {rn |
+  1
+<0:;8: {rn {hln {nokm {nolf {nokl -:):-,:; {ggo {rn |
+  1
+300/ {rn {rn {nokm {fll |
+  1
+):-+:' {rn {hlm {nokj |
+  1
+:336/,:r<*-): {rn ngqijmgjohojlomggf oqjiggfhifjlhmonfmf mjqolojhnlflijikom oqgohfgfgglgfgoloj rnqmlmjfjnikkohglof:rolm roqjgfnfiljhljllkmnf rlmqgooiojhffifljj riqhhnnfgghhinjiklh:ronj rkkqfgogjhfhfokngmm oqonlkligigihhmgjlln V V |
+  1
+<0:;8: {rn {noki {hll {noko {nokh 90-(>-; {ggj {rn |
+  1
+<0:;8: {rn {hll {noki {hlj {ggf -:):-,:; {ggj {rn |
+  1
+300/ {rn {rn {noki {hhi |
+  1
+):-+:' {rn {hlk {nokf |
+  1
+:336/,:r<*-): {rn rniqjohngnkjhifohmh oqjiggfhifjlhmonmng rmnqgkfkifnmkjmnllj roqgohfgfgglgfgoloj nqmlmjfjnikkohglof:rolm oqjgfnfiljhljllkmnf rlmqgooiojhffifljj riqhhnnfgghhinjiklh:ronj rkkqfgogjhfhfokngmm oqonlkligigihhmgjlln V V |
+  1
+<0:;8: {rn {hli {hlj {nojo {nojn -:):-,:; {hlh {rn |
+  1
+:;8: {nmng {hlg {nojm {ggk {nojl 90-(>-; |
+  1
+:;8: {nmmo {hlf {nojk {hli {nojj 90-(>-; |
+  1
+9><: {noji {jlf {hlh {l {rn {nojh -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {jfk mfkl |
+  1
+/061+ {rn nqmngiimigimkifglk roqoiokfililhniomngj mqkjghloilkjlhkmg |
+  1
+/061+ {rn nqgjkghkggfggljkl roqohljfjmoongojohljf nqffkhfihninnonikn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hkn moig |
+  1
+9><: {nojg {nojf {gim {l {rn {noio 90-(>-; ,6183: |
+  1
+300/ {rn {jfj {noin {hkn |
+  1
+/3>1:r,*-9><: {rn mqhmilhhfgkmfgkfgj oqjiggfhifjlhmoning lqhfjmhjjolfimoglg oqioooooonflhgiingg nqmmkikignlfhfgill:roni oqhffffffgjkiioolnj rnqmmkikihffnkhljl:roni n riqnmlmllffjhlihikg:ronh 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {noim {noil {hkk {foo 90-(>-; {noik {rn |
+  1
+:;8: {nmmh {hjo {hfk {hkk {noij 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hkj nohgon |
+  1
+9><: {noii {noih {noig {l {rn {noif 90-(>-; ,6183: |
+  1
+<0:;8: {rn {hjm {hkh {noho {nohn -:):-,:; {khm {rn |
+  1
+<0:;8: {rn {nohm {nohl {hkh {foj -:):-,:; {nohk {rn |
+  1
+:;8: {nmli {fof {nohj {hkh {nohi 90-(>-; |
+  1
+<0:;8: {rn {nohh {hkg {noil {nohg 90-(>-; {fog {rn |
+  1
+<0:;8: {rn {hkg {nohh {nohm {nohf 90-(>-; {fog {rn |
+  1
+300/ {rn {rn {foh {nogo |
+  1
+):-+:' {rn {foj {nogm |
+  1
+,+->687+r<*-): {rn roqonlhhfjinjkjnkffmn roqlnifmfohimgnjmgmm oqjljkllokojhinnfng roqhffffffgjkiioomhn riqnmlmlliffogijjlm:ronh oqioooooonflhgiinjk Y rnqkiijlhohflmiofin Y nqoihfnjoknmgmimhh |
+  1
+6;r+,3r>++-6= {rn {rn {rn {iol mohgoj |
+  1
+/061+ {rn roqjjlnkfilhknmmiffh roqlnifmfohimgnjmgmm oqflffioinhgfnojolk |
+  1
+<0:;8: {rn {hhf {nogl {hjh {fnk -:):-,:; {ill {rn |
+  1
+:;8: {nmki {fng {noml {fnl {kgh 90-(>-; |
+  1
+<0:;8: {rn {nogk {hjg {hin {fmn 90-(>-; {fnh {rn |
+  1
+<0:;8: {rn {hjg {nogk {hhf {flh 90-(>-; {fnh {rn |
+  1
+300/ {rn {rn {hjg {fmg |
+  1
+):-+:' {rn {flh {nogi |
+  1
+,+->687+r<*-): {rn roqomnijljfkninfjkook oqlhmokhlonihnmmiom mqkgllohojglhljhii o o n V V |
+  1
+<0:;8: {rn {hin {hio {gki {noof -:):-,:; {him {rn |
+  1
+:;8: {nmkh {hil {nogh {hin {nogg 90-(>-; |
+  1
+9><: {nogf {hih {him {l {rn {nofo 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ink gohlfj |
+  1
+/061+ {rn roqomnijljfkninfjkook oqlhmokhlonihnmmiom mqghhoohgfikimjijg |
+  1
+):-+:' {rn {noof {nofm |
+  1
+,+->687+r<*-): {rn oqlhmokhnflmlfimoff oqlhmokhlonihnmmiom mqghhoohgfikimjijg o n o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hih lohlfo |
+  1
+9><: {nofl {nofk {fnh {l {rn {nofj -:):-,:; ,6183: |
+  1
+/3>1:r,*-9><: {rn oqlhmokhnflmlfimoff oqjiggfhiinnnnohjgh mqigonjhkhhkngohni n o o o o rn 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {imn lohlff |
+  1
+/061+ {rn oqlhmokhnflmlfimoff oqhijhkgomojjofmjhm mqkgllohojglhljhii |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hhi mfmo |
+  1
+9><: {nofi {gfn {ggo {l {rn {nofh -:):-,:; ,6183: |
+  1
+/3>1:r,*-9><: {rn oqfgiifjioknnhknlog roqnhfnllgooifofhik mqnkoimkliknjflmlk roqgohfgfgglgfgololf o oqjgfnfiljhljllknfh oqjgfnfiljhljllknfh mqkijnfolmggnjiinf:rolm oqgohfgfgglgfgololf 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {noko {nolf {nofg {noff -:):-,:; {hhh {rn |
+  1
+<0:;8: {rn {nogl {hhf {nnoo {nnon 90-(>-; {ill {rn |
+  1
+:;8: {nmjj {nnom {fng {fni {nnol 90-(>-; |
+  1
+<0:;8: {rn {gnk {nnok {gok {fhh 90-(>-; {hgn {rn |
+  1
+,+6@-:3@>++-r,8r>++-6= {rn {rn {rn {hgl |
+  1
+<0:;8: {nnoj {nnoi {hgl {nnoh {nnog 90-(>-; {ilh {nnof |
+  1
+<0:;8: {rn {hgl {nnno {nnnn {nnnm 90-(>-; {ilh {nnnl |
+  1
+<0:;8: {nnnk {nnnj {nnni {hgl {fkl -:):-,:; {nnnh {nnng |
+  1
+:;8: {nmhf {nnnf {nnmo {hgl {nnmn 90-(>-; |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n /:-60;6< m 
+  1
+ riqmglngjlohnhfjgim n o n 
+  1
+ n n 
+  1
+ o n 
+  1
+ o 
+  1
+ ,/361: 90-(>-; $ -:9 nn " V V V V 
+  1
+ " o o |
+  1
+<0:;8: {rn {fkj {fkj {hgk {fki -:):-,:; {nnmm {rn |
+  1
+:;8: {nmgl {nnml {nnml {hgk {nnmk 90-(>-; |
+  1
+<0:;8: {rn {nnmj {hgj {nnmi {nnmh -:):-,:; {joj {rn |
+  1
+<0:;8: {rn {nnmg {nnmf {hgj {fkf 90-(>-; {nnlo {rn |
+  1
+:;8: {nmfj {nnln {fji {fkg {nnlm 90-(>-; |
+  1
+<0:;8: {rn {hgi {nnll {nnlk {nnlj 90-(>-; {joj {rn |
+  1
+<0:;8: {rn {nnli {nnlh {hgi {fjm -:):-,:; {nnlg {rn |
+  1
+:;8: {nlof {nnlf {fjh {fjn {nnko 90-(>-; |
+  1
+<0:;8: {rn {fjk {hgh {nnlh {nnkn 90-(>-; {fjj {rn |
+  1
+<0:;8: {rn {hgh {fjl {nnmg {nnkm 90-(>-; {fjj {rn |
+  1
+300/ {rn {rn {fjl {nnkl |
+  1
+):-+:' {rn {fkf {nnkj |
+  1
+):-+:' {rn {hgg {nnki |
+  1
+,+->687+r<*-): {rn roqjgmlglkkihnmfhohn oqjnfigjnmoknlmokif oqhijoljimnlmfikghj roqhffffffghfhhkflin kqglkmmglgkfjofnhg:ronh oqiooooooniolooohnf V V |
+  1
+<0:;8: {rn {nnkh {nnkg {hgf {fio 90-(>-; {nnkf {rn |
+  1
+:;8: {nlni {gji {fin {hgf {nnjo 90-(>-; |
+  1
+):-+:' {rn {fio {nnjm |
+  1
+<0:;8: {rn {nnjl {nnjk {hfn {fil 90-(>-; {nohk {rn |
+  1
+:;8: {nlnh {fih {noni {fim {nnjj 90-(>-; |
+  1
+<0:;8: {rn {nnji {hfm {nnjk {nnjh 90-(>-; {fii {rn |
+  1
+<0:;8: {rn {hfm {nnji {noim {nnjg 90-(>-; {fii {rn |
+  1
+300/ {rn {rn {fik {noih |
+  1
+):-+:' {rn {fil {nnio |
+  1
+,+->687+r<*-): {rn rnqmnoimffjllnkjjgg roqlnifmfohimgnjmgmm oqjljkllokojhinnfjn roqhffffffgjkiioomjf rnqlkhnnnkhlnmfogmi:roni roqioooooonflhgiinjk Y rnqoihfnjoknmgmimgm Y nqkiijlhohflmiofii |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ikk nohgol |
+  1
+/061+ {rn roqihnmjfghhkkhklfm roqlnifmfohimgnjmgmm oqflffioinhgfnojolk |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hfh gmn |
+  1
+9><: {nnin {hkn {nnnh {l {rn {nnim -:):-,:; ,6183: |
+  1
+300/ {rn {iki {nnil {hfh |
+  1
+/3>1:r,*-9><: {rn rmqgnifmfnfkgmojhfm oqjiggfhifjlhmonjmf mqmglkikjohgojgjhl oqioooooonflhgiingg mqkkfmflfmkiofflm:ronh roqhffffffgjkiioolnj nqmmkikihffnkhljl:roni rn iqnmlmllffjhlihikg:ronh 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {gon {goo {nnok {nnik -:):-,:; {gom {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ijo mhgj |
+  1
+:;8: {nlmj {fhg {gng {flg {nnij 90-(>-; |
+  1
+):-+:' {rn {fhh {nnih |
+  1
+6;r+,3r>++-6= {rn {rn {rn {goi nomhim |
+  1
+<0:;8: {rn {nnok {gnk {gof {fgn 90-(>-; {hgn {rn |
+  1
+:;8: {nlmi {gni {fgm {fgo {nnig 90-(>-; |
+  1
+):-+:' {rn {fgn {nnho |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gnn lomhik |
+  1
+/3>1:r,*-9><: {rn rnqghngofkjjngmfg oqohihhnhnnnmookhmnj nqjninmolljjgjlmjf oqhffigkilljhijmmkm kqflolgoijhilnlmlg:rolm oqiookmomjgjolikknn oqiookmomjgjolikknn o roqhffigkilljhijmmkm 90-(>-;@) V V V V |
+  1
+:336/,:r<*-): {rn rnqiljgmiinmmfhkhkh oqjiggfhifjlhmonjmf oqhogiinnklfnkjgflk roqiookmonhjhgjfiihk rnqmlmjfjnikkohglof:rolm oqhffigkifjigmhnonh roqlnkglijlhgonnmool rjqlolognfligoogfon:ronh roqmlilgjfmgjfmhgnf oqffffffgimolokhmfh V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {iim komhhl |
+  1
+/061+ {rn rnqlffolhjhmnhmnnjg oqlofklomigjnlmojhi oqggikkhlinmlhmjgof |
+  1
+6;r+,3r>++-6= {rn {rn {rn {iil nomhif |
+  1
+/061+ {rn rnqghnmfmlmjmgkfogh oqlohjjlgignjkhikkf oqjlngigjogjglhjkon |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gmo j |
+  1
+9><: {nnhm {nnhl {nnhk {l {rn {mhj 90-(>-; ,6183: |
+  1
+300/ {rn {nnhj {nnhi {gmo |
+  1
+<0:;8: {rn {gmj {gmf {gmm {ffk 90-(>-; {gli {rn |
+  1
+:;8: {nllk {gln {gmh {ffl {nnhh 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gml mhik |
+  1
+:336/,:r<*-): {rn rnqiljgmiinmmfhkhkh oqjiggfhifjlhmonjmf oqhogiinnklfnkjgflk roqiookmonhjhgjfiihk rnqmlmjfjnikkohglof:rolm oqhffigkifjigmhnonh roqlnkglijlhgonnmool rjqlolognfligoogfon:ronh roqmlilgjfmgjfmhgnf oqffffffgimolokhmfh V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ihl mhhl |
+  1
+/061+ {rn rnqlffolhjhmnhmnnim oqgmglijnmmmlogmklh oqggikkhlinmlhmjgof |
+  1
+:336/,:r<*-): {rn rmqjgohoghnkhjomkog oqjiggfhifjlhmonjmf nqfigjolgglioiikln oqiookmonhjhgjfiihk nqmlmjfjnikkohglof:rolm roqhffigkifjigmhnonh roqlnkglijlhgonnmool rjqlolognfligoogfon:ronh roqmlilgjfmgjfmhgnf oqffffffgimolokhmfh V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ihg mhhi |
+  1
+/061+ {rn rmqlkkjgnllgnflgkkl oqgmfloilmifhlmjlig mqnkjhfllofflllflf |
+  1
+6;r+,3r>++-6= {rn {rn {rn {glk momhij |
+  1
+300/ {rn {nngo {nngn {ili |
+  1
+6;r+,3r>++-6= {rn {rn {rn {igl mhgo |
+  1
+<0:;8: {rn {nngm {gkm {nomj {nngl 90-(>-; {mil {rn |
+  1
+:;8: {nllg {nomf {gho {gkm {nngk 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ifn hfff |
+  1
+<0:;8: {rn {gki {nnoo {nogk {nngi -:):-,:; {mil {rn |
+  1
+:;8: {nlko {nogh {fmj {gki {nngh 90-(>-; |
+  1
+,+->687+r<*-): {rn oqlhmokhnflmlfimoff oqhijhkgomojjofmjhm mqghhoohgfikimjijg o o rn V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ifk lolooi |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ifh nmohigl |
+  1
+<0:;8: {rn {nngf {gjk {nnkg {nnfo 90-(>-; {nonj {rn |
+  1
+<0:;8: {rn {gjk {nngf {nnjl {nnfn 90-(>-; {nonj {rn |
+  1
+300/ {rn {rn {nonk {noli |
+  1
+):-+:' {rn {gjj {nnfl |
+  1
+,+->687+r<*-): {rn rnqmnoimffjllnkjjfm nqkjkhmkkihomjjjgi oqjljkllokojhinnfk oqhffffffgjkiioomjf nqlkhnnnkhlnmfogmi:roni oqioooooonflhgiinjk Y rnqkiijlhohflmiofil Y nqoihfnjoknmgmimgm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hol hgol |
+  1
+/061+ {rn roqihnmjfghhkkhklfij nqkjkhmkkihomjjjgi oqflffioinhgfnojoml |
+  1
+<0:;8: {rn {nnfk {gjg {nogl {nnfj -:):-,:; {nomm {rn |
+  1
+<0:;8: {rn {gjg {nnfk {gio {nomi -:):-,:; {nomm {rn |
+  1
+300/ {rn {rn {nomn {nojf |
+  1
+):-+:' {rn {gjf {nnfh |
+  1
+,+->687+r<*-): {rn rnqmomhjjfmoifhhjij oqlhmokhlonihnmmiki mqkgllohojglhljhii o o n V V |
+  1
+<0:;8: {rn {gin {gio {nooj {nngl -:):-,:; {gim {rn |
+  1
+:;8: {nlkg {gil {nnfg {gio {nnff 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hnm hlfj |
+  1
+/061+ {rn rnqmomhjjfmoifhhjij oqlhmokhlonihnmmiki mqghhoohgfikimjijg |
+  1
+):-+:' {rn {gii {nmon |
+  1
+,+->687+r<*-): {rn rnqjfikjihogoffllnj oqlhmokhlonihnmmiki mqghhoohgfikimjijg o n o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gih hlfn |
+  1
+/3>1:r,*-9><: {rn rnqjfikjihogoffllnj oqjiggfhiinnnnohiln mqigonjhkhhkngohni n o o o o rn 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hnf nohkon |
+  1
+/061+ {rn rnqjfikjihogoffllnj oqhijhkgomojjofminh mqkgllohojglhljhii |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ghl hfmk |
+  1
+9><: {nmom {nmol {nonj {l {rn {nmok 90-(>-; ,6183: |
+  1
+300/ {rn {rn {nmoj {ghl |
+  1
+<01:r,*-9><: {rn roqohmglkignjimhljkmi nqkjkhmkkihomjjjgi oqkjiifmggkjmilnjf roqhffffffgjkiioomjf gqokfnnifmgjlmlglf:roni oqioooooonflhgiimjk oqoknhjgmhjgmgmnfhmi oqoifjfhnmknlmjlkml oqojjihhifgmfkjomggj n V V o n oqofgkmjnfigjolflifm 90-(>-; V V V V |
+  1
+<0:;8: {rn {flj {ghi {ghf {nokl 90-(>-; {hhh {rn |
+  1
+<0:;8: {rn {ghi {flj {ggl {nokh -:):-,:; {hhh {rn |
+  1
+:336/,:r<*-): {rn nqohmglkimlgoinml oqjiggfhifjlhmonjhl nqjfojjnnlkjihjgi roqjgfnfiljhljllkmnf rmqkijnfolmggnjiimk:rolm roqgohfgfgglgfgoloj oqiokkjikjnmjiofook kqholkhkkfogomhhl:ronh roqkkohhhmmjjomifmni oqffffofhmnmokfkkmi V V |
+  1
+<0:;8: {rn {ghf {ghg {nmoh {nmog -:):-,:; {ggo {rn |
+  1
+:;8: {nljj {ggn {nmof {ghf {nmno 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hlm mfkn |
+  1
+/061+ {rn nqlfofkohmjimkkom roqoihnihjohljookjjog nqljgjgknhjljlfjkh |
+  1
+<0:;8: {rn {ggk {ggl {nmnn {nmnm -:):-,:; {ggj {rn |
+  1
+:;8: {nljf {ggi {nmnl {noko {nmnk 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hlk mflf |
+  1
+/061+ {rn oqhjkhmgjmnfghgkmhf roqoihnihjohljookkim nqgmmjngoflhgnmngf |
+  1
+<0:;8: {rn {nmnn {nmoh {ggg {nojn 90-(>-; {nmnj {nmni |
+  1
+:;8: {nlin {nojk {nojm {nojo {nmnh 90-(>-; |
+  1
+):-+:' {rn {nojn {nmnf |
+  1
+,+->687+r<*-): {rn nqmngiimigimkifglk roqnhfnllgooifofhik mqkjghloilkjlhkmg mqkijnfolmggnjiinf:rolm n mqkijnfolmggnjiinf:rolm V V |
+  1
+):-+:' {rn {nmog {nmmn |
+  1
+,+->687+r<*-): {rn nqgjkghkggfggljkl roqnhfnllgooifofhik nqffkhfihninnonikn mqkijnfolmggnjiinf:rolm n mqkijnfolmggnjiinf:rolm V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gfn mfnf |
+  1
+/3>1:r,*-9><: {rn nqjlihighggoijmili roqnhfnllgooifofhik mqmmihilihjlmlhfi oqjgfnfiljhljllknfh mqkijnfolmggnjiinf:rolm oqgohfgfgglgfgololf oqgohfgfgglgfgololf o roqjgfnfiljhljllknfh 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gfi hlgi |
+  1
+9><: {nmmm {gih {nomm {l {rn {nmml 90-(>-; ,6183: |
+  1
+/3>1:r,*-9><: {rn rnqjfikjihogoffllnj oqjiggfhiinnnnohiln mqghhoohgfikimjijg o o n o rn o 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {noin {noin {nmmk {nmmj 90-(>-; {gfh {rn |
+  1
+<0:;8: {rn {noil {gff {fij {nnjg -:):-,:; {noik {rn |
+  1
+<0:;8: {rn {gff {noim {foi {nohg -:):-,:; {noik {rn |
+  1
+300/ {rn {rn {noil {nmmi |
+  1
+:336/,:r<*-): {rn roqinmmokhjhkmfgjkjg roqlnifmfohimgnjmgmm oqginmmokingknmkhon nqmmkikihffnkhljlj:roni rn o o o oqofgkmjnfigjolflhkg n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fom h |
+  1
+9><: {nmmg {nogo {fii {l {rn {nmmf 90-(>-; ,6183: |
+  1
+300/ {rn {nohk {nmlo {fom |
+  1
+/3>1:r,*-9><: {rn roqinmmokhjhkmfgjjol roqknjljkmhlnlnfmnhj roqnfigjoklkfngmikfl o riqnmlmllffjhlihihl:ronh roqfffffffffffffffgf roqfffffffffffffffgf rnqmmkikihffnkhljlm:roni o 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {nmoj {nmln {fol {nohn 90-(>-; {nolh {rn |
+  1
+:;8: {nlhm {fin {nohj {fol {nmlm 90-(>-; |
+  1
+<0:;8: {rn {nmll {fok {foh {nohf -:):-,:; {nohk {rn |
+  1
+<0:;8: {rn {fok {nmlk {nmoj {nmlj -:):-,:; {nohk {rn |
+  1
+300/ {rn {rn {nohl {fom |
+  1
+):-+:' {rn {nohn {nmlh |
+  1
+,+->687+r<*-): {rn oqfimjfgljijohjmllj roqknjljkmhlnlnfmnl roqnfigjoklkfngmikfl rnqmmkikihffnkhljl:roni n riqnmlmllffjhlihikg:ronh V V |
+  1
+<0:;8: {rn {foh {foi {nmlg {nmlf 90-(>-; {fog {rn |
+  1
+:;8: {nlgn {hjo {nmko {foi {nmkn 90-(>-; |
+  1
+:;8: {nlgl {nmkm {fof {nohm {nmkl 90-(>-; |
+  1
+9><: {nmkk {nmmi {fog {l {rn {nmkj 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hkf hgij |
+  1
+/061+ {rn oqfimjfgljijohjmllj roqlnifmfohimgnjmgmm roqnfigjoklkfngmikfl |
+  1
+<0:;8: {rn {fnl {fli {nomo {nnfj 90-(>-; {ill {rn |
+  1
+<0:;8: {rn {fni {fnj {noog {nngi 90-(>-; {fnh {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hjf nnohkol |
+  1
+/061+ {rn roqomnijljfkninfjkook oqlhmokhlonihnmmiom mqkgllohojglhljhii |
+  1
+):-+:' {rn {fmn {nmkg |
+  1
+,+->687+r<*-): {rn roqomnijljfkninfjkook oqlhmokhlonihnmmiom mqghhoohgfikimjijg o n o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fmm mohlgi |
+  1
+/3>1:r,*-9><: {rn roqomnijljfkninfjkook oqjiggfhiinnnnohjgh mqghhoohgfikimjijg o o n o rn o 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hii johlfm |
+  1
+/061+ {rn oqlhmokhnflmlfimoff oqhijhkgomojjofmjhm mqghhoohgfikimjijg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fmg kohlfn |
+  1
+9><: {nmkf {nmjo {nnlo {l {rn {nmjn -:):-,:; ,6183: |
+  1
+/3>1:r,*-9><: {rn roqomnijljfkninfjkook oqjiggfhiinnnnohjgh mqigonjhkhhkngohni n o o o o rn 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fll mfng |
+  1
+/3>1:r,*-9><: {rn nqimmfohgohhjlfhml roqnhfnllgooifofhik nqihiifokkjhlmojfl oqgohfgfgglgfgololf o roqjgfnfiljhljllknfh roqjgfnfiljhljllknfh rmqkijnfolmggnjiinf:rolm roqgohfgfgglgfgololf 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {nmoh {nmnn {flj {noff 90-(>-; {nmnj {nmjm |
+  1
+:;8: {nlgi {nmnl {nmof {nofg {nmjl 90-(>-; |
+  1
+<0:;8: {rn {noog {nngm {fli {nnon -:):-,:; {mil {rn |
+  1
+:;8: {nlgh {nnom {nmjk {fli {gkg 90-(>-; |
+  1
+):-+:' {rn {nngi {nmji |
+  1
+,+->687+r<*-): {rn roqomnijljfkninfjkook oqhijhkgomojjofmjhm mqkgllohojglhljhii o rn o V V |
+  1
+<0:;8: {rn {flg {fgo {fhj {nnik 90-(>-; {hgn {rn |
+  1
+,+6@-:3@>++-r,8r>++-6= {rn {rn {rn {fko |
+  1
+<0:;8: {nmjh {nnnn {fko {nmjg {nmjf 90-(>-; {ilh {nmio |
+  1
+<0:;8: {nmin {nmim {nmjg {fko {nnog -:):-,:; {nnnh {nmil |
+  1
+:;8: {nmik {nnmo {nmij {fko {nmii 90-(>-; |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n /:-60;6< m 
+  1
+ riqmglngjlohnhfjgim n o n 
+  1
+ n n 
+  1
+ o n 
+  1
+ o 
+  1
+ ,/361: 90-(>-; $ ,461,*- Y^ SLZ ^ M\ LTVQ m 
+  3
+  rn rn rn rn o :336/,: oqnhjnfihffjlgglkgm oqjiggfhifjlhmoning oqlflhoohiminojhkil oqioooooonflhgiimhi rlqjhllnnnhfkiknkhf:roni oqhffffffgjkiioomkg oqlhhfjmhkfolfojjim rjqoikjljlmjkgmiigg:roni roqmglkikjhiogkkohnm n Y o Y iqmglngjlohnhfjgim o o o 1*33@,*
+  1
+-9><: o g 1*33@3>( 
+  3
+  rn rn rn rn n :336/,: oqikhilhhjfihfjnlfg oqjiggfhifjlhmonjhl nqomlimmonnoofoonh oqioooooonflhgiimgh rlqjhllnnnhfkiknkfl:roni oqhffffffgjkiioomjf oqjnfigjomffmghomnk riqfilhliohmjlgihfi:roni roqlgfhilhfmnnioioll n Y o Y iqmglngjlohnhfjgim o o o 1*33@,*-
+  1
+9><: o g 1*33@3>( 
+  1
+  o 
+  1
+  1*=, l l /:-60;6< 0/:1 101: 101: nh m 
+  1
+  o l oqoflhj m oqnmj m oqnghj m oqmj m 
+  1
+  oqmgnmj m oqlhj m oqkighj m oqj m oqjimj m 
+  1
+  oqimj m oqijimj m oqhj m oqgklhj m oqghj m 
+  1
+  oqflhj m n l 
+  1
+  o l n l 
+  1
+  oqjjlnkfjkgjhhgfoji oqjiggfhifjlhmonjhl oqnnomlingijminihk 
+  1
+  oqjjlnkfjkgjhhgfn oqiiniinmjhfhgonlih oqnnomlingijminiifi 
+  1
+  oqjloigmlilhhingolf oqhjkmknhlhhhmmlinl oqnmhogijhjfhhgofmi 
+  1
+  oqkhjhoffnmkofmffgl oqgjhogngkfonffgjkn oqniglnjfnijglinfkk 
+  1
+  oqkjffknkninkjjmgkn oqggnofflofgnfiokfk oqngonkmmgflhgmigfl 
+  1
+  oqkohkiikmnhiimgggf oqfkiiflojlfgjlmgii oqmnfkfgjlhnkggmmoi 
+  1
+  oqlijjkofhhilgmimff oqfgnhnonimlnnolkfm oqmjofkmimnglnihjhn 
+  1
+  oqmhknmjnlnfghjgnfl nqomfokmmihomillhh oqlnfjokjofjmfigoki 
+  1
+  oqmmkihoifgifijjon nqoknllgikomjlfojn oqljijfjllilifhjmkf 
+  1
+  oqnjokjfgkffjffhgog nqoknllgikomjlfojn oqknmmjlkhjhlofgkjf 
+  1
+  oqnmjhmljnmojofkjf nqolgmflmkkkojljjf oqklogojhlooffoolli 
+  1
+  oqomgihifihflkgikimg nqonkniljkiihnhffg oqjoljfoikngjfnhkmk 
+  1
+  roqolfjgnnjhgfjjlgjn oqfigjjhiljlhlfolgm oqjjkhgkmlggnjkhjnm 
+  1
+  roqnkkjlnnkiijkongon oqglhlhonkhokmkjilg oqillkfihlkljijgngl 
+  1
+  roqngnonjghjomfkfgji oqhjmokhkggmokljkil oqiiogiomgmonfnoojm 
+  1
+  roqmoolnfilmgijikmfm oqilohlflojgjjlgijn oqihjllgnonnmigliml 
+  1
+  roqmomhjjfkfjoommofn oqjffgngggmfohlkfkm oqihhnijllgifkfgnkn 
+  1
+  roqmomhjjfkfjoommofn oqjohojjlmolonljnfm oqihhnijllgifkfgnkn 
+  1
+  roqnfmfnggjnofiggmkj oqkkjmlhmhhjikkgloi oqiifhghjnkjmonjlfj 
+  1
+  roqnjjojlnigonmjikgi oqllofihkigkmjnljli oqiknlggmjohhlhlfng 
+  1
+  roqnmholfkgngioflgin oqmhgjioiimlnloomli oqimolhhfgjoffhlnog 
+  1
+  roqohkjikkghkgniffogm oqmnmfiifngnkhmhgkm oqjgnomnhlhlmfnhhj 
+  1
+  roqojjljojnfnfnohloll oqnflmjimfhkjfkhmok oqjiiinnmiolglfhfif 
+  1
+  oqomifmnjiglnmkkhjnf oqnmkjkohlmoomkgnlf oqjokfohnfnikmkmijf 
+  1
+  oqnoofgjfjogomminkh oqofikjihjokfonmhifi oqkkfljgfonfhngohnh 
+  1
+  oqmkfkohikgmhjkohmf oqofikjihjokfonmhmjm oqllgokmimlmkflkmof 
+  1
+  oqlmlkhmolohijmmog oqnmkjkohlmoomkgofj oqmgmkfkllljhghmmih 
+  1
+  oqkojhkknngmighknlj oqnflmjimfhkjfkhnnj oqmmohfomikglhnhoon 
+  1
+  oqkmkfjgogijjflihgk oqmnmfiifngnkhmhhjl oqmoilhfhghgfnfhnln 
+  1
+  oqkhhkllogoflgiohgn oqmhgjioiimlnloonkh oqnihomljkonmnkngng 
+  1
+  oqjojkkihihofomlkjn oqllofihkigkmjnlkkh oqnkionlmhkkkhkofik 
+  1
+  oqjkllnmkjonhkjjnij oqkkjmlhmhhjikkgnhl oqnnhinkonohooffjln 
+  1
+  oqjjlnkfjkgjhhgfoji oqjohojjlmolonljojf oqnnomlingijminihk 
+  1
+  oqjjlnkfjkgjhhgfoji oqjiggfhifjlhmonjhl oqnnomlingijminihk 
+  1
+  oqhjhghlfimmjkiijhj oqjiggfhifjlhmonjhl oqmgkhhigilfgnhjgj 
+  1
+  oqhjhghlfimmjkiiinf oqihlmjihollolhilog oqmgkhhigilfgnhjgoj 
+  1
+  oqhlmjfglhfljmhknfh oqhhhkofhklohmmilhk oqlolhlljjmnnkgjjgi 
+  1
+  oqihohjklhnjijoonoi oqgflnokgigmmjfgnkj oqljonnijiomfilfmmh 
+  1
+  oqijlonkgnlmigmjghm oqfmonmkjnnimjjjlkm oqlilkmnmmfifolhmhm 
+  1
+  oqjflfgokkkjfninkli oqfflfnhkhlgnnffmfn oqkohifhoogklmmkkgg 
+  1
+  oqjkignklnffkhjgklk nqolllnnhmoihgknmk oqkklohniolhookjjim 
+  1
+  oqkklfhnkfljfojifm nqogijiollgkglnmhf oqjmomolhmhliohnohk 
+  1
+  oqlgglljmjinlgnjglk nqnoolflhjgliknknk oqjinflofohjjjhfmnn 
+  1
+  oqlokgkgojnlofjnkm nqnoolflhjgliknknk oqimkjkilnkllhnhgjj 
+  1
+  oqmhhonfihnningjlll nqofifihiggolkjmli oqikjknhioojonnffnm 
+  1
+  oqnihgkmlofolnminmf nqoifgmnhhgogkmhmh oqhmhlooimimlnlfnif 
+  1
+  oqofnojnfnhkhmojhijl nqongjnjnmhghknk oqhgkgflkmmgohmmffi 
+  1
+  roqomhonignfggnmlnfki oqghofmfmoljonminig oqghlkkkfgomfofhjnh 
+  1
+  roqoigoimnlflolikhjhl oqhhkfknmnmloglfihk oqfokmmgfhnknnlogfg 
+  1
+  roqogfhhggiigiflnoomi oqilgkifjohnijgohhj oqfmojnijnhfohjnnii 
+  1
+  roqofmjnfhmloglmofffl oqioligkolnlkfmijhk oqfmmjhmnionhnihkhi 
+  1
+  roqofmjnfhmloglmofffl oqkfflmjomlknhjnglf oqfmmjhmnionhnihkhi 
+  1
+  roqognkjmfghlhfkjkmhg oqkmfhhfhmjllgjknnk oqfnkmhmnohfhkfflgn 
+  1
+  roqolggjkoflfofjfihn oqlonmminfoojihhjkm oqggmlmmflimiomhhnk 
+  1
+  roqoohllgififgfonhkjif oqmkmmigjllngoimjnl oqgjgigilghlhhongog 
+  1
+  oqojnifjihnighimigfg oqnigkhjjhoffkngiof oqgnkknoiogiljnkjkh 
+  1
+  oqohllnnlgionkjgnjlh oqnkilonnmmhmokolkn oqhfgnfggmmohnhfhkf 
+  1
+  oqnijgihkgkkjiokmgm oqoigffinnnjgnmgflhh oqhmghgnhkkhlhjkffh 
+  1
+  oqmkfngffnkhjhogll oqolhkonilmlhfgfnnlh oqiiimgffnggjgnolmf 
+  1
+  oqkniniklmkknklhmon oqolhkonilmlhfgfoifm oqjknojfnojmfjllokn 
+  1
+  oqkffkgihjkhnjknmkg oqoigffinnnjgnmggfll oqkhgjihmhfknjgglmg 
+  1
+  oqjfmokmgjlnjighmgg oqnkilonnmmhmokomjm oqkofnjomomogniliii 
+  1
+  oqinlijgjihkglgmhjm oqnigkhjjhoffkngjm oqlfmflgknjjngmggml 
+  1
+  oqihmifmfliniokhmhh oqmkmmigjllngoimkmj oqlkgiimilihhiknioh 
+  1
+  oqhokmoglllognojmfn oqlonmminfoojihhkof oqlmjomioghgflnjinm 
+  1
+  oqhkigohmmijjofofjf oqkmfhhfhmjllgjlfgn oqmflohifninhgklfgf 
+  1
+  oqhjhghlfimmjkiijhj oqkfflmjomlknhjnhoi oqmgkhhigilfgnhjgj 
+  1
+  oqhjhghlfimmjkiijhj oqjiggfhifjlhmonjhl oqmgkhhigilfgnhjgj 
+  1
+  oqfimjfglhjflnkknlh oqjiggfhifjlhmonjhl oqkjflnhjknklhljook 
+  1
+  oqfimjfglhjflnkknlh oqigkgjmnkgimfjnmhn oqkjflnhjknklhlkfi 
+  1
+  oqflkjnklfkfmflomii oqgoojhhhkglhmmfnnm oqkgolgojmgmjnfomfm 
+  1
+  oqgijhfgglohmohongj oqfmfnmhgghklnfhhkf oqjlnfnhmokoofnijjl 
+  1
+  oqgkioggmnolfofggnk oqfjfnkfhnlklnjomlj oqjkihoonhooomkhhlf 
+  1
+  oqhgokfkkihkniflgjn nqoknnkngflilgijif oqjfjgfjkhfhnjiifol 
+  1
+  oqhmgoghiimmjifohom nqogkfnlmhfokjhgfi oqiljmoojgjjifmljjl 
+  1
+  oqinlgnhgjjnfljjkh nqnkkohgkofflffngm oqhmofomfkjnfnhknfm 
+  1
+  oqjjnfffgnljhfhijmk nqnjfkkgghikhklhhg oqhihmiikhghknglmng 
+  1
+  oqkjfmlimjmijfokfgg nqnjfkkgghikhklhhg oqgliglfnjmfkllhmjm 
+  1
+  oqkmglnjglomhmhjfgg nqnjjikmnlniilifnl oqgioomfkhofollfjlm 
+  1
+  oqlohoohijonmhijhfi nqnmjkgooofkfihkji oqfjnonoinoioliofjf 
+  1
+  oqmmnigkffmglfijkmi nqoigkhmimolhklhim nqonjoomioihfgfgjh 
+  1
+  oqofokfhjoigfnjjkjjg oqfokkggmjffiooiijk nqnnllflmmimmjligj 
+  1
+  oqokkgfnjfikmmmolgin oqhfhglkfliknmklfl nqnkhjfhiiogoljnhk 
+  1
+  oqomohingffnmhommgij oqikinffhogkhimmgfg nqnijifkflkiggnghn 
+  1
+  oqonhhnijollllgoofmi oqiohjkfnhfhfnngmj nqnihfhgfgnikgligi 
+  1
+  oqonhhnijollllgoofmi oqkfnjfkhmijlligjl nqnihfhgfgnikgligi 
+  1
+  oqoloonmghillhfhlgfl oqknklmmnhlnnmjffih nqnjghjihonkmfglkn 
+  1
+  oqohhlkkfgonfllhoffk oqmhnkgkfnniggknjok nqnmlmjhimnhkigni 
+  1
+  oqnnmlimoghggmfolif oqmojfhikokokgmkglj nqofiffkhgfijklojn 
+  1
+  oqnhhfjjglogjifjllm oqnmlfgkmmlgknoflln nqokhhffkhffknnnlk 
+  1
+  oqmonfhlmfnmmomljii oqofflkjfkhfgnlljmmj nqomfhgilglhjfinim 
+  1
+  oqlokgnlkoojffilhmk oqonlkjnkfnnioofhlim oqfjmijimfhglmihkif 
+  1
+  oqlfhlflghghnnfokmk roqomnijlkgjhlolkjkml oqgglmmofljhkkkool 
+  1
+  oqjgmfmnooojjlllihl roqomnijlkgjhlolkjgih oqhkkohjjghlknlnghl 
+  1
+  oqihjjonkhgiijiomgk oqonlkjnkfnnioofikhk oqihkikommjmjlokjml 
+  1
+  oqhhglknjggokjoojhj oqofflkjfkhfgnlllgfl oqjfhjnonlflminomgi 
+  1
+  oqgomljfokgkogmggof oqnmlfgkmmlgknofmkm oqjhfkfhoklnkkiojnj 
+  1
+  oqgihfjmhfnlgmllhmh oqmojfhikokokgmkhom oqjlolonhllklnknljn 
+  1
+  oqfomfifgffohnghogi oqmhnkgkfnniggknlmh oqjokolgfonllgfoloi 
+  1
+  oqfjolomoomfmhmihog oqknklmmnhlnnmjfhgf oqkigjlfgmnijjggkfm 
+  1
+  oqfimjfglhjflnkknlh oqkfnjfkhmijlliglfh oqkjflnhjknklhljook 
+  1
+  oqfimjfglhjflnkknlh oqjiggfhifjlhmonjmf oqkjflnhjknklhljook 
+  1
+  nqnihlmmhgfiogmnjh oqjiggfhifjlhmonjmf oqillgjgmnggfmfknnk 
+  1
+  nqnihlmmhgfiogmnii oqifikkhjflfjjmimlj oqillgjgmnggfmfkoif 
+  1
+  nqnlikloknojojgikh oqgmlhkjhjlihmlngj oqijhomhjoklggfkfog 
+  1
+  nqoiogklmgfghikok oqfijnjofoiilhfhljk oqhnlhnhgkhhmnflgli 
+  1
+  nqolfniniohjnlhngk oqffgnhkfnjmlhkjogl oqhmffhfnnolnkjgnng 
+  1
+  oqfihoogkfomkmmikkl nqoggliilnlkijlmnk oqhgkoflfjofffofngj 
+  1
+  oqfoflinookjiimmggn nqnlijnkglhknlnihl oqgmhlmfjihklgonjgf 
+  1
+  oqhgliikmnihfijknjm nqmonjfikgnlfihogi oqfmniomnilommhhmij 
+  1
+  oqhnjiiklhnomnlhlok nqmngjolffkjgkinkn oqfhmiomokffmhghnli 
+  1
+  oqinlimkkjkoogjgjji nqmngjolffkjgkinkn nqokfnlnffnjkfjii 
+  1
+  oqjhfinnfgflgliiigh nqmnklnijhjmfmgjfn nqohkiknlknlojjfnj 
+  1
+  oqkkinhmffnmmkojkil nqngnnlgmkofofmngg nqnhkhmojfkfhjgmh 
+  1
+  oqljmlngoigmohmjokm nqnngklonnmghkinmk nqmkjnnnhfohfohkoj 
+  1
+  oqmogonnglliiklkoim oqflgokhlnikngghngj nqljllknkhmnjfhinf 
+  1
+  oqnjhgkjllmnkgojkgj oqgmohmgiiojnikgnkn nqlfofiiljonfjhmjf 
+  1
+  oqnlnlomiijnmlljim oqijlfmffofhgiijomm nqknoghlljnkiggimn 
+  1
+  oqnmhfjmhmfhjognngk oqinnknklmgmlloffmh nqknllgjgolnmjoinf 
+  1
+  oqnmhfjmhmfhjognngk oqkglgikkmfikfgjmmn nqknllgjgolnmjoinf 
+  1
+  oqnknkhghkoojjkomjn oqlfggikimoggiijhhj nqkolmknmfkggkihlj 
+  1
+  oqnfljkkojkmfillfnk oqmknhklilllmoojkii nqliknfmlohmllljlj 
+  1
+  oqmlmoimghmhjkgmkgk oqnifigkmhkfnjghnnm nqlljlolnfnflnjfmn 
+  1
+  oqlokmnjffoomimhfl oqohfkfmghiiggooofg nqmgnnggljnmkhognk 
+  1
+  oqlloiljnfikmjgfoml oqojmlfohhlmkmmiijfh nqminlhlfkjkkhklk 
+  1
+  oqkklhjflnihklmlmn roqokmoflnmfminofjofh nqnhijlogjofmhhfgn 
+  1
+  oqjkjjfhgkmiiihmioi roqogohogiolgkojgnfgl nqnoonjnfjmiloifik 
+  1
+  oqhkfihhihiifmlonkj roqogohogiolgkojgmkmh oqfkhofmoiflghlohoi 
+  1
+  oqgjnjnimominjhfkjl roqokmoflnmfminofjfgj oqghohnlnhnofomojkn 
+  1
+  oqfikikolmmfllnlhmg oqojmlfohhlmkmmijmij oqhgjghoohijhojifjn 
+  1
+  oqffnojfjmfllmhkgmn oqohfkfmghiighfffikh oqhiiojjihohhofmmoh 
+  1
+  nqoilmnmikiiokmomm oqnifigkmhkfnjgifhf oqhnnfkogloogiknnk 
+  1
+  nqnonhlnkijoimigfh oqmknhklilllmoojmgf oqiglojnhnkhgkikfjk 
+  1
+  nqnjlhfihhflolimjf oqlfggikimoggiijjjl oqikkoomhmhnlllmfjn 
+  1
+  nqnihlmmhgfiogmnjh oqkglgikkmfikfgjokk oqillgjgmnggfmfknnk 
+  1
+  nqnihlmmhgfiogmnjh oqjiggfhifjlhmonjmf oqillgjgmnggfmfknnk 
+  1
+  oqooomomkflmfmmhfofihh 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  " V V V V 
+  1
+ " o o |
+  1
+<0:;8: {nmih {fkn {nnnn {nmig {nmif -:):-,:; {ilh {nmho |
+  1
+<0:;8: {rn {nnno {nnoi {fkn {nnnm -:):-,:; {ilh {nmhn |
+  1
+:;8: {nlfk {nmhm {nnnf {nnnn {nmhl 90-(>-; |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n 0/:1 m 
+  1
+ roqgohogiinknhlmmgkh n o n 
+  1
+ o n 
+  1
+ o o 
+  1
+ oqoon 
+  1
+ ,/361: 90-(>-; $ -:9 nn " V V V V 
+  1
+ " o o |
+  1
+,+6@-:3@>++-r,8r>++-6= {rn {rn {rn {fkm |
+  1
+<0:;8: {rn {nmmk {fkm {nmhk {nmhj 90-(>-; {nnnh {nmhi |
+  1
+<0:;8: {rn {fkm {nmim {nmim {nmhh -:):-,:; {nnnh {nmhg |
+  1
+300/ {rn {nmnj {nnni {fhm |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n /:-60;6< m 
+  1
+ o n iqmglngjlohnhfjgim n 
+  1
+ o o 
+  1
+ n o 
+  1
+ oqoon 
+  1
+ ,/361: 90-(>-; $ ,461,*- Y^ SLZ ^ M\ LTVQ m 
+  3
+  rn rn rn rn o :336/,: oqikhilhhjfihfjnjhi oqjiggfhifjlhmoniim nqomlimmonnoofooim oqioooooonflhgiingg nqmmkikignlfhfgill:roni oqhffffffgjkiioolmi oqjnfigjomffmgholom lqfhhifnngmkhhkgfk:ronh roqlgfhilhfmnniojfff n Y o Y iqmglngjlohnhfjgim o o o 1*33@,*-9>
+  1
+<: o g 1*33@3>( 
+  3
+  rn rn rn rn n :336/,: mqhmilhhfgkmfgjomn oqjiggfhifjlhmoniim lqhfjmhjjolfimoggm oqioooooonflhgiingg nqmmkikignlfhfgill:roni oqhffffffgjkiioolmi oqjnfigjomffmgholom lqfhhifnngmkhhkgfk:ronh roqlgfhilhfmnniojfff n Y o Y iqmglngjlohnhfjgim o o o 1*33@,*-9><
+  1
+: o g 1*33@3>( 
+  1
+  o 
+  1
+  1*=, l l /:-60;6< 0/:1 101: 101: nm m 
+  1
+  o l oqoflhj m oqnghj m oqmgnmj m oqlhj m 
+  1
+  oqkighj m oqjimj m oqijimj m oqhj m oqgklhj m 
+  1
+  oqflhj m n l 
+  1
+  o l n l 
+  1
+  nqnihlmmhgfiogmngg oqjiggfhifjlhmoniim oqillgjgmnggfmfkikh 
+  1
+  nqnihlmmhgfiogmngg oqifikkhjflfjjmilig oqillgjgmnggfmfkikh 
+  1
+  nqnlikloknojojgiij oqgmlhkjhjlihmlmomg oqijhomhjoklggfjkgj 
+  1
+  nqomlokfhmfjinihjk nqoljgjlkglnmogomi oqhkmoilonflggklhgg 
+  1
+  oqfkohgjmonjogijnog nqnmomkkkmiknhmgln oqgolhinkngjknglmol 
+  1
+  oqhjmmkoonfgjknmnkg nqmnhgiigfmlfmjfj oqfkjnholnnfngfiimg 
+  1
+  oqikillnkggkilkhlmn nqmlofojhkmkgkihff nqomkionhnkkhokhfl 
+  1
+  oqkkinhmffnmmkojkng nqngnnlgmkofofmnfj nqnhkhmojfkfhjglmk 
+  1
+  oqljmlngoigmohmjogh nqnngklonnmghkinmi nqmkjnnnhfohfohkjm 
+  1
+  oqmogonnglliiklknoi oqflgokhlnikngghngj nqljllknkhmnjfhihm 
+  1
+  oqnjhgkjllmnkgojjl oqgmohmgiiojnikgnkn nqlfofiiljonfjhlog 
+  1
+  oqnngolnllninnoohhi oqjhojlojlkkmnhlkng nqkmogmigjmnojklki 
+  1
+  oqnmgkimknnkfjnigf oqklgnkkgihhhglognf nqknlooljknhfhjogm 
+  1
+  oqmoijiolgmgjijhkog oqmomkillgikmgkollk nqljkklooiolmojmgm 
+  1
+  oqmhkohlnlimihmmoil oqoffilmhmkkflfkhmmm nqlolhfjkfmhohmjik 
+  1
+  oqkklhjflnihklmllgg roqokmoflnmfminofjofh nqnhijlogjofmhgol 
+  1
+  oqjkjjfhgkmiiihmhgk roqogohogiolgkojgnfgl nqnoonjnfjmilohoof 
+  1
+  oqhkfihhihiifmlolih roqogohogiolgkojgnfgl oqfkhofmoiflghlnnfk 
+  1
+  oqgjnjnimominjhfhil roqokmoflnmfminofjjkn oqghohnlnhnofomofgj 
+  1
+  nqomnmomlglofngnok oqoffilmhmkkflfkihhg oqhklkkgjmflnohjikj 
+  1
+  nqogghnjnlijomkjhk oqmomkillgikmgkomgf oqifmgnlfinifhkgkkk 
+  1
+  nqnjlhfihhflolimgn oqlfggikimoggiijigi oqikkoomhmhnllllkk 
+  1
+  nqnihlmmhgfiogmngg oqkglgikkmfikfgjnhh oqillgjgmnggfmfkikh 
+  1
+  nqnihlmmhgfiogmngg oqjiggfhifjlhmoning oqillgjgmnggfmfkikh 
+  1
+  nqgiomlinfhgnkjkhf oqjiggfhifjlhmoniim nqjjhhkmhnijklfhlh 
+  1
+  nqgiomlinfhgnkjkhf oqifikkhjflfjjmilki nqjjhhkmhnijklfhlh 
+  1
+  nqgmflklgnghnmnfjn oqgmlhkjhjlihmlmooi nqjgofnmoomolffgmn 
+  1
+  nqhnjfilnlhhigook nqoljgjlkglnmogomi nqiijfkhjnholfkijn 
+  1
+  nqillifgiofhnkfgom nqnmomkkkmiknhmgln nqhmhikjfninfmgjfm 
+  1
+  nqkkjnjlkmgoiokjon nqmnhgiigfmlfmjfj nqgifojkgofjiffflj 
+  1
+  nqllfmkkgfiiifgong nqmlofojhkmkgkihff nqfkgkgimnmnmnjoij 
+  1
+  nqnlfogilffklolgll nqngnnlgmkofofmnfj mqofgiojofmimigjfi 
+  1
+  nqokjmlnkhiknljhfj nqnngklonnmghkinmi mqnigffimggkknhhmi 
+  1
+  oqfoofmjmknghoiifif oqflgokhlnikngghngj mqmhhmmjfifgnohfkg 
+  1
+  oqgjohjghkoljklgklh oqgmohmgiiojnikgnkn mqlnkgjogkhgkihjg 
+  1
+  oqgnofkkhlfgnhlligl oqjhojlojlkkmnhlkng mqlkkhnnlkfhjiking 
+  1
+  oqgmnlhjgnfhonkfhfg oqklgnkkgihhhglognf mqlligggolfkkgjlji 
+  1
+  oqgffkhlhfnoimfolnj oqmomkillgikmgkollk mqmhglnkjjhfhnjjji 
+  1
+  oqfiifgijkkkhljkfh oqoffilmhmkkflfkhmmm mqmmhihfffoljgmgli 
+  1
+  nqnliihmhmkfkfjil roqokmoflnmfminofjofh mqnooknjlkgjhggloi 
+  1
+  nqmlgjnnmjoghlojif roqogohogiolgkojgnfgl mqomkolikjomgnhmgn 
+  1
+  nqkkmjfnogkgfgilmh roqogohogiolgkojgnfgl nqghofhijiholgllfk 
+  1
+  nqjkkkmfinogmmnmih roqokmoflnmfminofjjkn nqhfkjfhiighknmlhl 
+  1
+  nqhnknnjhfnmfgnlfn oqoffilmhmkkflfkihhg nqiihlllomifinhglf 
+  1
+  nqhgnimgjkkhoghgij oqmomkillgikmgkomgf nqiniifgkjflkgjnnf 
+  1
+  nqgkihnonghjoffjhm oqlfggikimoggiijigi nqjihgghmmkhgkling 
+  1
+  nqgiomlinfhgnkjkhf oqkglgikkmfikfgjnhh nqjjhhkmhnijklfhlf 
+  1
+  nqgiomlinfhgnkjkhf oqjiggfhifjlhmoning nqjjhhkmhnijklfhlh 
+  1
+  mqjjlnkfioiomoghi oqjiggfhifjlhmoniim mqkgnimhmnknfjooof 
+  1
+  mqjjlnkfioiomoghi oqifikkhjflfjjmilig mqkgnimhmnknfjooof 
+  1
+  mqjmmmjhmmifngjmkm oqgmlhkjhjlihmlmomg mqjokhfikffifnoofl 
+  1
+  mqkogghijkjfhkllln nqoljgjlkglnmogomg mqjgfglmonkifokfml 
+  1
+  mqlmiinmonhfmnlogl nqnmomkkkmiknhmgll mqijnjloknlgklggik 
+  1
+  mqnlgoiiglimiihhfm nqmnhgiigfmlfmjfjl mqhfmflflohmmnomoh 
+  1
+  mqolmnjglokghinlof nqmlofojhkmkgkigon mqghmlhohofhhmjllh 
+  1
+  nqglnfffgohilihnnk nqngnnlgmkofofmnfh lqommkgfjfomhhggig 
+  1
+  nqhlgnkkggkinffogi nqnngklonnmghkinmg lqofmggohgiofmhffk 
+  1
+  nqjflglgijoohiffgg oqflgokhlnikngghngj lqmonnnokihkingmni 
+  1
+  nqjklihmnkgjiohnmi oqgmohmgiiojnikgnkn lqmlghljlkjkfhhgjm 
+  1
+  nqjolgjgnkgomliij oqjhojlojlkkmnhlkng lqmigjfjgkhkohkgf 
+  1
+  nqjnkmgfmmhfohgmim oqklgnkkgihhhglognf lqmiohhmjlhoffjimg 
+  1
+  nqjfmlghnffmifmlnl oqmomkillgikmgkollk lqmomnffojjimmjgmg 
+  1
+  nqijfgfffjmihfghhf oqoffilmhmkkflfkhmmm lqnjnjikkggooflnog 
+  1
+  nqgmfjginllnjjgfnn roqokmoflnmfminofjofh lqomkmffgkimmfgjhk 
+  1
+  nqflnkmkijfohflgjn roqogohogiolgkojgnfgl mqfkhfmofkhflmhjjl 
+  1
+  mqnljjokkflnokfiof roqogohogiolgkojgnfgl mqhfkginoikigfliil 
+  1
+  mqmlhlklonfomgkjkf roqokmoflnmfminofjjkn mqhngkgmniilfmmikl 
+  1
+  mqkohomfnffjokkign oqoffilmhmkkflfkihhg mqjfnmnhjmkinmgnof 
+  1
+  mqkhkjknfjmfnjnnkh oqmomkillgikmgkomgf mqjkojgmfjifffjlgg 
+  1
+  mqjlfimljfjhnimgjk oqlfggikimoggiijigi mqkfnhhnhmmkljlggg 
+  1
+  mqjjlnkfioiomoghi oqkglgikkmfikfgjnhh mqkgnimhmnknfjooof 
+  1
+  mqjjlnkfioiomoghi oqjiggfhifjlhmoning mqkgnimhmnknfjooof 
+  1
+  lqmkioilonkmmhmojn oqjiggfhifjlhmoniim lqkojjnnhnngkiomgj 
+  1
+  lqmkioilonkmmhmojn oqifikkhjflfjjmilki lqkojjnnhnngkiomgj 
+  1
+  lqmnjnhoiljnmkgjlm oqgmlhkjhjlihmlmooi lqkmgigoffhlkmolif 
+  1
+  lqnonhgffjkngoiimm nqoljgjlkglnmogomi lqjnlhnijnmlknjnff 
+  1
+  lqonfjmjkminmhilhk nqnmomkkkmiknhmgln lqjhjknkfnnkfkfnkn 
+  1
+  mqglofgomkkkhlnohk nqmnhgiigfmlfmjfj lqhnigmlgokghmokgl 
+  1
+  mqhmjohnhnlogmkjfn nqmlofojhkmkgkihff lqhfimjjmohkmljink 
+  1
+  mqjmkfnlmnjgklokoj nqngnnlgmkofofmnfj lqfkilhkoghfmgfnkk 
+  1
+  mqklnojgmfmgmimlig nqnngklonnmghkinmi kqonihijmglhklgmhf 
+  1
+  mqmgihjmojgmgllmif oqflgokhlnikngghngj kqnmkffkfijnnmgkfm 
+  1
+  mqmlijgjjjihihokni oqgmohmgiiojnikgnkn kqniminfgklnkggnmk 
+  1
+  mqnfihhnjjimmfffkn oqjhojlojlkkmnhlkng kqnfmkgolkjojgjnii 
+  1
+  mqmohmomilinnknjjm oqklgnkkgihhhglognf kqngkijholkhjojgfi 
+  1
+  mqmgjlooiohkhjjiok oqmomkillgikmgkollk kqnmiogljjlmhliofj 
+  1
+  mqljmgnllioggimoh oqoffilmhmkkflfkhmmm kqohjkkgfgjiiollgf 
+  1
+  mqjmmkffjknlimmmom roqokmoflnmfminofjofh lqfkgngklklggoggj 
+  1
+  mqimkllgoihmgjhnkm roqogohogiolgkojgnfgl lqghngojkkjjglhgmf 
+  1
+  mqgmgknhfonlnnmf roqogohogiolgkojgnfgl lqhnghkjjimlkolfk 
+  1
+  mqflomjikmhmlkhgk roqokmoflnmfminofjjkn lqikmliiiikoklmfnf 
+  1
+  lqofffkmiohhnohfil oqoffilmhmkkflfkihhg lqjnjnomommmilglgj 
+  1
+  lqnihkjjlinnmnkklg oqmomkillgikmgkomgf lqkikkihkjkijojiij 
+  1
+  lqmlmjlhoolfmminkk oqlfggikimoggiijigi lqknjijimmoogiknij 
+  1
+  lqmkioilonkmmhmojn oqkglgikkmfikfgjnhh lqkojjnnhnngkiomgj 
+  1
+  lqmkioilonkmmhmojn oqjiggfhifjlhmoning lqkojjnnhnngkiomgj 
+  1
+  oqooomomkflmfmmhfomgof 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  " V V V V 
+  1
+ " o o |
+  1
+):-+:' {rn {nmjf {nmgo |
+  1
+):-+:' {rn {nmhh {nmgn |
+  1
+:336/,:r<*-): {rn oqikhilhhjfihfjnjhi oqjiggfhifjlhmoniim nqomlimmonnoofooim oqioooooonflhgiingg nqmmkikignlfhfgill:roni oqhffffffgjkiioolmi oqjnfigjomffmgholom lqfhhifnngmkhhkgfk:ronh roqlgfhilhfmnniojfff n Y o Y iqmglngjlohnhfjgim |
+  1
+300/ {rn {nmgm {fkj {nnhl |
+  1
+):-+:' {rn {fki {nmgk |
+  1
+:336/,:r<*-): {rn oqogohogiloojijkfnjg oqjiggfhifjlhmoning oqmihhnijkmffmonhik oqiooooooniolooohil nqmmkikignnknihfok:roni oqhffffffghfhhkfkoj roqlimmokhngfiinggnn rgqhggfkmginhhjmhkl:roni oqmhnijljjojikhihof oqfffffffffffffffgf V V |
+  1
+<0:;8: {rn {nmgj {fkh {nmgi {nmgh 90-(>-; {joj {rn |
+  1
+<0:;8: {rn {nmgg {nmgf {fkh {nnmh 90-(>-; {nmfo {rn |
+  1
+:;8: {nkoi {nmfn {nnln {nnmi {nmfm 90-(>-; |
+  1
+<0:;8: {rn {nmfl {fkg {fjk {nnkm -:):-,:; {nnlo {rn |
+  1
+<0:;8: {rn {fkg {nmfl {nmgg {nmfk -:):-,:; {nnlo {rn |
+  1
+300/ {rn {rn {nmfl {nofk |
+  1
+):-+:' {rn {nmfk {nmfi |
+  1
+,+->687+r<*-): {rn roqjnnmohlohfffffknk oqnmjfgklogklojgkfj oqhnnijljnjoiikgfff nqmmkikihffnkhljlj:roni rn iqnmlmllffjhlihigj:ronh V V |
+  1
+<0:;8: {rn {fjo {nmgj {nmfh {nmfg -:):-,:; {joj {rn |
+  1
+<0:;8: {rn {nmff {nloo {fjo {nnlj -:):-,:; {nlon {rn |
+  1
+:;8: {nknj {nlom {nnlf {fjo {nlol 90-(>-; |
+  1
+<0:;8: {rn {nlok {fjn {nloo {nloj 90-(>-; {nnlg {rn |
+  1
+<0:;8: {rn {fjn {nloi {fjl {nnkn -:):-,:; {nnlg {rn |
+  1
+300/ {rn {nloh {nnlh {nlog |
+  1
+):-+:' {rn {nnlj {nlno |
+  1
+,+->687+r<*-): {rn roqinmmokhjnmfkilgif roqlnifmfohgjnogljil oqhghkoniooiffjilkk rnqmmkikihffnkhljl:roni n riqnmlmllffjhlihikg:ronh V V |
+  1
+:;8: {nkmm {fjh {nlnn {fjl {nlnm 90-(>-; |
+  1
+:;8: {nkmk {nlnn {fji {fjk {nlnl 90-(>-; |
+  1
+9><: {nlnk {njl {fjj {l {rn {mjo 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hgg nmohihm |
+  1
+/061+ {rn roqjnnmohlohfffffjol oqjnfigjnmoknlmokif oqhnnijljnjoiikfomm |
+  1
+/061+ {rn roqinmmokhjnmfkilgif oqjnfigjnmoknlmokif oqhghkoniooiffjilkk |
+  1
+<0:;8: {rn {nnkg {fjf {nmln {nlnj -:):-,:; {nnkf {rn |
+  1
+<0:;8: {rn {fjf {nnkh {nonl {nnfo -:):-,:; {nnkf {rn |
+  1
+300/ {rn {rn {nnkg {nmol |
+  1
+:336/,:r<*-): {rn roqinmmokhjhkmfgjjol nqkjkhmkkihomjjjgi oqginmmokingknmkif rnqmmkikihffnkhljlj:roni n o o o oqofgkmjnfigjolflhkg n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hfo hgoj |
+  1
+/061+ {rn roqjjlnkfilhknmmhokn nqkjkhmkkihomjjjgi oqflffioinhgfnojoml |
+  1
+<0:;8: {rn {nmlk {fim {nonk {nnfn -:):-,:; {nohk {rn |
+  1
+<0:;8: {rn {fim {nmll {fik {nnjh -:):-,:; {nohk {rn |
+  1
+,+->687+r<*-): {rn rmqnghoohghnlihmlmn roqknjljkmhlnlnfmnhj roqnfigjoklkfngmikkg rnqmmkikihffnkhljl:roni n riqnmlmllffjhlihikg:ronh V V |
+  1
+<0:;8: {rn {fij {fik {nlng {nlnf 90-(>-; {fii {rn |
+  1
+:;8: {nkmh {fih {nlmo {nnjk {nlmn 90-(>-; |
+  1
+:;8: {nkmf {nmko {hfk {fij {nlmm 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {hfl hgil |
+  1
+/061+ {rn rmqnghoohghnlihmlmn roqlnifmfohimgnjmgmm roqnfigjoklkfngmikkg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fhm ngjm |
+  1
+,/361:r,*-9><: {rn 90-(>-; $ -:9 ml " V V V V |
+  1
+<0:;8: {rn {nnil {nnil {nngn {nlml 90-(>-; {fhl {rn |
+  1
+:;8: {nkll {fgm {fhg {nnok {nlmk 90-(>-; |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ :'><+<*- 1*-=, m 0/:1 m 
+  1
+ o m nqhfnnghffgfingjln m 
+  1
+ rmqfnmmnliinfjjhfn oqlogjglhloohfoflml nqfngmkjkkljginihi n 
+  1
+ rmqlhjjhhiokjhlggnj oqlogojofmlhihjlmgj nqmoljnllgmkkkh n 
+  1
+ rnqglihkgmfolokjloh oqlohjnfgnjnmnnkgkj oqkgjgionhhikjokffi n 
+  1
+ o 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*33=, 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ Y n Y o " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {goj momhhn |
+  1
+/061+ {rn rmqgnigliofnloiilhl oqlogkgfoilhhohhgml nqhfnmnkkjhmhfgfoj |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ :'><+<*- 1*-=, m 0/:1 m 
+  1
+ o m nqhfofijjginkmlogk m 
+  1
+ rnqloliiooonjmmfinn oqlofjmjjkkjghoohhi oqhjfknilhkflofgolj n 
+  1
+ rnqgkomngjmfhgngngj oqlogfgflglojhgngln nqkhkokjnhifgklijm n 
+  1
+ rmqlhgffngmfjgfogjj oqlogkjkfmkfongnkol mqnfnimlhhhjlnkfoi n 
+  1
+ o 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*33=, 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ Y n Y o " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gno lomhhi |
+  1
+/061+ {rn rmqlkkjgnllgnflgkkl oqlogkgfoilhhohhikj mqnkjhfllofflllflf |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gnj mhfk |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ffn i |
+  1
+9><: {nlmh {nlmg {nnmm {l {rn {nlmf -:):-,:; ,6183: |
+  1
+300/ {rn {nllo {nlln {ffn |
+  1
+300/ {rn {rn {nmig {gmo |
+  1
+<0:;8: {rn {nnhi {nnhi {nllm {nlll 90-(>-; {ffm {rn |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ :'><+<*- 1*-=, m 0/:1 m 
+  1
+ o m nqhfofijjginkmlogk m 
+  1
+ rmqlhgffngmfjgfogjj oqgmflkokijgkmmnijj mqnfnimlhhhjlnkfoi n 
+  1
+ rnqgkomngjmfhfhngml oqgmggoioohigimmhli nqkhkokjnhhookgmhl n 
+  1
+ rnqloliiooonjmmfini oqgmgmifgkinjhommlh oqhjfknilhkflofgolj n 
+  1
+ o 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*33=, 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ Y n Y o " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gmi mhfo |
+  1
+6;r+,3r>++-6= {rn {rn {rn {glo mhgm |
+  1
+300/ {rn {rn {nllj {ili |
+  1
+<0:;8: {rn {nngn {nngn {nnil {nlml -:):-,:; {nool {rn |
+  1
+<0:;8: {rn {nnoo {nooj {nnfk {nlli 90-(>-; {mil {rn |
+  1
+:;8: {nkkj {nomf {nnfg {nooj {nllh 90-(>-; |
+  1
+,+->687+r<*-): {rn rnqjfikjihogoffllnj oqhijhkgomojjofminh mqghhoohgfikimjijg o o rn V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gkl looi |
+  1
+:;8: {nkki {nogh {nnom {noog {nllf 90-(>-; |
+  1
+,+->687+r<*-): {rn roqomnijljfkninfjkook oqhijhkgomojjofmjhm mqghhoohgfikimjijg n o o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gkh noohlfi |
+  1
+<0:;8: {rn {nonk {nonl {nlkn {nlkm 90-(>-; {nonj {rn |
+  1
+:;8: {nkjo {gji {nlkl {nonl {nlkk 90-(>-; |
+  1
+:;8: {nkjl {nlkj {noni {nnjl {nlki 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gjj hflm |
+  1
+/061+ {rn rmqnghoohghnlihmlmn nqkjkhmkkihomjjjgk roqnfigjoklkfngmikjf |
+  1
+<0:;8: {rn {nomn {nomo {nngm {nlli -:):-,:; {nomm {rn |
+  1
+:;8: {nkjj {nmjk {noml {nomo {nlkh 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gjf hkom |
+  1
+/061+ {rn rnqmomhjjfmoifhhjij oqlhmokhlonihnmmiki mqkgllohojglhljhii |
+  1
+):-+:' {rn {nngl {nlkf |
+  1
+,+->687+r<*-): {rn rnqmomhjjfmoifhhjij oqlhmokhlonihnmmiki mqghhoohgfikimjijg o n o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gii hlfk |
+  1
+/061+ {rn rnqjfikjihogoffllnj oqhijhkgomojjofminh mqghhoohgfikimjijg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {noli hfmj |
+  1
+9><: {nljo {ioj {nnkf {l {rn {nljn 90-(>-; ,6183: |
+  3
+<01:r,*-9><: {rn rnqnjnjhkgllmfifhki nqkjkhmkkihomjjjgi oqkjiifmggkjmilniml roqhffffffgjkiiookmi nqjgmoihgnoofogkgj:ronj roqioooooonflhgiioij roqoknhjgmhjgmgmnfmgm oqoifjfhnmknlmjlkjlj oqojjihhifgmfkjomgj oqfffffffffffffffgf V V o n oqofgkmjnfigjolflhoi 9
+  1
+0-(>-; V V V V |
+  1
+<0:;8: {rn {nljm {noho {nohl {nmlj 90-(>-; {nolh {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ghh mflh |
+  1
+<0:;8: {rn {nojo {nofg {nokm {nmog 90-(>-; {nmnj {nljl |
+  1
+:;8: {nkji {nmof {nojk {nmoh {nljk 90-(>-; |
+  1
+):-+:' {rn {nmog {nlji |
+  1
+,+->687+r<*-): {rn nqlfofkohmjimkkom roqnhfnllgooifofhik nqljgjgknhjljlfjkh mqkijnfolmggnjiinf:rolm n mqkijnfolmggnjiinf:rolm V V |
+  1
+<0:;8: {rn {nofg {nojo {noki {nmnm 90-(>-; {nmnj {nljh |
+  1
+:;8: {nkjh {nojm {nmnl {nmnn {nljg 90-(>-; |
+  1
+):-+:' {rn {nmnm {nlio |
+  1
+,+->687+r<*-): {rn oqhjkhmgjmnfghgkmhf roqnhfnllgooifofhik nqgmmjngoflhgnmngf mqkijnfolmggnjiinf:rolm n mqkijnfolmggnjiinf:rolm V V |
+  1
+300/ {rn {rn {nmoh {fhm |
+  1
+/<*-): {rn m {nmnh o o |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 j 
+  1
+ roqfgoomjigminnjfkhl l roqhklhffoojngjjhkng m roqjohjhjnigfjmnonjl m roqmjlhhjjkhmnnmmkfm m o l 
+  1
+ nqgfjmhklgkohgkklg oqogkhngmnloffkfihgi nqfijlligfgmkmkfh 
+  1
+ nqgkhgjnjijfljokli oqolmmmkginlohionflh nqffffngmnmomnhmhg 
+  1
+ nqhflnnooogjnkimff roqoofnimgffikkoihjhfm mqolfglikkmmhjmkif 
+  1
+ nqihklkmnlijhgfoim roqoijiglnhnhgigjjhgh mqnmikklkiknohihll 
+  1
+ nqinnmfgfkomgmjfj roqogolkgmojjgnhnjfjf mqnhmknjljljjohihl 
+  1
+ nqkhflmmolommmgnnm roqognogmmoghiofjfjoh mqmigijkjhnijklhfi 
+  1
+ nqknnjjffolgmjigkj roqoikfljlkigffooogml mqlngoihjiknnloofl 
+  1
+ nqmgkgjhnlknlhljni roqoonkohlmnofimfklhgl mqknokiognmfognkii 
+  1
+ nqmmhnmilgmhnloklm oqokjlilgkommjkhnfog mqkjmjjggoofmojkog 
+  1
+ nqnhgmilnfmojmogmn oqnokjnmkmlgnoohmfh mqkggnfokjmkojofki 
+  1
+ lqojonigknfljgkmnh:rooh 
+  1
+ /3>1: nqjlihighggoijmili roqnhfnllgooifofhik mqmmihilihjlmlhfi oqjgfnfiljhljllknfh mqkijnfolmggnjiinf:rolm oqgohfgfgglgfgololf oqgohfgfgglgfgololf o roqjgfnfiljhljllknfh 90-(>-;@) V V V V 
+  1
+ ,/361: -:):-,:; $ -:9 ml " V V V V 
+  1
+ 1*33=, 
+  1
+ 1*=, l 0/:1 j 
+  1
+ roqfgoomjigminnjfkhl l roqhklhffoojngjjhkng l roqjohjhjnigfjmnonjl l roqmjlhhjjkhmnnmmkfm l o l 
+  1
+ oqgiinkmghkhokfonh oqklljngjnojhgmjhl 
+  1
+ oqgkigjngnfgjnflmol oqkllmfoggoomjhjhlf 
+  1
+ oqgmhhngiflfglhjkik oqkllomgnnfliikhilf 
+  1
+ oqgogkmgniggkingjng oqklmhklohlkhjioijl 
+  1
+ oqhgfnlhghjhmlkimoi oqklmkjgolnonlofhlg 
+  1
+ oqhhooojllklnllnlnf oqklmnjjkmmlohhogok 
+  1
+ oqhjohnjmjhlkliigjn oqklngjoolhoffiiglj 
+  1
+ oqhmffgfflggikhioni oqklnjmnflomgjhnhgk 
+  1
+ oqhofkjfihjlljnoihf oqklnnfiihoinlgogml 
+  1
+ oqigghlknoknomkmggi oqklogfmjignhlighmn 
+  1
+ oqiigonokfggmlhknik oqklojggkfkjhfikmlm 
+  1
+ oqikhkgnhmgojhhojhi oqklolnnlgjhmkjogmm 
+  1
+ oqimihjhkffoooinofj oqkloohigknljmhhfmk 
+  1
+ 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ggf mfmf |
+  1
+/061+ {rn nqmngiimigimkifglk oqoiolfjgiffngmfimil mqkjghloilkjlhkmg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {gfo mfmj |
+  1
+/061+ {rn nqgjkghkggfggljkl oqokkmifghfoonmfnmon nqffkhfihninnonikn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nojf hlfo |
+  1
+/3>1:r,*-9><: {rn rnqmomhjjfmoifhhjij oqjiggfhiinnnnohiln mqigonjhkhhkngohni n o o o o rn 90-(>-;@) V V V V |
+  1
+<0:;8: {nlim {nmhk {nnnj {noin {nmmj -:):-,:; {nnnh {nlil |
+  1
+:;8: {nkjg {nlik {nlik {noin {nlij 90-(>-; |
+  1
+9><: {nlii {nlih {noik {l {rn {nlig 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {foo hgig |
+  1
+6;r+,3r>++-6= {rn {rn {rn {noih hgjh |
+  3
+<01:r,*-9><: {rn rnqnjnjhkgllmfifhkm roqlnifmfohimgnjmgmm oqkjiifmggkjmilnimf roqhffffffgjkiioommi nqlghhhghgohgnkkjf:ronj roqioooooonflhgiillm roqoknhjgmhjgmgmnfghm roqoifjfhnmknlmjlknin oqojjihhifgmfkjomfnl oqfffffffffffffffgf V V o n oqofgkmjnfigjolflh
+  1
+lk 90-(>-; V V V V |
+  1
+<0:;8: {rn {nlif {nlho {nlok {nlhn 90-(>-; {noig {rn |
+  1
+<0:;8: {rn {noho {nljm {nnkh {nlnj 90-(>-; {nolh {rn |
+  1
+,+->687+r<*-): {rn roqonlhhfjinjkjnjolij nqkjkhmkkihomjjjgi oqjljkllokojhinnfk oqhffffffgjkiioomhn iqnmlmlliffogijjlm:ronh roqioooooonflhgiinjk Y rnqoihfnjoknmgmimhh Y nqkiijlhohflmiofin |
+  1
+<0:;8: {rn {nnjk {nohm {nlhl {nlhk -:):-,:; {nohk {rn |
+  1
+<0:;8: {rn {nohl {nnjl {nlhj {nlhi 90-(>-; {nohk {rn |
+  1
+:;8: {nkig {nohj {nlhh {nohl {nlhg 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {foj nl |
+  1
+/061+ {rn oqfimjfgljijohjmlnm nqkjkhmkkihomjjjgg roqnfigjoklkfngmijok |
+  1
+<0:;8: {rn {nlng {nlhl {nohh {nmlf -:):-,:; {nlhf {rn |
+  1
+:;8: {nkho {nmko {nmkm {nmlg {nlgo 90-(>-; |
+  1
+):-+:' {rn {nlnf {nlgm |
+  1
+:336/,:r<*-): {rn roqinmmokhjhkmfgjkjg roqlnifmfohimgnjmgmm oqginmmokingknmkhnm oqhffffffgjkiioollh kqfilnkofghkmjklih:ronj roqioooooonflhgiinij oqojfojjnmoonhjgkin o oqohghkonjiokfgolmml n Y rlqngoggklgjohhkkjk:roln Y nqjhohfilmihfkgfjh |
+  1
+):-+:' {rn {nohf {nlgk |
+  1
+:336/,:r<*-): {rn oqhfgjjilihojjojglf roqlnifmfohimgnjmgmm roqnfigjoklkfngmikfg nqlnkflmjilgjfiimn:roln iqnmlmllffjhlihigj:ronh n oqnikoknfgfkjmkijhl o rmqnjhoknjlhhnlhokm:rolm oqioooooonflhgiingg V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nogo hgjg |
+  3
+<01:r,*-9><: {rn roqohmglkignjimhlkjlg roqlnifmfohimgnjmgmm oqkjiifmggkjmilnion roqhffffffgjkiiooklh nqfkmgfomflofkomlf:ronj oqioooooonflhgiiolm oqoknhjgmhjgmgmnfljf roqoifjfhnmknlmjlkljj oqojjihhifgmfkjolomk oqfffffffffffffffgf V V o n oqofgkmjnfigjolflh
+  1
+oi 90-(>-; V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fnk moloog |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fmn hohlfk |
+  1
+/061+ {rn roqomnijljfkninfjkook oqhijhkgomojjofmjhm mqghhoohgfikimjijg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nofk nkohimn |
+  1
+9><: {nlgj {nnkl {nmfo {l {rn {mj 90-(>-; ,6183: |
+  1
+/3>1:r,*-9><: {rn roqhnlfmkliikglnklgk oqjiggfhifjlhmoojjm oqhnnijljnjoiikgfff o iqnmlmllffjhlihihl:ronh oqfffffffffffffffgf rkqflolgoijhilnlmlg:rolm rn iqnmlmllffjhlihinn:ronh 90-(>-;@) V V V V |
+  1
+/<*-): {rn m {nmjl o o |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 j 
+  1
+ roqfhfhmnojokikmjhj l roqhklikhfkionkfjoff m roqjohjhhglljlioolfk m roqmjlhhhofmnnljhifn m o l 
+  1
+ oqhnklmfomhhfmfkoin oqofklfkofjnljhfmkkk nqgjnfhhfnnikgggjj 
+  1
+ oqhiohhkonjjhmlilki oqokoijlngjlmjlnmhom nqgngnofikkoljmijl 
+  1
+ oqgnkhmkjogknflfknk roqoomnffnlnlmngkojhj nqhhghigmihffolgfl 
+  1
+ oqflmlihhihlikfnlji roqoinfkkihhjinjjlogj nqifmfgnlmgojjiomj 
+  1
+ oqffjoghfjjhifmkofm roqohglkklgnmkomnimjk nqikhmkkfgoongjfng 
+  1
+ nqnmifhiggjmkookmn roqogmhjhgkmoiniojlom nqjjnoiffngkilfknk 
+  1
+ nqnfjoninnkkgfgiml roqoigjokfmkjgghlfifn nqjonkjkgjfnmfilog 
+  1
+ nqlmmgkknonojiffji roqoogjmikfkjfolknlgmj nqkogmknoggohlhnjl 
+  1
+ nqlgnknmnilihhnmlf oqoliimmfhogljoflnlg nqlijjlmjmmmljjiol 
+  1
+ nqklnlkomnfgnflokn oqofklfkofjnljhfnjji nqlmfnmkljhkgimghm 
+  1
+ lqojnlojhlmlkkolml:rooh 
+  1
+ /3>1: nqohmglkimlgoinmmm roqnhfnllgooifofhik nqjfojjnnlkjihjgif roqjgfnfiljhljllknfh rmqkijnfolmggnjiinf:rolm roqgohfgfgglgfgololf roqgohfgfgglgfgololf o oqjgfnfiljhljllknfh 90-(>-;@) V V V V 
+  1
+ ,/361: -:):-,:; $ -:9 ml " V V V V 
+  1
+ 1*33=, 
+  1
+ 1*=, l 0/:1 j 
+  1
+ roqfhfhmnojokikmjhj l roqhklikhfkionkfjoff l roqjohjhhglljlioolfk l roqmjlhhhofmnnljhifn l o l 
+  1
+ oqilolkkllglhnggil oqmomgmkinfflmhnlhm 
+  1
+ oqikfimmgghmoijlfoj oqmolokhjjighglmlnj 
+  1
+ oqiighklgojhmklkihh oqmolloijmoknojkign 
+  1
+ oqiggomngnlfigjngmj oqmoljgggihmflnmnlh 
+  1
+ oqhohmffjhhggkgioof oqmolghnmnojfhmjjii 
+  1
+ oqhmiknfggmkhojjigf oqmoknhmmiggjhhhfmj 
+  1
+ oqhkjifhkojghfhmk oqmokkhhlkigfkimji 
+  1
+ oqhiikmmgnjloklnmll oqmokgojllgjhnok 
+  1
+ oqhgifjlnjlghijlhik oqmojnlnfmglkmilkog 
+  1
+ oqgohihghghlmonnknn oqmojklghlnngikmffn 
+  1
+ oqgmgkomkgfjlikkilj oqmojhkjjojkkmnkgkg 
+  1
+ oqgkgflnlkgjlokgkif oqmoiomiillkofnmhkn 
+  1
+ oqgifijjiinimgnnlkh oqmoimiimgfnjgnfnjf 
+  1
+ 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+):-+:' {rn {nnon {nlgg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {flh hkon |
+  1
+/061+ {rn roqomnijljfkninfjkook oqhijhkgomojjofmjhm mqkgllohojglhljhii |
+  1
+,+6@-:3@>++-r,8r>++-6= {rn {rn {rn {nnoi |
+  1
+<0:;8: {nlgf {nnoh {nmhk {nnoi {nmjf -:):-,:; {nnnh {nlfo |
+  1
+:;8: {nkhn {nmij {nnnf {nnoi {nnmn 90-(>-; |
+  1
+/<*-): {rn o -:):-,:; $ -:9 ng " o o |
+  1
+,+6@-:3@>++-r,8r>++-6= {rn {rn {rn {nnoh |
+  1
+<0:;8: {rn {nnni {nnoh {nnni {nmhh 90-(>-; {nnnh {nlfn |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n /:-60;6< m 
+  1
+ o n iqmglngjlohnhfjgim n 
+  1
+ o o 
+  1
+ n o 
+  1
+ oqoon 
+  1
+ ,/361: 90-(>-; $ ,461,*- Y^ SLZ ^ M\ LTVQ m 
+  3
+  rn rn rn rn o :336/,: oqikhilhhjfihfjnlfg oqjiggfhifjlhmonjhl nqomlimmonnoofoonh oqioooooonflhgiimgh rlqjhllnnnhfkiknkfl:roni oqhffffffgjkiioomjf oqjnfigjomffmghomnk riqfilhliohmjlgihfi:roni roqlgfhilhfmnnioioll n Y o Y iqmglngjlohnhfjgim o o o 1*33@,*-
+  1
+9><: o g 1*33@3>( 
+  3
+  rn rn rn rn n :336/,: mqhmilhhfgkmfgjolk oqjiggfhifjlhmonkgk lqhfjmhjjolfimogni oqioooooonflhgiimgh rlqjhllnnnhfkiknkfl:roni oqhffffffgjkiioomjf oqjnfigjomffmghomnk riqfilhliohmjlgihfi:roni roqlgfhilhfmnnioioll n Y o Y iqmglngjlohnhfjgim o o o 1*33@,*-9
+  1
+><: o g 1*33@3>( 
+  1
+  o 
+  1
+  1*=, l l /:-60;6< 0/:1 101: 101: nm m 
+  1
+  o l oqoflhj m oqnghj m oqmgnmj m oqlhj m 
+  1
+  oqkighj m oqjimj m oqijimj m oqhj m oqgklhj m 
+  1
+  oqflhj m n l 
+  1
+  o l n l 
+  1
+  nqnihlmmhgfiogmnjh oqjiggfhifjlhmonjmf oqillgjgmnggfmfknnk 
+  1
+  nqnihlmmhgfiogmnii oqifikkhjflfjjmimlj oqillgjgmnggfmfkoif 
+  1
+  nqnlikloknojojgikh oqgmlhkjhjlihmlngj oqijhomhjoklggfkfog 
+  1
+  nqomlokfhmfjinihli nqoljgjlkglnmogonl oqhkmoilonflggklmjj 
+  1
+  oqfkohgjmonjogikfhj nqnmomkkkmiknhmgnh oqgolhinkngjkngmih 
+  1
+  oqhjmmkoonfgjknnfh nqmnhgiigfmlfmjfkm oqfkjnholnnfngfingk 
+  1
+  oqikillnkggkilkhmhh nqmlofojhkmkgkihf nqomkionhnkkhokhk 
+  1
+  oqkkinhmffnmmkojkil nqngnnlgmkofofmngg nqnhkhmojfkfhjgmh 
+  1
+  oqljmlngoigmohmjokm nqnngklonnmghkinmk nqmkjnnnhfohfohkoj 
+  1
+  oqmogonnglliiklkoim oqflgokhlnikngghngj nqljllknkhmnjfhinf 
+  1
+  oqnjhgkjllmnkgojkgj oqgmohmgiiojnikgnkn nqlfofiiljonfjhmjf 
+  1
+  oqnngolnllninnooigh oqjhojlojlkkmnhlkil nqkmogmigjmnojklon 
+  1
+  oqnmgkimknnkfjnigom oqklgnkkgihhhglogil nqknlooljknhfhjolj 
+  1
+  oqmoijiolgmgjijhmhk oqmomkillgikmgkolhg nqljkklooiolmojmlj 
+  1
+  oqmhkohlnlimihmnfl oqoffilmhmkkflfkhiii nqlolhfjkfmhohmjnf 
+  1
+  oqkklhjflnihklmlmn roqokmoflnmfminofjofh nqnhijlogjofmhhfgn 
+  1
+  oqjkjjfhgkmiiihmioi roqogohogiolgkojgnfgl nqnoonjnfjmiloifik 
+  1
+  oqhkfihhihiifmlonkj roqogohogiolgkojgmkmh oqfkhofmoiflghlohoi 
+  1
+  oqgjnjnimominjhfkjl roqokmoflnmfminofjfgj oqghohnlnhnofomojkn 
+  1
+  nqomnmomlglofngohg oqoffilmhmkkflfkillk oqhklkkgjmflnohjnji 
+  1
+  nqogghnjnlijomkjkl oqmomkillgikmgkom oqifmgnlfinifhkhfjj 
+  1
+  nqnjlhfihhflolimjf oqlfggikimoggiijjjl oqikkoomhmhnlllmfjn 
+  1
+  nqnihlmmhgfiogmnjh oqkglgikkmfikfgjokk oqillgjgmnggfmfknnk 
+  1
+  nqnihlmmhgfiogmnjh oqjiggfhifjlhmonjmf oqillgjgmnggfmfknnk 
+  1
+  nqgiomlinfhgnkjkji oqjiggfhifjlhmonkgk nqjjhhkmhnijklfihj 
+  1
+  nqgiomlinfhgnkjkji oqifikkhjflfjjminf nqjjhhkmhnijklfih 
+  1
+  nqgmflklgnghnmnflg oqgmlhkjhjlihmlngoi nqjgofnmoomolffhjk 
+  1
+  nqhnjfilnlhhigooli nqoljgjlkglnmogoog nqiijfkhjnholfkjgf 
+  1
+  nqillifgiofhnkfhfh nqnmomkkkmiknhmgnl nqhmhikjfninfmgjl 
+  1
+  nqkkjnjlkmgoiokkgg nqmnhgiigfmlfmjflh nqgifojkgofjiffggm 
+  1
+  nqllfmkkgfiiifgoml nqmlofojhkmkgkihgg nqfkgkgimnmnmnjool 
+  1
+  nqnlfogilffklolgki nqngnnlgmkofofmngi mqofgiojofmimigjlk 
+  1
+  nqokjmlnkhiknljhff nqnngklonnmghkinnf mqnigffimggkknhiig 
+  1
+  oqfoofmjmknghoihonl oqflgokhlnikngghnim mqmhhmmjfifgnohggm 
+  1
+  oqgjohjghkoljklgkgn oqgmohmgiiojnikgnnf mqlnkgjogkhgkihjmm 
+  1
+  oqgnofkkhlfgnhllilf oqjhojlojlkkmnhlkng mqlkkhnnlkfhjikjij 
+  1
+  oqgmnlhjgnfhonkfhjl oqklgnkkgihhhglognf mqlligggolfkkgjmff 
+  1
+  oqgffkhlhfnoimfomhn oqmomkillgikmgkolhg mqmhglnkjjhfhnjkfg 
+  1
+  oqfiifgijkkkhljkfmi oqoffilmhmkkflfkhmmm mqmmhihfffoljgmhgm 
+  1
+  nqnliihmhmkfkfjini roqokmoflnmfminofjjkn mqnooknjlkgjhggmkk 
+  1
+  nqmlgjnnmjoghlojji roqogohogiolgkojgmkmh mqomkolikjomgnhmmh 
+  1
+  nqkkmjfnogkgfgiloj roqogohogiolgkojgmghn nqghofhijiholglllk 
+  1
+  nqjkkkmfinogmmnmkj roqokmoflnmfminofjfgj nqhfkjfhiighknmlnh 
+  1
+  nqhnknnjhfnmfgnlhh oqoffilmhmkkflfkjgf nqiihlllomifinhhhf 
+  1
+  nqhgnimgjkkhoghgkl oqmomkillgikmgkom nqiniifgkjflkgjojf 
+  1
+  nqgkihnonghjoffjjf oqlfggikimoggiijjjl nqjihgghmmkhgkljjg 
+  1
+  nqgiomlinfhgnkjkji oqkglgikkmfikfgjokk nqjjhhkmhnijklfihj 
+  1
+  nqgiomlinfhgnkjkji oqjiggfhifjlhmonkgk nqjjhhkmhnijklfihj 
+  1
+  mqjjlnkfioiomoghji oqjiggfhifjlhmonkgk mqkgnimhmnknfkffkh 
+  1
+  mqjjlnkfioiomoghij oqifikkhjflfjjminki mqkgnimhmnknfkffkm 
+  1
+  mqjmmmjhmmifngjmlh oqgmlhkjhjlihmlnhgk mqjokhfikffifnoomi 
+  1
+  mqkogghijkjfhklllj nqoljgjlkglnmogooi mqjgfglmonkifokgin 
+  1
+  mqlmiinmonhfmnlofh nqnmomkkkmiknhmgnn mqijnjloknlgklggom 
+  1
+  mqnlgoiiglimiihhfi nqmnhgiigfmlfmjflj mqhfmflflohmmnonjk 
+  1
+  mqolmnjglokghinlmm nqmlofojhkmkgkihgl mqghmlhohofhhmjmhj 
+  1
+  nqglnfffgohilihnki nqngnnlgmkofofmngm lqommkgfjfomhhggoi 
+  1
+  nqhlgnkkggkinffoff nqnngklonnmghkinnh lqofmggohgiofmhfk 
+  1
+  nqjflglgijoohhooon oqflgokhlnikngghnng lqmonnnokihkingnjk 
+  1
+  nqjklihmnkgjiohnkg oqgmohmgiiojnikgofh lqmlghljlkjkfhhhfk 
+  1
+  nqjolgjgnkgomliiik oqjhojlojlkkmnhlkng lqmigjfjgkhkohkglh 
+  1
+  nqjnkmgfmmhfohgmhj oqklgnkkgihhhglohhk lqmiohhmjlhoffjjhn 
+  1
+  nqjfmlghnffmifmlmh oqmomkillgikmgkollk lqmomnffojjimmjhh 
+  1
+  nqijfgfffjmihfghfm oqoffilmhmkkflfkihhg lqnjnjikkggooflojk 
+  1
+  nqgmfjginllnjjgfni roqokmoflnmfminofjjkn lqomkmffgkimmfgjni 
+  1
+  nqflnkmkijfohflgjj roqogohogiolgkojgmghn mqfkhfmofkhflmhkff 
+  1
+  mqnljjokkflnokfink roqogohogiolgkojgmghn mqhfkginoikigflioi 
+  1
+  mqmlhlklonfomgkjkk roqokmoflnmfminofikmf mqhngkgmniilfmmjgf 
+  1
+  mqkohomfnffjokkihh oqoffilmhmkkflfkjkki mqjfnmnhjmkinmgojn 
+  1
+  mqkhkjknfjmfnjnnkl oqmomkillgikmgkonji mqjkojgmfjifffjlln 
+  1
+  mqjlfimljfjhnimgjg oqlfggikimoggiijjof mqkfnhhnhmmkljlgl 
+  1
+  mqjjlnkfioiomoghji oqkglgikkmfikfgkfff mqkgnimhmnknfkffkh 
+  1
+  mqjjlnkfioiomoghji oqjiggfhifjlhmonkk mqkgnimhmnknfkffkh 
+  1
+  lqmkioilonkmmhmoji oqjiggfhifjlhmonkk lqkojjnnhnngkiomn 
+  1
+  lqmkioilonkmmhmoji oqifikkhjflfjjminml lqkojjnnhnngkiomoj 
+  1
+  lqmnjnhoiljnmkgjlh oqgmlhkjhjlihmlnhim lqkmgigoffhlkmomgf 
+  1
+  lqnonhgffjkngoiilj nqoljgjlkglnmogoom lqjnlhnijnmlknjnmk 
+  1
+  lqonfjmjkminmhilfi nqnmomkkkmiknhmgoi lqjhjknkfnnkfkfoij 
+  1
+  mqglofgomkkkhlnogh nqmnhgiigfmlfmjfl lqhnigmlgokghmoknh 
+  1
+  mqhmjohnhnlogmkimm nqmlofojhkmkgkihgn lqhfimjjmohkmljjlg 
+  1
+  mqjmkfnlmnjgklokkj nqngnnlgmkofofmnhf lqfkilhkoghfmgfoif 
+  1
+  mqklnojgmfmgmimlff nqnngklonnmghkinnm kqonihijmglhklgmog 
+  1
+  mqmgihjmojgmglllon oqflgokhlnikngghohk kqnmkffkfijnnmgkmn 
+  1
+  mqmlijgjjjihihokkh oqgmohmgiiojnikgojm kqniminfgklnkggojl 
+  1
+  mqnfihhnjjimmfffil oqjhojlojlkkmnhllhk kqnfmkgolkjojgjofj 
+  1
+  mqmohmomilinnknjhj oqklgnkkgihhhglohl kqngkijholkhjojglk 
+  1
+  mqmgjlooiohkhjjimi oqmomkillgikmgkomgf kqnmiogljjlmhlioll 
+  1
+  mqljmgnllioggimofm oqoffilmhmkkflfkillk kqohjkkgfgjiiollng 
+  1
+  mqjmmkffjknlimmmnj roqokmoflnmfminofjfgj lqfkgngklklggoghhf 
+  1
+  mqimkllgoihmgjhnjj roqogohogiolgkojgmghn lqghngojkkjjglhhil 
+  1
+  mqgmgknhfonlnnmfok roqogohogiolgkojgllnj lqhnghkjjimlkolgif 
+  1
+  mqflomjikmhmlkhgkk roqokmoflnmfminofighl lqikmliiiikoklmgjm 
+  1
+  lqofffkmiohhnohfhh oqoffilmhmkkflfkjoom lqjnjnomommmilglnk 
+  1
+  lqnihkjjlinnmnkkkm oqmomkillgikmgkonnm lqkikkihkjkijojjfk 
+  1
+  lqmlmjlhoolfmminjg oqlfggikimoggiijkik lqknjijimmoogikofl 
+  1
+  lqmkioilonkmmhmoji oqkglgikkmfikfgkfjj lqkojjnnhnngkiomn 
+  1
+  lqmkioilonkmmhmoji oqjiggfhifjlhmonlfi lqkojjnnhnngkiomn 
+  1
+  oqooomomkflmfmmhfjkfhg 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  o 
+  1
+  " V V V V 
+  1
+ " o o |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnog nmohhgo |
+  1
+):-+:' {rn {nnog {nlfm |
+  1
+:336/,:r<*-): {rn oqikhilhhjfihfjnlfg oqjiggfhifjlhmonjhl nqomlimmonnoofoonh oqioooooonflhgiimgh rlqjhllnnnhfkiknkfl:roni oqhffffffgjkiioomjf oqjnfigjomffmghomnk riqfilhliohmjlgihfi:roni roqlgfhilhfmnnioioll n Y o Y iqmglngjlohnhfjgim |
+  1
+,+6@-:3@>++-r,8r>++-6= {rn {rn {rn {nnno |
+  1
+<0:;8: {rn {nmig {nmig {nnno {nmif 90-(>-; {nnhj {rn |
+  1
+:;8: {nkhm {nmhm {nmhm {nnno {nlfl 90-(>-; |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n /:-60;6< m 
+  1
+ o n n n 
+  1
+ o o 
+  1
+ n o 
+  1
+ o 
+  1
+ ,/361: 90-(>-; $ -:9 nn " V V V V 
+  1
+ " o o |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n 0/:1 m 
+  1
+ o n oqgohogiinknhlmmgkh n 
+  1
+ n o 
+  1
+ n n 
+  1
+ oqoon 
+  1
+ ,/361: 90-(>-; $ -:9 nn " V V V V 
+  1
+ " o o |
+  1
+):-+:' {rn {nmif {nlfj |
+  1
+,+->687+r<*-): {rn oqjjlnkfjkgjhhgflih oqjiggfhifjlhmoning oqnnomlingijminhnk oqhiofhjimjkhnhnfok nqlmfngfgmijkjiigl:roni oqikghgokiflhnjnjig V V |
+  1
+<0:;8: {rn {nmjg {nmmk {nnnj {nmhj -:):-,:; {nnnh {nlfi |
+  1
+:;8: {nkhl {nnnf {nlik {nmhk {nlfh 90-(>-; |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n 0/:1 m 
+  1
+ rlqkikjiifmfnllgjgg n o n 
+  1
+ o n 
+  1
+ o o 
+  1
+ oqoon 
+  1
+ ,/361: 90-(>-; $ -:9 ml " V V V V 
+  1
+ " o o |
+  1
+:;8: {nkhk {nnmo {nlfg {nnni {nlff 90-(>-; |
+  1
+/<*-): {rn rn {nlff o o |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fkl kongik |
+  1
+/061+ {rn nqnihlmmhgfiogmngg oqjiggfhifjlhmoniim oqillgjgmnggfmfkikh |
+  1
+/061+ {rn oqnmfkkinijomgflhg oqingnnomhollogohml nqknmmijhmiioffkh |
+  1
+300/ {rn {rn {nllm {nnhl |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fki mlkn |
+  1
+/061+ {rn oqkkmfnllkfommhlhmh oqjiggfhifjlhmonhoi roqoolflhoohjhmhkfnhlg |
+  1
+<0:;8: {rn {nnll {nnmj {nkoo {nkon -:):-,:; {joj {rn |
+  1
+<0:;8: {rn {nkom {nkol {nnmj {nmgh -:):-,:; {nnlg {rn |
+  1
+:;8: {nkgo {nmfn {nkok {nmgi {nnko 90-(>-; |
+  1
+<0:;8: {rn {nmgf {nnmi {nnmf {nmfk 90-(>-; {nmfo {rn |
+  1
+<0:;8: {rn {nnmi {nmgg {nkom {nkoj 90-(>-; {nmfo {rn |
+  1
+300/ {rn {rn {nmgf {nmjo |
+  1
+):-+:' {rn {nnmh {nkoh |
+  1
+,+->687+r<*-): {rn roqjgmlglkkihnmfhmok oqingnnomhollogohml oqhijoljimnlmfikfkm oqhffffffghfhhkflin rkqglkmmglgkfjofnhg:ronh roqiooooooniolooohnf V V |
+  1
+<0:;8: {rn {nnmf {nnmg {nloi {nkog 90-(>-; {nnlo {rn |
+  1
+:;8: {nkgk {nnln {nkof {nmgg {nkno 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fkf nmohihl |
+  1
+/061+ {rn roqjnnmohlohfffffjol oqingnnomhollogohml oqhnnijljnjoiikfomm |
+  1
+<0:;8: {rn {nlho {nlif {nnll {nmfg 90-(>-; {noig {rn |
+  1
+:;8: {nkgi {nlom {nknn {nmfh {nknm 90-(>-; |
+  1
+<0:;8: {rn {nloo {nnlk {nlif {nknl -:):-,:; {nlon {rn |
+  1
+<0:;8: {rn {nnlk {nmff {nnli {nloj -:):-,:; {nlon {rn |
+  1
+300/ {rn {rn {nmff {nknk |
+  1
+):-+:' {rn {nmfg {nkni |
+  1
+,+->687+r<*-): {rn oqfimjfgljijohjmllj roqlnifmfohgjnogljng roqlflhoohhfkjifjlnk roqhffffffghfhhkfllf riqnmlmllhjolkgoknk:ronh oqioooooonioloooifh V V |
+  1
+<0:;8: {rn {nkol {nnli {nmlo {nlhn -:):-,:; {nnlg {rn |
+  1
+:;8: {nkfm {nnlf {nknh {nnli {nkng 90-(>-; |
+  1
+<0:;8: {rn {nnlh {nkom {nmfl {nkog -:):-,:; {nnlg {rn |
+  1
+300/ {rn {rn {nknf {nlog |
+  1
+9><: {nkmo {nknk {nnlg {l {rn {nkmn -:):-,:; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fjm looomf |
+  1
+/061+ {rn roqinmmokhjnmfkilgif roqlnifmfohgjnogljil oqhghkoniooiffjilkk |
+  1
+):-+:' {rn {nnkm {nkml |
+  1
+,+->687+r<*-): {rn roqhkkhmihjjinkhgkog oqjnfigjnmoknlmokif oqiggonoofkogkgoiim roqhfffffffommnjnoli rkqglkmmgliogkkoimi:ronh roqioooooonlolhfgjji V V |
+  1
+,+->687+r<*-): {rn nqojhhmfnoigfkoglj oqjnfigjnmoknlmokif oqhnnijljnjoiikfomm oqfffffffffffffffnn mqkijnfolmggnjiiom:rolm hqkfghfgfnllofmhfg:roll V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnkl nhohinh |
+  1
+:;8: {nkfi {nlkl {fin {nmln {nkmj 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fio hflj |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fil nj |
+  1
+<0:;8: {rn {nlhl {nmlg {nnji {nlnf -:):-,:; {nlhf {rn |
+  1
+:;8: {nkfh {nlmo {nmko {nlng {nkmi 90-(>-; |
+  1
+):-+:' {rn {nlhk {nkmg |
+  1
+:336/,:r<*-): {rn rmqommfijggnfnkhihn roqlnifmfohimgnjmgmm roqnfigjoklkfngmikfl rmqffnomimlolfioili:ronh iqnmlmllffjhlihihl:ronh n roqnikoknfgfkjmkijhl rlqkifkkifjnfjlinkm:ronh rkqfoijlgflllgihfm:rong oqioooooonflhgiinff V V |
+  1
+:336/,:r<*-): {rn roqinmmokhjhkmfgjkjg roqlnifmfohimgnjmgmm oqginmmokingknmkhnm roqhffffffgjkiioolkg o roqioooooonflhgiinij o roqofgkmjnfigjolfljmi o oqfffffffffffffffgf Y o Y nqjhohfilmihfkgfii |
+  1
+:;8: {nklo {nkln {nkln {nnil {nklm 90-(>-; |
+  1
+:336/,:r<*-): {rn rmqjgohoghnkhjomkog oqjiggfhifjlhmonjmf nqfigjolgglioiikln oqiookmonhjhgjfiihk nqmlmjfjnikkohglof:rolm roqhffigkifjigmhnonh roqlnkglijlhgonnmool rjqlolognfligoogfon:ronh roqmlilgjfmgjfmhgnf oqffffffgimolokhmfh V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fhh mhfm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {fgn mhgg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnhl mlok |
+  1
+9><: {nklk {nklj {nkli {l {rn {nklh -:):-,:; ,6183: |
+  3
+<01:r,*-9><: {rn oqnhjnfihffjlgglklg oqjiggfhifjlhmoning oqlflhoohiminojhkng roqioooooonflhgijmgg gqnhjmknnhijjfmmmh:roni roqhffffffgjkiiooffm roqlimmokhnhgmfofgfh rgqhggfkmghhmigjhlj:roni oqmhnijljjmogogginj n V V o n oqkjmhjjfojjnngnnnn 90-(>-; V V V V 
+  1
+|
+  1
+300/ {rn {rn {nklg {ffn |
+  1
+<0:;8: {rn {nlln {nlln {nklf {nkko 90-(>-; {nnhk {rn |
+  1
+<0:;8: {rn {nllm {nllm {nnhi {nlll -:):-,:; {nmgm {rn |
+  1
+:;8: {njok {nkkn {nkkn {nnhi {nkkm 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {ffk mhgi |
+  1
+<0:;8: {rn {nllj {nllj {nklg {nkkl -:):-,:; {nngo {rn |
+  1
+:;8: {njof {nnfg {nmjk {nngm {nkkk 90-(>-; |
+  1
+,+->687+r<*-): {rn rnqjfikjihogoffllnj oqhijhkgomojjofminh mqghhoohgfikimjijg n o o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nooi hlfg |
+  1
+,+->687+r<*-): {rn roqomnijljfkninfjkook oqhijhkgomojjofmjhm mqghhoohgfikimjijg o o rn V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {noof iohlfl |
+  1
+<0:;8: {rn {nkkh {nlhj {nngf {nlkm -:):-,:; {nkkg {rn |
+  1
+:;8: {njno {nlkl {nlkj {nlkn {nkkf 90-(>-; |
+  1
+):-+:' {rn {nkjn {nkjm |
+  1
+:336/,:r<*-): {rn roqinmmokhjhkmfgjjol nqkjkhmkkihomjjjgi oqginmmokingknmkhnm roqhffffffgjkiioomfl o roqioooooonflhgiimlm roqojfojjnmoonhjgkinh o oqohghkonjiokfgolnnm n Y o Y nqjhohfilmihfkgfii |
+  1
+):-+:' {rn {nlhi {nkjk |
+  1
+:336/,:r<*-): {rn rmqommfijggnfnkhig nqkjkhmkkihomjjjgk roqnfigjoklkfngmijof rmqffnomimlolfiojnl:ronh iqnmlmllffjhlihigj:ronh n roqnikoknfgfkjmkijhl o rkqfoijlgflllgihhlj:rong oqioooooonflhgiingg V V |
+  1
+,+->687+r<*-): {rn rnqmomhjjfmoifhhjij oqhijhkgomojjofminh mqkgllohojglhljhii o rn o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nomi hlfm |
+  1
+/061+ {rn rnqmomhjjfmoifhhjij oqhijhkgomojjofminh mqghhoohgfikimjijg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmol hfmi |
+  1
+,/7:-:r,*-9><: {rn roqinmmokhjhkmfgjjol nqkjkhmkkihomjjjgi oqginmmokingknmkhnm oqofgkmjnfigjolflhoi o o n nqmmkikihffnkhljlj:roni rn iqnmlmllffjhlihihl:ronh 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {nmln {nmoj {nkkh {nkjn 90-(>-; {nolh {rn |
+  1
+/<*-): {rn m {nljk o o |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 m 
+  1
+ roqgghllhkifmjkgikon l o l 
+  1
+ nqlinkgofohhjihljk oqojmihknkjggmjmiinl nqlngngkignnjfojl 
+  1
+ nqjljhkllhjnfhimnf oqokfilgljhjhmflmkki nqjjhnjgnhmgfjghgj 
+  1
+ nqhnoohnokfojfhjjf oqokiihknokmholinnni nqhfimmnogkfjjfjki 
+  1
+ nqggkllkhohhjnmnof oqoklhhffjjgonhmkmmk mqoljnfimnolojoijg 
+  1
+ nqfgghjoklkmkjmmkl:ronn 
+  1
+ /3>1: nqimmfohgohhjlfhml roqnhfnllgooifofhik nqihiifokkjhlmojfl oqgohfgfgglgfgololf o roqjgfnfiljhljllknfh roqjgfnfiljhljllknfh rmqkijnfolmggnjiinf:rolm roqgohfgfgglgfgololf 90-(>-;@) V V V V 
+  1
+ ,/361: -:):-,:; $ -:9 ml " V V V V 
+  1
+ 1*33=, 
+  1
+ 1*=, l 0/:1 m 
+  1
+ roqgghllhkifmjkgikon l o l 
+  1
+ oqgjlgmnjglikiiolhh oqnfnikngjjknhgkjgk 
+  1
+ oqgjmjfilljofjigkkk oqmhhoomofgohoikkom 
+  1
+ oqgjnlgnkllknmgjhmn oqlimlfkmgnmjjjhoff 
+  1
+ oqgjonhifmfmfkfnok oqkkhhjjnohkmhmling 
+  1
+ 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nokl mfmh |
+  1
+/061+ {rn nqlfofkohmjimkkom oqojmninimkkjlkffolk nqljgjgknhjljlfjkh |
+  1
+/<*-): {rn m {nljg o o |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 m 
+  1
+ roqgghlloimijjolkiji l o l 
+  1
+ nqmkgnmmjoknnkijok oqoiofloifmkjoijfkoh mqkffnlonmghlmlmfg 
+  1
+ nqohlgimmmnfnflifi oqojhhimgmkjinlfgjgj mqmionjfillhnjmmj 
+  1
+ oqgffjlomgogljkgnol oqojkiiffmkjmgijjfll mqomnofogifgllkgnh 
+  1
+ oqhmjmighoknmonhjl oqojnijokgljohmkokkn nqhgmnngjffjgilnhn 
+  1
+ mqmlnghkkhkklkgmmj:ronn 
+  1
+ /3>1: oqfgiifjioknnhknlog roqnhfnllgooifofhik mqnkoimkliknjflmlk roqgohfgfgglgfgololf o oqjgfnfiljhljllknfh oqjgfnfiljhljllknfh mqkijnfolmggnjiinf:rolm oqgohfgfgglgfgololf 90-(>-;@) V V V V 
+  1
+ ,/361: -:):-,:; $ -:9 ml " V V V V 
+  1
+ 1*33=, 
+  1
+ 1*=, l 0/:1 m 
+  1
+ roqgghlloimijjolkiji l o l 
+  1
+ oqikmgfomfnjglknhjf oqkkkhonmhjoflnmjmf 
+  1
+ oqikknljklfglmhjoon oqljflkmnomgjkfiolm 
+  1
+ oqikjlifkjjlhmjofnm oqmhlfkhgmfkmjffoj 
+  1
+ oqikijfmmhmglkhffgn oqnggjggomloglhljon 
+  1
+ 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nokh mflm |
+  1
+/061+ {rn oqhjkhmgjmnfghgkmhf oqojmninimkkjljoogn nqgmmjngoflhgnmngf |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nojn mfkm |
+  1
+,+6@-:3@>++-r,8r>++-6= {rn {rn {rn {nmmk |
+  1
+/<*-): {rn rn {nlij o o |
+  1
+):-+:' {rn {nmmj {nkjf |
+  1
+61+<*-):r<*-): {rn -:):-,:; $ />-<*- 1*=, l /:-60;6< nm 
+  1
+ o l oqoflhj m oqnghj m oqmgnmj m oqlhj m 
+  1
+ oqkighj m oqjimj m oqijimj m oqhj m oqgklhj m 
+  1
+ oqflhj m n l 
+  1
+ lqmkioilonkmmhmojn oqjiggfhifjlhmoniim lqkojjnnhnngkiomgj 
+  1
+ lqmkioilonkmmhmojn oqifikkhjflfjjmilki lqkojjnnhnngkiomgj 
+  1
+ lqmnjnhoiljnmkgjlm oqgmlhkjhjlihmlmooi lqkmgigoffhlkmolif 
+  1
+ lqnonhgffjkngoiimm nqoljgjlkglnmogomi lqjnlhnijnmlknjnff 
+  1
+ lqonfjmjkminmhilhk nqnmomkkkmiknhmgln lqjhjknkfnnkfkfnkn 
+  1
+ mqglofgomkkkhlnohk nqmnhgiigfmlfmjfj lqhnigmlgokghmokgl 
+  1
+ mqhmjohnhnlogmkjfn nqmlofojhkmkgkihff lqhfimjjmohkmljink 
+  1
+ mqjmkfnlmnjgklokoj nqngnnlgmkofofmnfj lqfkilhkoghfmgfnkk 
+  1
+ mqklnojgmfmgmimlig nqnngklonnmghkinmi kqonihijmglhklgmhf 
+  1
+ mqmgihjmojgmgllmif oqflgokhlnikngghngj kqnmkffkfijnnmgkfm 
+  1
+ mqmlijgjjjihihokni oqgmohmgiiojnikgnkn kqniminfgklnkggnmk 
+  1
+ mqnfihhnjjimmfffkn oqjhojlojlkkmnhlkng kqnfmkgolkjojgjnii 
+  1
+ mqmohmomilinnknjjm oqklgnkkgihhhglognf kqngkijholkhjojgfi 
+  1
+ mqmgjlooiohkhjjiok oqmomkillgikmgkollk kqnmiogljjlmhliofj 
+  1
+ mqljmgnllioggimoh oqoffilmhmkkflfkhmmm kqohjkkgfgjiiollgf 
+  1
+ mqjmmkffjknlimmmom roqokmoflnmfminofjofh lqfkgngklklggoggj 
+  1
+ mqimkllgoihmgjhnkm roqogohogiolgkojgnfgl lqghngojkkjjglhgmf 
+  1
+ mqgmgknhfonlnnmf roqogohogiolgkojgnfgl lqhnghkjjimlkolfk 
+  1
+ mqflomjikmhmlkhgk roqokmoflnmfminofjjkn lqikmliiiikoklmfnf 
+  1
+ lqofffkmiohhnohfil oqoffilmhmkkflfkihhg lqjnjnomommmilglgj 
+  1
+ lqnihkjjlinnmnkklg oqmomkillgikmgkomgf lqkikkihkjkijojiij 
+  1
+ lqmlmjlhoolfmminkk oqlfggikimoggiijigi lqknjijimmoogiknij 
+  1
+ lqmkioilonkmmhmojn oqkglgikkmfikfgjnhh lqkojjnnhnngkiomgj 
+  1
+ lqmkioilonkmmhmojn oqjiggfhifjlhmoning lqkojjnnhnngkiomgj 
+  1
+ oqooomomkflmfmmhfomgof 
+  1
+ ,/361: 90-(>-; $ -:9 ml " V V V V 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*=, n /:-60;6< m 
+  1
+ o n n n 
+  1
+ o n 
+  1
+ n n 
+  1
+ 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ ,*-9n " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmmi hgjf |
+  1
+9><: {nkio {khi {nlhf {l {rn {nkin -:):-,:; ,6183: |
+  1
+,/7:-:r,*-9><: {rn roqinmmokhjhkmfgjkjg roqlnifmfohimgnjmgmm oqginmmokingknmkhnm oqofgkmjnfigjolflhoi o o n rnqmmkikihffnkhljlj:roni n riqnmlmllffjhlihihl:ronh 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {nmfh {nmlo {nmff {nknl 90-(>-; {noig {rn |
+  1
+<0:;8: {rn {nmlo {nmfh {nkim {nkil 90-(>-; {noig {rn |
+  1
+:;8: {njnl {nkik {nknh {nmlo {nkij 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nohn hflo |
+  1
+<0:;8: {rn {nmlg {nlng {nmll {nlhk 90-(>-; {nlhf {rn |
+  1
+:;8: {njnj {nlmo {nmkm {nmll {nkii 90-(>-; |
+  1
+<0:;8: {rn {nlkn {nkkh {nmlk {nlhi -:):-,:; {nkkg {rn |
+  1
+:;8: {njni {nlkj {nlhh {nmlk {nkih 90-(>-; |
+  1
+):-+:' {rn {nkjn {nkif |
+  1
+:336/,:r<*-): {rn oqhfgjjilihojjojhj nqkjkhmkkihomjjjgi roqnfigjoklkfngmijof mqffnomimlolfioikl:ronh iqnmlmllffjhlihigj:ronh n oqnikoknfgfkjmkijh nqlghhhghgohgnkkjh:ronh rkqfoijlgflllgihfjn:rong oqioooooonflhgiinff V V |
+  1
+300/ {rn {rn {nlng {nlih |
+  1
+,+->687+r<*-): {rn roqohmglkignjimhlkjlg roqknjljkmhlnlnfmnhj oqkjiifmggkjmilnion oqhffffffgjkiioomhn iqnmlmlliffogijjog:ronh roqioooooonflhgiinjk Y rnqoihfnjoknmgmimhh Y nqkiijlhohflmiofin |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nohg hgii |
+  1
+/061+ {rn roqinmmokhjhkmfgjkjg roqknjljkmhlnlnfmnhj oqginmmokingknmkhnm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nohf hgik |
+  1
+/061+ {rn oqhfgjjilihojjojhj roqknjljkmhlnlnfmnl roqnfigjoklkfngmikkg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmjo njohinf |
+  1
+6;r+,3r>++-6= {rn {rn {rn {noff mfli |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnon nolooi |
+  1
+/061+ {rn rnqmomhjjfmoifhhjij oqhijhkgomojjofminh mqkgllohojglhljhii |
+  1
+,+6@-:3@>++-r,8r>++-6= {rn {rn {rn {nmjg |
+  1
+/<*-): {rn o -:):-,:; $ -:9 mm " o o |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, l 0/:1 m 
+  1
+ roqholinomhffkgflgjk l o l 
+  1
+ oqkghflnmjoofnflhgg oqmologhjnmimniminn 
+  1
+ oqkghflnmjoofnflhgg oqnljlfnihjognogkoh 
+  1
+ oqkghflnmjoofnflhgg oqoihifjglhjkojkmoml 
+  1
+ oqkghflnmjoofnflhgg o 
+  1
+ fqfffffffffffffffk:ronm 
+  1
+ ,/361: 90-(>-; $ -:9 lo " V V V V 
+  1
+ " o o |
+  1
+/061+ {rn oqnmfkkinijomgflfjh oqjnfigjnmoknlmokif nqknmmijhmiioffkin |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ />-<*- 1*=, l /:-60;6< nh 
+  1
+ o l oqoflhj m oqnmj m oqnghj m oqmj m 
+  1
+ oqmgnmj m oqlhj m oqkighj m oqj m oqjimj m 
+  1
+ oqimj m oqijimj m oqhj m oqgklhj m oqghj m 
+  1
+ oqflhj m n l 
+  1
+ oqjjlnkfjkgjhhgflih oqjiggfhifjlhmoning oqnnomlingijminhnk 
+  1
+ oqjjlnkfjkgjhhgflih oqiiniinmjhfhgonklk oqnnomlingijminhnk 
+  1
+ oqjloigmlilhhingloj oqhjkmknhlhhhmmlhom oqnmhogijhjfhhgnknk 
+  1
+ oqkhjhoffnmkoflomkf oqgjhogngkfonffgil oqniglnjfnijglimlgg 
+  1
+ oqkjffknkninkjjlnog oqggnofflofgnfiojgm oqngonkmmgflhgmhllh 
+  1
+ oqkohkiikmnhiimfnnn oqfkiiflojlfgjlmfhh oqmnfkfgjlhnkggmifk 
+  1
+ oqlijjkofhhilgmijmn oqfgnhnonimlnnoljgn oqmjofkmimnglnigonj 
+  1
+ oqmhknmjnlnfghjgknj nqomfokmmihomillgg oqlnfjokjofjmfigkf 
+  1
+ oqmmkihoifgifijjmlm nqoknllgikomjlfoim oqljijfjllilifhjhlg 
+  1
+ oqnjokjfgkffjffhfkn nqoknllgikomjlfoim oqknmmjlkhjhlofgfkh 
+  1
+ oqnmjhmljnmojofkhml nqolgmflmkkkojljh oqklogojhlooffoohg 
+  1
+ oqomgihifihflkgijohm nqonkniljkiihngook oqjoljfoikngjfnhfnm 
+  1
+ roqolfjgnnjhgfjjlhnhg oqfigjjhiljlhlfokkf oqjjkhgkmlggnjkhfji 
+  1
+ roqnkkjlnnkiijkonhnm oqglhlhonkhokmkjii oqillkfihlkljijgimh 
+  1
+ roqngnonjghjomfkfhih oqhjmokhkggmokljkkn oqiiogiomgmonfnojkn 
+  1
+ roqmoolnfilmgijikmol oqilohlflojgjjlgioh oqihjllgnonnmigkokj 
+  1
+ roqmomhjjfkfjoomnfjg oqjffgngggmfohlkgfh oqihhnijllgifkfgjgj 
+  1
+ roqmomhjjfkfjoomnfjg oqjohojjlmolonljnkg oqihhnijllgifkfgjgj 
+  1
+ roqnfmfnggjnofiggnnm oqkkjmlhmhhjikkgmin oqiifhghjnkjmonjhfk 
+  1
+ roqnjjojlnigonmjilog oqllofihkigkmjnlkfn oqiknlggmjohhlhklnh 
+  1
+ roqnmholfkgngioflhmg oqmhgjioiimlnloonkh oqimolhhfgjoffhljl 
+  1
+ roqohkjikkghkgnifhloi oqmnmfiifngnkhmhhjl oqjgnomnhlhlmfngnfk 
+  1
+ roqojjljojnfnfnohnmjh oqnflmjimfhkjfkhohn oqjiiinnmiolglfglig 
+  1
+ oqomifmnjiglnmkjoimg oqnmkjkohlmoomkgofj oqjokfohnfnikmkloli 
+  1
+ oqnoofgjfjogommiknk oqofikjihjokfonmilik oqkkfljgfonfhngnofk 
+  1
+ oqmkfkohikgmhjkoffj oqofikjihjokfonmilik oqllgokmimlmkflkiof 
+  1
+ oqlmlkhmolohijmmlki oqnmkjkohlmoomkgoj oqmgmkfkllljhghmhnn 
+  1
+ oqkojhkknngmighkjlj oqnflmjimfhkjfkhohn oqmmohfomikglhnhljh 
+  1
+ oqkmkfjgogijjflhnk oqmnmfiifngnkhmhhjl oqmoilhfhghgfnfhjln 
+  1
+ oqkhhkllogoflginnli oqmhgjioiimlnloonol oqnihomljkonmnkmmng 
+  1
+ oqjojkkihihofomlhnh oqllofihkigkmjnlkkh oqnkionlmhkkkhknkog 
+  1
+ oqjkllnmkjonhkjjjmn oqkkjmlhmhhjikkgmnh oqnnhinkonohoofffln 
+  1
+ oqjjlnkfjkgjhhgflih oqjohojjlmolonljnol oqnnomlingijminhnk 
+  1
+ oqjjlnkfjkgjhhgflih oqjiggfhifjlhmoning oqnnomlingijminhnk 
+  1
+ oqooomomkflmfmmhfooi 
+  1
+ ,/361: 90-(>-; $ -:9 nn " V V V V 
+  1
+ 1*33@,*-9><: 
+  1
+ 1*=, n /:-60;6< m 
+  1
+ o n n n 
+  1
+ o o 
+  1
+ n o 
+  1
+ 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ ,*-9n " V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnnm ngil |
+  1
+/061+ {rn oqjjlnkfjkgjhhgflih oqjiggfhifjlhmoning oqnnomlingijminhnk |
+  1
+/<*-): {rn o -:):-,:; $ :'//< 1*=, n 0/:1 m 
+  1
+ o n lqkikjiifmfnllgjgg n 
+  1
+ n o 
+  1
+ n n 
+  1
+ oqoon 
+  1
+ ,/361: 90-(>-; $ -:9 ml " V V V V 
+  1
+ " o o |
+  1
+,+->687+r<*-): {rn nqnihlmmhgfiogmngg oqjiggfhifjlhmoniim oqillgjgmnggfmfkikh oqioooooonflhgiinkl rjqhnjinlmilmgnhnkl:rong oqhffffffgjkiioomkg V V |
+  1
+):-+:' {rn {nmhh {nkhj |
+  1
+61+<*-):r<*-): {rn 90-(>-; $ ,*-961+<*- 1*=, l 0/:1 m 
+  1
+ o l oqhmkkkliofkkmgnhi l 
+  1
+ oqnmfkkinijomgflgmk oqingnnomhollogoihf nqknmmijhmiioffkhm 
+  1
+ oqmhkllkgfnjfhogkmk oqingnnomhollogoihf nqiojkjoigjinglkkg 
+  1
+ oqknfmmlingnijmloki oqingnnomhollogohml nqhfgiljikkimihkmi 
+  1
+ oqjiknnmlkkhlllhiki oqingnnomhollogohml nqffngmoioliljnkom 
+  1
+ fqfffffffffffffffk:ronm 
+  1
+ ,/361: -:):-,:; $ -:9 ml " V V V V 
+  1
+ /3>1: roqhhmihkjflnjojolmk oqingnnomhollogohml mqogfioimhofhmoom rmqkijnfolmggnjiimk:rolm n rgqojhokhofmfflffkf:ronh n mqkijnfolmggnjiimk:rolm hqkfghfgfnllofmgih:roll 90-(>-;@) V V V V 
+  1
+ 1*=, l 0/:1 m 
+  1
+ o l oqhmkkkliofkkmgnhi l 
+  1
+ oqkghflnmjoofnflg o 
+  1
+ oqkghflnmjoofnflg oqoifhoomjililojgfi 
+  1
+ oqkghflnmjoofnflhgg oqnlfkoojnmhminnhfm 
+  1
+ oqkghflnmjoofnflhgg oqmofnoohifogfnhigg 
+  1
+ 
+  1
+ 1*33=, 
+  1
+ V V 
+  1
+ o 
+  1
+ o 
+  1
+ o 
+  1
+ " V V |
+  1
+<0:;8: {rn {nkhi {nkim {nmgj {nkon 90-(>-; {nkhh {rn |
+  1
+:;8: {njnh {nknn {nkok {nmgj {nkhg 90-(>-; |
+  1
+<0:;8: {rn {nloi {nmgi {nmgf {nkoj -:):-,:; {nnlg {rn |
+  1
+<0:;8: {rn {nmgi {nlok {nkhi {nkhf -:):-,:; {nnlg {rn |
+  1
+):-+:' {rn {nmgh {nkgn |
+  1
+:;8: {njnf {nkof {nmfn {nmgf {nkgm 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnmh nmohihk |
+  1
+/061+ {rn roqinmmokhjnmfkilgif oqingnnomhollogohml oqhghkoniooiffjilkk |
+  1
+:;8: {njmo {nlnn {nkof {nmfl {nkgl 90-(>-; |
+  1
+):-+:' {rn {nkoj {nkgj |
+  1
+,+->687+r<*-): {rn rmqkgjjhhglfgiolhni oqingnnomhollogohml oqhnnijljnjoiikfomm roqfffffffffffffffnn rmqkijnfolmggnjiiom:rolm rhqkfghfgfnllofmhfg:roll V V |
+  1
+):-+:' {rn {nmfg {nkgh |
+  1
+,+->687+r<*-): {rn oqhoonlnmknknmjhgij roqliinknihjgmnlhgmk roqnfigjoklkfngmikfl rnqmmkikihffnkhljl:roni n riqnmlmllffjhlihikg:ronh V V |
+  1
+:;8: {njmn {nknh {nlom {nlif {nkgg 90-(>-; |
+  1
+9><: {nkgf {nkfo {nlon {l {rn {nkfn 90-(>-; ,6183: |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnlj lo |
+  1
+/061+ {rn oqhoonlnmknknmjhgij roqlnifmfohgjnogljng roqnfigjoklkfngmikfl |
+  1
+):-+:' {rn {nlhn {nkfl |
+  1
+,+->687+r<*-): {rn roqinmmokhjnmfkilgif roqlnifmfohgjnogljil oqhghkoniooiffjilkk roqhfffffffommnjnonk rnqlkhnnnkhjoholjjf:roni roqioooooonlolhfgjlk V V |
+  1
+<0:;8: {rn {nknf {nknf {nkfk {nkfj 90-(>-; {nloh {rn |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlog mk |
+  1
+/3>1:r,*-9><: {rn rnqlffioilnnllofli roqlnifmfohgjnogljil oqnfigjoknoimnlokfl roqioooooonlolhfgjih rmqkkfmflgnhglffjf:ronh oqhfffffffommnjnokh oqhfffffffommnjnokh nqlkhnnnkhjoholjih:roni oqioooooonlolhfgjih 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnkn nmohigh |
+  1
+/061+ {rn roqhnlmomnfjlhimmgkm oqjnfigjnmoknlmokif oqhnnijljnjoiikfomm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnkm ngohiml |
+  1
+:336/,:r<*-): {rn roqinmmokhjhkmfgjjol nqkjkhmkkihomjjjgi oqginmmokingknmkif oqhffffffgjkiioolgm rnqljljglfjjlkohlom:ronj roqioooooonflhgiinmn o oqofgkmjnfigjolflhkg rmqmmokkiokfmjolnln:roni n Y o Y nqjhohfilmihfkgfgl |
+  1
+,+->687+r<*-): {rn rnqnjnjhkgllmfifhkm roqknjljkmhlnlnfmnhj oqkjiifmggkjmilnimf oqhffffffgjkiioomjf nqlkhnnnkhlnmfogmf:roni oqioooooonflhgiinjk Y rnqkiijlhohflmiofii Y nqoihfnjoknmgmimgm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnjh hgio |
+  1
+/061+ {rn rmqommfijggnfnkhiim roqknjljkmhlnlnfmnhj roqnfigjoklkfngmikkg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnjg hgim |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlml glk |
+  1
+):-+:' {rn {nlml {nkfg |
+  1
+:336/,:r<*-): {rn rmqgnifmfnfkgmojhfm oqjiggfhifjlhmonjmf mqmglkikjohgojgjhl oqioooooonflhgiingg mqkkfmflfmkiofflon:ronh roqhffffffgjkiioollh roqlnkfioimknffmnk rjqloljggkhiggininl:ronh roqmlimmokgoohollfli nqooooooooooooooom V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnik mhgk |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlmg nkgi |
+  1
+9><: {nkff {nlog {nkhh {l {rn {njoo -:):-,:; ,6183: |
+  1
+300/ {rn {njon {nkfk {nlmg |
+  1
+<01:r,*-9><: {rn rnqlmghkonholhhkknh oqjiggfhifjlhmonjmf oqmffmnmjhjljogofkh roqioooooonflhgiinff rmqkkfmflfmkiofflmf:ronh oqhffffffgjkiioolmi oqnggfhilhkjnfjmgik lqngmnjloginlnhool:ronh oqnknhlmmggokmmolgk n V V o n oqmlimmokhmkkofkjlj 90-(>-; V V V V |
+  1
+<0:;8: {rn {nklg {nklg {nllj {nkkl 90-(>-; {nllo {rn |
+  1
+<0:;8: {rn {nklf {nklf {nlln {nkko -:):-,:; {njon {rn |
+  1
+:;8: {njmi {njom {njom {nlln {njol 90-(>-; |
+  1
+):-+:' {rn {nlll {njoj |
+  1
+:336/,:r<*-): {rn oqnhjnfihffjlgglkgm oqjiggfhifjlhmoning oqlflhoohiminojhjoh roqioooooonflhgijmgg rnqmmkikignlfhfikjk:roni roqhffffffgjkiiooffm roqlimmokhnhgmfofgfh rgqhggfkmghhmigjhlj:roni oqmhnijljjmogogginj n V V |
+  1
+:;8: {njoi {njoh {njoh {nllj {njog 90-(>-; |
+  1
+,+->687+r<*-): {rn rnqmomhjjfmoifhhjij oqhijhkgomojjofminh mqghhoohgfikimjijg o o rn V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nngl hlfl |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nngi nmohlfg |
+  1
+<0:;8: {rn {nlhj {nlkn {nljm {nkjn -:):-,:; {nkkg {rn |
+  1
+300/ {rn {rn {nkkh {nkfo |
+  1
+,+->687+r<*-): {rn rnqnjnjhkgllmfifhki nqjjlnkfiilghjfjml oqkjiifmggkjmilniml roqhffffffgjkiioomjf rnqlkhnnnkhlnmfogmf:roni roqioooooonflhgiinjk Y rnqoihfnjoknmgmimgm Y nqkiijlhohflmiofil |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnfo hfll |
+  1
+:;8: {njmf {nlhh {nlkl {nkkh {njnn 90-(>-; |
+  1
+/061+ {rn roqinmmokhjhkmfgjjol nqjjlnkfiilghjfjml oqginmmokingknmkiig |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnfn hfln |
+  1
+/061+ {rn rmqommfijggnfnkhihn nqjjlnkfiilghjfjmn roqnfigjoklkfngmikkg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nnfj hlff |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmog mfko |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmnm mflg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmmj ngji |
+  1
+/061+ {rn lqmkioilonkmmhmojn oqjiggfhifjlhmoniim lqkojjnnhnngkiomgj |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlih f |
+  1
+/3>1:r,*-9><: {rn roqinmmokhjhkmfgjknk roqknjljkmhlnlnfmnhj oqnlnmlljiiljhfiljh rnqmmkikihffnkhljl:roni n riqnmlmllffjhlihikg:ronh roqfffffffffffffffgf rnqmmkikihffnkhljlm:roni o 90-(>-;@) V V V V |
+  1
+<0:;8: {rn {nkoo {nkhi {nlho {nkil -:):-,:; {nkhh {rn |
+  1
+:;8: {njlo {nknn {nkik {nlho {njnm 90-(>-; |
+  1
+):-+:' {rn {nlhn {njnk |
+  1
+,+->687+r<*-): {rn rnqfmkjkohjkmmhmnim roqliinknihjgmnlhgif roqnfigjoklkfngmikfl nqmmkikihffnkhljl:roni rn iqnmlmllffjhlihikg:ronh V V |
+  1
+,+->687+r<*-): {rn rmqnghoohghnlihmlmn roqknjljkmhlnlnfmnhj roqnfigjoklkfngmikkg oqfffffffffffffffll nqmmkikihffnkhljmj:roni o V V |
+  1
+,+->687+r<*-): {rn rmqnghoohghnlihmlmn nqjjlnkfiilghjfjmn roqnfigjoklkfngmikkg oqfffffffffffffffll nqmmkikihffnkhljmj:roni o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmlj hfmh |
+  1
+/061+ {rn oqhfgjjilihojjojiim nqjjlnkfiilghjfjmj roqnfigjoklkfngmikkg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmlf hgih |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmjf ngik |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmif ngim |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmhj ngjj |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmhh nmohifo |
+  1
+/061+ {rn oqjnknnmlkkhlllhikn oqingnnomhollogohig nqfmjnjlfkollmgmkm |
+  1
+<0:;8: {rn {nkim {nkoo {nkol {nkhf 90-(>-; {nkhh {rn |
+  1
+300/ {rn {rn {nkim {nklj |
+  1
+,+->687+r<*-): {rn oqfimjfgljijohjmmf nqkjkhmkkikhfimjni roqlflhoohhfkjifjlnk roqhffffffghfhhkfllf riqnmlmllhjolkgoknk:ronh oqioooooonioloooifh V V |
+  1
+:;8: {njln {nkok {nkik {nkol {njng 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmgh mf |
+  1
+/061+ {rn roqinmmokhjnmfkilfnk nqkjkhmkkikhfimjni oqhghkoniooiffjilmm |
+  1
+,+->687+r<*-): {rn roqhkkhmihjjinkhgjkn oqingnnomhollogohml oqiggonoofkogkgojfi oqhfffffffommnjnoli kqglkmmgliogkkoimi:ronh oqioooooonlolhfgjji V V |
+  1
+,+->687+r<*-): {rn roqhnlmomnfjlhimmggi oqnmjfgklogklojgkfj oqhnnijljnjoiikgfff rnqmmkikihffnkhljlj:roni n riqnmlmllffjhlihigj:ronh V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmfk nhohilo |
+  1
+/061+ {rn roqhnlmomnfjlhimmggi oqingnnomhollogohml oqhnnijljnjoiikfomm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nmfg lh |
+  1
+/061+ {rn oqhoonlnmknknmjhgmn nqkjkhmkkikhfimjni roqnfigjoklkfngmikfl |
+  1
+,+->687+r<*-): {rn roqinmmokhjhnmlofll roqlnifmfohgjnogljil roqnfigjoklkfngmikfl oqfffffffffffffffll nqmmkikihffnkhljmj:roni o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nknk mh |
+  1
+9><: {njmm {hfh {nkkg {l {rn {njml 90-(>-; ,6183: |
+  1
+/3>1:r,*-9><: {rn roqinmmokhjignillllj roqlnifmfohgjnogljil roqoijinihgmfgmmnojm rnqmmkikihffnkhljl:roni n riqnmlmllffjhlihikg:ronh roqfffffffffffffffgf rnqmmkikihffnkhljlm:roni o 90-(>-;@) V V V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nloj lk |
+  1
+/061+ {rn rnqfmkjkohjkmmhmnim roqlnifmfohgjnogljil roqnfigjoklkfngmikfl |
+  1
+<0:;8: {rn {nkfk {nkfk {nknf {nkfj -:):-,:; {nkli {rn |
+  1
+:;8: {njlm {njmk {njmk {nknf {njmj 90-(>-; |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlnj hfmf |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlnf hgin |
+  1
+/061+ {rn rlqnlnggfgnfonfhflj oqjiggfhifjlhmonjmf mqokhmkkomhhljjnhf |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nklj mi |
+  1
+/3>1:r,*-9><: {rn roqinmmokhjignillllj nqkjkhmkkikhfimjnk roqoijinihgmfgmmnojm rnqmmkikihffnkhljl:roni n riqnmlmllffjhlihikg:ronh roqfffffffffffffffgf rnqmmkikihffnkhljlm:roni o 90-(>-;@) V V V V |
+  1
+300/ {rn {rn {nklf {nlmg |
+  1
+):-+:' {rn {nkko {njmh |
+  1
+:336/,:r<*-): {rn rnqlffioilnklfgjklj oqjiggfhifjlhmonjmf oqlflhoohiminojhkng oqioooooonflhgiinff mqkkfmflfmkiofflml:ronh roqhffffffgjkiioolmi oqnggfhilhkjnfjmgik lqngmnjloginlnhool:ronh oqnknhlmmggokmmolgk n V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlll mlog |
+  1
+/061+ {rn roqnghoohfngmfomikik oqjiggfhifjlhmonjmf oqiijljklnkifnkiokj |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkkl glj |
+  1
+):-+:' {rn {nkkl {njmg |
+  1
+:336/,:r<*-): {rn rnqlffioilnklfgjkk oqjiggfhifjlhmonjmf oqlflhoohiminojhkng roqioooooonflhgiingg rmqkkfmflfmkiofflon:ronh oqhffffffgjkiioollh roqlnkfioimknffmnk rjqloljggkhiggininl:ronh roqmlimmokgoohollfli nqooooooooooooooom V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlli hlfi |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlkm hflk |
+  1
+,+->687+r<*-): {rn roqohmglkignjimhljkmi nqjjlnkfiilghjfjml oqkjiifmggkjmilnjf roqhffffffgjkiioomhn riqnmlmlliffogijjog:ronh oqioooooonflhgiinjk Y rnqkiijlhohflmiofin Y nqoihfnjoknmgmimhh |
+  1
+,+->687+r<*-): {rn roqinmmokhjhnmlofll nqkjkhmkkikhfimjnk roqnfigjoklkfngmikfl roqfffffffffffffffll rnqmmkikihffnkhljmj:roni o V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlhn lf |
+  1
+/061+ {rn rnqfmkjkohjkmmhmnim nqkjkhmkkikhfimjnk roqnfigjoklkfngmikfl |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlhk ng |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nlhi nh |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkon mg |
+  1
+,+->687+r<*-): {rn roqinmmokhjnmfkilfnk nqkjkhmkkikhfimjni oqhghkoniooiffjilmm roqhfffffffommnjnonk rnqlkhnnnkhjoholjjf:roni roqioooooonlolhfgjlk V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkoj nmohigg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkog nmohigf |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nknl ko |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkfo g |
+  1
+/3>1:r,*-9><: {rn roqinmmokhjhkmfgjknk nqjjlnkfiilghjfjml oqnlnmlljiiljhfiljh rnqmmkikihffnkhljl:roni n riqnmlmllffjhlihikg:ronh roqfffffffffffffffgf rnqmmkikihffnkhljlm:roni o 90-(>-;@) V V V V |
+  1
+):-+:' {rn {nkfj {njll |
+  1
+:336/,:r<*-): {rn rnqlojnngnkmkkmjlfl oqjiggfhifjlhmonjmf oqmihhnijlfiflhmiii roqioooooonlolhfgjji rmqkkfmflgnhglffjif:ronh oqhfffffffommnjnokh oqnggfhilhjikmghigk lqngmnjlofohnhlgll:ronh oqnknhlmmgijkkkoimg oqfffffffffffffffgf V V |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkko nkgf |
+  1
+/061+ {rn rnqmnoimfflfghfonj oqjiggfhifjlhmonjmf oqjljkllojoijmhhhg |
+  1
+/061+ {rn rnqhnkjiiflgjfhhjhl oqjiggfhifjlhmonjmf oqnjhkgomgmjkomlkgl |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkjn hfmg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkil lg |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkhf lm |
+  1
+6;r+,3r>++-6= {rn {rn {rn {nkfj nhfn |
+  1
+/061+ {rn rnqkfkofkjngogjknjj oqjiggfhifjlhmonjmf oqnmjfgkmjlnkflmokf |
+  1
+Z1;r09r^ \VLr;>+> 
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+C
+330
+0
+100
+AcDbDictionary
+281
+     1
+  3
+ACAD_GROUP
+350
+D
+  3
+ACAD_LAYOUT
+350
+1A
+  3
+ACAD_MLEADERSTYLE
+350
+49
+  3
+ACAD_MLINESTYLE
+350
+17
+  3
+ACAD_PLOTSETTINGS
+350
+19
+  3
+ACAD_PLOTSTYLENAME
+350
+E
+  3
+ACAD_TABLESTYLE
+350
+48
+  3
+ACAD_VISUALSTYLE
+350
+2A
+  0
+DICTIONARY
+  5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Layout1
+350
+1E
+  3
+Layout2
+350
+26
+  3
+Model
+350
+22
+  0
+DICTIONARY
+  5
+49
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Standard
+350
+18
+  0
+DICTIONARY
+  5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+ACDBDICTIONARYWDFLT
+  5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+  0
+DICTIONARY
+  5
+48
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+2A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+2dWireframe
+350
+2F
+  3
+3D Hidden
+350
+31
+  3
+3dWireframe
+350
+30
+  3
+Basic
+350
+32
+  3
+Brighten
+350
+36
+  3
+ColorChange
+350
+3A
+  3
+Conceptual
+350
+34
+  3
+Dim
+350
+35
+  3
+Facepattern
+350
+39
+  3
+Flat
+350
+2B
+  3
+FlatWithEdges
+350
+2C
+  3
+Gouraud
+350
+2D
+  3
+GouraudWithEdges
+350
+2E
+  3
+Linepattern
+350
+38
+  3
+Realistic
+350
+33
+  3
+Thicken
+350
+37
+  0
+LAYOUT
+  5
+1E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+ 76
+     0
+ 77
+     2
+ 78
+   300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+     1
+ 71
+     1
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1.000000000000000E+20
+ 24
+1.000000000000000E+20
+ 34
+1.000000000000000E+20
+ 15
+-1.000000000000000E+20
+ 25
+-1.000000000000000E+20
+ 35
+-1.000000000000000E+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1B
+  0
+LAYOUT
+  5
+26
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+   688
+ 72
+     0
+ 73
+     0
+ 74
+     5
+  7
+
+ 75
+    16
+ 76
+     0
+ 77
+     2
+ 78
+   300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout2
+ 70
+     1
+ 71
+     2
+ 10
+0.0
+ 20
+0.0
+ 11
+0.0
+ 21
+0.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+0.0
+ 24
+0.0
+ 34
+0.0
+ 15
+0.0
+ 25
+0.0
+ 35
+0.0
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+23
+  0
+LAYOUT
+  5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+  1
+
+  2
+none_device
+  4
+
+  6
+
+ 40
+0.0
+ 41
+0.0
+ 42
+0.0
+ 43
+0.0
+ 44
+0.0
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+  1712
+ 72
+     0
+ 73
+     0
+ 74
+     0
+  7
+
+ 75
+     0
+ 76
+     0
+ 77
+     2
+ 78
+   300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+     1
+ 71
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+12.0
+ 21
+9.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1.000000000000000E+20
+ 24
+1.000000000000000E+20
+ 34
+1.000000000000000E+20
+ 15
+-1.000000000000000E+20
+ 25
+-1.000000000000000E+20
+ 35
+-1.000000000000000E+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+     0
+330
+1F
+331
+29
+  0
+MLINESTYLE
+  5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+  2
+Standard
+ 70
+     0
+  3
+
+ 62
+   256
+ 51
+90.0
+ 52
+90.0
+ 71
+     2
+ 49
+0.5
+ 62
+   256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+   256
+  6
+BYLAYER
+  0
+ACDBPLACEHOLDER
+  5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+  0
+VISUALSTYLE
+  5
+2F
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+2dWireframe
+ 70
+     4
+ 71
+     0
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+31
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+3D Hidden
+ 70
+     6
+ 71
+     1
+ 72
+     2
+ 73
+     2
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     2
+ 91
+        2
+ 64
+     7
+ 65
+   257
+ 75
+     2
+175
+     1
+ 42
+40.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     3
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+30
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+3dWireframe
+ 70
+     5
+ 71
+     0
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+32
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Basic
+ 70
+     7
+ 71
+     1
+ 72
+     0
+ 73
+     1
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     0
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+36
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Brighten
+ 70
+    12
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+50.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+3A
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+ColorChange
+ 70
+    16
+ 71
+     2
+ 72
+     2
+ 73
+     3
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     8
+421
+  8421504
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     8
+424
+  8421504
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+34
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Conceptual
+ 70
+     9
+ 71
+     3
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     2
+ 91
+        2
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+40.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     3
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+35
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Dim
+ 70
+    11
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+-50.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+39
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Facepattern
+ 70
+    15
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+2B
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Flat
+ 70
+     0
+ 71
+     2
+ 72
+     1
+ 73
+     1
+ 90
+        2
+ 40
+-0.6
+ 41
+30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     0
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+2C
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+FlatWithEdges
+ 70
+     1
+ 71
+     2
+ 72
+     1
+ 73
+     1
+ 90
+        2
+ 40
+-0.6
+ 41
+30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+2D
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Gouraud
+ 70
+     2
+ 71
+     2
+ 72
+     2
+ 73
+     1
+ 90
+        2
+ 40
+-0.6
+ 41
+30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     0
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+2E
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+GouraudWithEdges
+ 70
+     3
+ 71
+     2
+ 72
+     2
+ 73
+     1
+ 90
+        2
+ 40
+-0.6
+ 41
+30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        0
+ 66
+   257
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+38
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Linepattern
+ 70
+    14
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     7
+175
+     7
+ 42
+1.0
+ 92
+        8
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+33
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Realistic
+ 70
+     8
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        0
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+        8
+ 66
+     8
+424
+  7895160
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+       13
+ 44
+0.0
+173
+     0
+291
+     0
+ 45
+0.0
+  0
+VISUALSTYLE
+  5
+37
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+  2
+Thicken
+ 70
+    13
+ 71
+     2
+ 72
+     2
+ 73
+     0
+ 90
+        0
+ 40
+-0.6
+ 41
+-30.0
+ 62
+     5
+ 63
+     7
+421
+ 16777215
+ 74
+     1
+ 91
+        4
+ 64
+     7
+ 65
+   257
+ 75
+     1
+175
+     1
+ 42
+1.0
+ 92
+       12
+ 66
+     7
+ 43
+1.0
+ 76
+     1
+ 77
+     6
+ 78
+     2
+ 67
+     7
+ 79
+     5
+170
+     0
+171
+     0
+290
+     0
+174
+     0
+ 93
+        1
+ 44
+0.0
+173
+     0
+291
+     1
+ 45
+0.0
+  0
+ENDSEC
+  0
+EOF

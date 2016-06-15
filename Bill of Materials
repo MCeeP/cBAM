@@ -1,0 +1,87 @@
+Bill of materials
+cBAM v.2.0
+
+Document version: 1.0
+Issue date: 14/06/15
+
+
+Current BOM
+==================
+
+Raspberry Pi
+--------------
+Make: Raspberry Pi
+Model: BRaspberry Pi 2 Model B
+Supplier: Element14
+Order number: RASPBERRYPI-2-MODB-1GB 
+Cost: £28.34
+
+Camera
+--------------
+Make: Raspberry Pi Camera Board
+Model: Raspberry Pi Camera Board, Version 2
+Supplier: Element14
+Order number: RPI 8MP
+Cost: £20.75
+
+Polarising lens
+--------------
+Make: Edmund
+Model: 50 x 50mm, 0.75mm Thickness, Polarizing Laminated Film
+Supplier: Edmund Optics
+Order number: 86-186
+Cost: £18,00
+
+Laser
+--------------
+Make: SP3 Plus
+Model: <1mW, Class 2  Green Laser Mini Module
+Supplier: SP3 Plus
+Order number: SP41
+Cost: £67.00
+
+Bubble level
+--------------
+Make: Desmond
+Model: 8mm Disc Bubble Spirit Level
+Supplier: Amazon.co.uk
+Order number: - 
+Cost: £3.56
+
+
+
+NOT YET INCLUDED
+==================
+
+Motors
+--------------
+Make: GeeeTech
+Model: 5V 4-Phase 5-Wire Stepper Motor
+Supplier: GeeeTech
+Order number: 700-001-0186
+Cost: £3.93
+
+XYZ accelerometer
+--------------
+Make: SparkFun
+Model: Triple Axis Accelerometer Breakout
+Supplier: SparkFun
+Order number: ADXL345
+Cost: £11.93
+
+Focusing lens
+--------------
+Make:
+Model:
+Supplier:
+Order number:
+Cost: 
+
+Pin hole
+--------------
+Make:
+Model:
+Supplier:
+Order number:
+Cost: 
+
